@@ -13,8 +13,8 @@
 
 1. __(<P> /P>)__ Paraqraf teqidir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
 2. __(<span>/span>)__ span ise butov bir setri tutmur ve yanasi gelir. 
-3. __(<h1>/h1>, <h2>/h2>, <h3>/h3>, <h4>/h4>, <h5>/h5>, <h6>/h6>)__  bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
-4. __(<div>bir nece qrupun birlesmesi/div>)__ divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
+3. _<h1>/h1>, <h2>/h2>, <h3>/h3>, <h4>/h4>, <h5>/h5>, <h6>/h6>)__  bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
+4. _<div>bir nece qrupun birlesmesi/div>)__ divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
 5. __(<img src="" alt="sekilin adi fln">)__ bu img ile sekil yukleye bilerik burada src sekilin saxlandigi yer alt ise sekil haqqinda nese yaza bilerik.
 6. __()__
 ________________________________________________________________________________________________________________________________________
