@@ -15,7 +15,7 @@
 2. span --> span ise butov bir setri tutmur ve yanasi gelir. 
 3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> -->  bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
 4.  div-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
-5. img src="" alt="sekilin adi fln" -->bu img ile sekil yukleye bilerik burada src sekilin saxlandigi yer alt ise sekil haqqinda nese yaza bilerik.
+5. __img src="" alt="sekilin adi fln" width="50")__ -->bu img ile sekil yukleye bilerik burada src sekilin saxlandigi yer alt ise sekil haqqinda nese yaza bilerik. img olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (__width="")__ ifadeden isdifade edilir. Dediyimiz kimi ikcur olcu vere bilerik. Faizle verdikde __(width="50%")__ bele pikselle verdikde ise __(width="50px")__ kimi ifade edilir
 6. __()__
 ________________________________________________________________________________________________________________________________________
 0                                                     __(Bezi acar simvollar)__
