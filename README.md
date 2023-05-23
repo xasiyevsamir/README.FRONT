@@ -4,7 +4,7 @@
 
 ---
 
-0 **(head)**
+# **(head)**
 
 - **(<head> /head>)** head teqi sehvenin basligini yazmaq ucundur.head teqinin icersinde sorc axdaris yazila biler yeni acar sozler head teqinde yazilir. head teqinin daxilinde de teqler yazilir. mes: basliqi adlandirmaq ucun ve s.onlar asagidakilardir.
 
