@@ -15,7 +15,7 @@
 
 ---
 
-0 **(body)**
+# **(body)**
 
 - body --> body teqi ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body teqinde yazilir. Mes: burada bis salam sozunu yazdiq.body teqininde icersinde de bir cox teqler var meselen bunlar asagidakilardir.
 
