@@ -11,16 +11,16 @@
 1.  **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
     **(<head><title>Kontakhome </title> </head>)** beledir.
 
-2.  link rel="icon" href="" >>>> bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burada rel(icon)--relin icon oldugunu ve href("")-ise iconun adresini bildirir.
+2.  **link rel="icon" href=""** >>>> bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burada rel(icon)--relin icon oldugunu ve href("")-ise iconun adresini bildirir.
 
 ---
 
 # **(body)**
 
-- body --> body teqi ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body teqinde yazilir. Mes: burada bis salam sozunu yazdiq.body teqininde icersinde de bir cox teqler var meselen bunlar asagidakilardir.
+0. **body** --> body teqi ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body teqinde yazilir. Mes: burada bis salam sozunu yazdiq.body teqininde icersinde de bir cox teqler var meselen bunlar asagidakilardir.
 
-1. P --> Paraqraf teqidir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
-2. span --> span ise butov bir setri tutmur ve yanasi gelir.
+1. **P** --> Paraqraf teqidir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
+2. **span** --> span ise butov bir setri tutmur ve yanasi gelir.
 3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
 4. **div)**-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
 5. **img src="" alt="sekilin adi fln" width=(seklin eni demekdir)"50% ve ya 50px" height=(seklin hundurluyu demekdir)"80" title="Kontak-Home)** -->bu img ile sekil yukleye bilerik burada src sekilin saxlandigi yer alt ise sekil haqqinda nese yaza bilerik. img olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (**width="")** ifadeden isdifade edilir. Dediyimiz kimi ikcur olcu vere bilerik. Faizle verdikde **(width="50%")** bele pikselle verdikde ise **(width="50px")** kimi ifade edilir.Biz burada seklin hundurluyunu de artira bilerik lakin seklin effektliyi ite biler. Qeyd: eger biz seklin eni ve hundurluyunu artirib azaldanda % ve px yazmasaq defult olaraq px(piksel qebul edir).Burada **(title="Kontak-Home)** atribut var bu ise seklin uzerine getdikde kontak-home sozunu cixardir. **(title)** atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
