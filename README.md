@@ -11,7 +11,7 @@
 1.  **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
     **(<head><title>Kontakhome </title> </head>)** beledir.
 
-2.  **link rel="icon" href=""** >>>> bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burada rel(icon)--relin icon oldugunu ve href("")-ise iconun adresini bildirir.
+2.  **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
 
 ---
 
@@ -35,12 +35,13 @@
 
 ---
 
-0 **(KECIDLER)**
+# **(KECIDLER)**
+
 **Qeyd:)** Kecidler iki cur olur seyfe daxili ve seyfe xarici . Seyfe daxili kecidler hal-hazirda oldugun seyfenin her hansi bir noqtesine gedise deyilir Mes: 100 setrlik melumatin 20 setrine gedis. Seyfe daxili kecidler ise basqa seyfelere yonlendirmekdi meselen kilik etdikde isdagrama ,watsaba, ve eyni seyfenin daxilinde basqa bir seyfeye kecid adlanir.
 **(Qeyd:)** Kecit etmek ucun **(a teqinden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))** .Ve Acilib baglanan teqdir.
 
 1. **<a href="#">kecid et</a>)** burada a teqini yazmisiq yeni xarici kecid **href)** bos olduqda reslef edir yeni seyfeni yeniliyir #
-   yazdiqda seyfe daxilinda dayanir ve her hansi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada **target)** atributu var ki biz a teqine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. **a)** teqi ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.
+   yazdiqda seyfe daxilinda dayanir ve her hansi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada **target)** atributu var ki biz a teqine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq \_self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. **a)** teqi ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.
 2. **a href="tel:+994516687023">Zeng et</a)** bu cur yazilisdan isdifade etmek olar. Burada **tel:)** acar sozdur.
 3. **a href="mailto:samirakh@code.edu.az">gmail ile elaqe saxla</a>)** bu cur yazilisdan isdifade etmek olar. Burada **mailto:)** acar sozdur.
 4. **a href="../Sekil/download.png" download> neyise yuklemek ucun dowload </a>)** bu kodla ise nelerise yukluye bilerik.
