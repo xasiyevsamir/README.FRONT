@@ -75,7 +75,7 @@
 
 ---
 
-0 **(Formlar)**
+# **(Formlar)**
 
 1. **form)** bu forum her hansi bir datani icine yazmagimizi teskil edir.
 2. **input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"))** form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (submit-- hazir olan melumati gondermek ucun olan bir duymedir.), (password--ise password daxil etmek ucundur.), (number- ise yalniz reqem tipli datalar yazmaq ucundur.), (color- ise reng secimini etmek olar.) , (date-tarixi secmek ucun isdifade edilir), (time-saati secmek ucun isdifade edilir), (datetime-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(week-yalniz hefdeni secmek ucundur), (month- yalniz aylari secmek ucundur.), (checkbox--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada radio ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (file --ise sekil elave etmek ucundur.) (search--axdaris ucun isdifade edilir.) (range- bu ise azalib artma oxudur.), (image --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (reset--doldurulan formu sifirlamaq ucundur.) (hidden-- isdifadecin id gizletmek ucundur)
@@ -88,7 +88,7 @@
 
 ---
 
-0 **(Bezi acar simvollar)**
+# **(Bezi acar simvollar)**
 
 1. ./ --> Hal-hazirda oldugumuz qovlugu bildirir.
 2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
