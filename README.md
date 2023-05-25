@@ -48,7 +48,7 @@
 
 ---
 
-0 **(Listler)**
+# **(Listler)**
 
 1. Listler iki cur olur. Sirali ve sirasiz.Sirasiz listler ucun ferq etmir birinci ile axrincinin yerini deyissek.Lakin sirali lislerde ise tam eksidir onlarda birinci gelen birinci axrinci gelen ise axrinci olmalidir ve sirali reqemler a-z ve ya A-Z siralanir ve rum reqemleri ilede siralana biler.
 2. **ul> </ul>)** bu sirasiz listleri yazmaq ucundur ve icersinde li-lerden isdifade edilir ve eger li-lerinde ul-lari olarsa li-lerin icersinde yazilir. **ul type="disc", type="cricle", type="Square" ,type="none")** tayplarri var ve burada (disc ici dilu dayre) , (cricle ise ici bos cevredir) , (Square ise ici dolu kvadiratdir), (none ise hec bir cevre ve ya kvadirat gorunmesin.)
@@ -58,7 +58,7 @@
 
 ---
 
-0 **Tebillar-cedveller)**
+# **Tebillar-cedveller)**
 
 1. **caption)** cedvelin basligini yazmaq ucundur.
 2. **table border="1")** tebillar setrlerden ibaret olur setrlerde sutunlardan ibaret olur. Burada border kanarliq demekdir ve 1 daxil etdikde 1 px cercive duzeldir.
