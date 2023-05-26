@@ -88,9 +88,26 @@
 
 ---
 
-# **Atributlar**
+# **(Atributlar)**
 
-1. salam
+1. **value** -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
+2. **placeholder**--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.
+3. **disabled** --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir.
+4. **readonly** --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz.
+5. **selected** --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir.
+6. **maxlength** --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
+7. **mixlength** --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
+8. **required** --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir.
+9. **autofocus** --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.
+10. **input type=number** olduqda onum **max** ve **min** **step=10** qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.
+11. **input type=date** olduqda **max=23-05-26 min=2023-6-01** burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin.
+12. **input type=checkbox** olduqda **checked** atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olara secili gosderecek biz deyisene qeder.
+13. **input type=file** olduqda 1 fail secmek ucundur ama **multiple** atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve **accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"** yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa **input type=file multiple accept="image/png,image/jpeg"** sece bilerik.Qeyd: Eger biz **video** yuklesek onda **image** yerine **video** yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur.
+14. **input type=range** de min ve max var.
+15. **forum autocomplete="on ve ya off"** bu atribu ise **on** olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq **on**-dur,ekis halda ise off etmek lazimdir.
+16. **form action="link ve yaxud ne isdesen qos"**-- bu atribut ise foruma goder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
+
+---
 
 # **(Bezi acar simvollar)**
 
