@@ -107,8 +107,6 @@
 15. **forum autocomplete="on ve ya off"** bu atribu ise **on** olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq **on**-dur,ekis halda ise off etmek lazimdir.
 16. **form action="link ve yaxud ne isdesen qos"**-- bu atribut ise foruma goder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
 
-    <a href="mailto:xasiyevsamir303@gmail.com">gonder</a>
-
 ---
 
 # **(Bezi acar simvollar)**
