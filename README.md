@@ -88,7 +88,7 @@
 
 ---
 
-# \*_Atributlar_
+# **Atributlar**
 
 1. salam
 
