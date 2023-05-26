@@ -27,11 +27,11 @@
    Buradda **title="Kontak-Home)** bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. **(title)** atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
 6. **u)** bu teq daxil etdiyimiz sozun altindan xet cekir.
 7. **i)** bu teq ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
-8. **em)** bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderdir.
+8. **em)** bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderdir.Yeni burazerde daha yaxsi basa dusur i teqine nisbeten.
 9. **s)** bu teq ise sozun uzerinden xett cekir.
 10. **del)** bu teqde s teqi ile eynidir.
 11. **b)** bu teq sozu daha qalin yazdirir.
-12. **strong)** bu teqde b teqi ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.
+12. **strong)** bu teqde b teqi ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b teqine nisbeten.
 
 ---
 
@@ -68,7 +68,7 @@
 5. **thead)** bu code ile biz cedvelimizde ad soyad v s. ne olacaqsa onlari qeyd edirik .Bunun icerisindede tr yeni setrler ve sutunlar td ile deyil th ile qeyd edilir.
 6. **tbody)** bu ise cedvelin govde hissesini yaziriq.
 7. **tfoot)** bu ise cedvelin yekunda bir qiymeti olarsa onu qeyd edirik,yeni toplami ve ya ortalamasi ve s.
-8. **colspan)** bu kodla biz isdenilen sutunlari birlaesdire bilerik.
+8. **colspan)** bu kodla biz isdenilen sutunlari birlesdire bilerik.
 9. **align="center")** bu kod ile ise biz isdenilen cedveldeki sozu sentire getre bilerik.
 10. **rowspan)** bu kod ise setrleri birlesdirmek ucundur.
 11. **bgcolor)** cedvelin arxa fonunu deyismek ucun isdifade edilir.
@@ -78,7 +78,7 @@
 # **(Formlar)**
 
 1. **form)** bu forum her hansi bir datani icine yazmagimizi teskil edir.
-2. **input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"))** form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (submit-- hazir olan melumati gondermek ucun olan bir duymedir.), (password--ise password daxil etmek ucundur.), (number- ise yalniz reqem tipli datalar yazmaq ucundur.), (color- ise reng secimini etmek olar.) , (date-tarixi secmek ucun isdifade edilir), (time-saati secmek ucun isdifade edilir), (datetime-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(week-yalniz hefdeni secmek ucundur), (month- yalniz aylari secmek ucundur.), (checkbox--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada radio ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (file --ise sekil elave etmek ucundur.) (search--axdaris ucun isdifade edilir.) (range- bu ise azalib artma oxudur.), (image --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (reset--doldurulan formu sifirlamaq ucundur.) (hidden-- isdifadecin id gizletmek ucundur)
+2. **input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"), button)** form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (**submit**-- hazir olan melumati gondermek ucun olan bir duymedir.), (**password**--ise password daxil etmek ucundur.), (**number**- ise yalniz reqem tipli datalar yazmaq ucundur.), (**color**- ise reng secimini etmek olar.) , (**date**-tarixi secmek ucun isdifade edilir), (**time**-saati secmek ucun isdifade edilir), (**datetime**-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(**week**-yalniz hefdeni secmek ucundur), (**month**- yalniz aylari secmek ucundur.), (**checkbox**--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada **radio** ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (**file** --ise sekil elave etmek ucundur.) (**search**--axdaris ucun isdifade edilir.) (**range**- bu ise azalib artma oxudur.), (**image** --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (**reset**--doldurulan formu sifirlamaq ucundur.) (**hidden**-- isdifadecin id gizletmek ucundur), (**button** da submit ile eynidir yeni her hansi duymedir ve bunlar forumda bas veren hadiseleri bazaya ve ya basqa yere gondermek ucundur.) .Adi butondan ferqlidirler adi button forumun daxilinde deyil basqa kenar hisselerede olur. **button>Gonder/button>** kimi yazilir.
 3. **label)** inputun basligini yazmaq ucundur mes:Ad, Soyad.
 4. **textarea)** boyuk metin yazmaq ucundur.
 5. **select)** secimleri saxlamaq ucundur her bir secim option-da saxlanilir.Yeni selectlerin icinde option yazilir option icinde ise optgroup yazilir.
@@ -88,8 +88,13 @@
 
 ---
 
+# \*_Atributlar_
+
+1. salam
+
 # **(Bezi acar simvollar)**
 
 1. ./ --> Hal-hazirda oldugumuz qovlugu bildirir.
 2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
 3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.
+4. Prettier Code--codu formata salir.Yuklemek ucundur.
