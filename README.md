@@ -32,6 +32,8 @@
 10. **del)** bu teqde s teqi ile eynidir.
 11. **b)** bu teq sozu daha qalin yazdirir.
 12. **strong)** bu teqde b teqi ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b teqine nisbeten.
+13. **details** -bu teq ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve **summary** teqi ile isleyir yeni 1ci sual yazmaq isdesek **summary sual1 summary** yazmaliyiq.
+14. **address** - bu teq ilede biz adresimizi yaza bilerik ve footer teqinin icinde address ve onun icindede a teqini yaza bilerik.
 
 ---
 
