@@ -118,8 +118,8 @@
 
 # **audio ve video**
 
-1. **audio controls, autoplay, loop, muted, >source src=""> audio>**- bu teq ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde **source** teqi olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.**controls** bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. **autoplay** ise vebe daxil olan kimi musiqi seslenir.**loop** ise sonsuz seslenmesi ucundur .**muted** bu atribut ise defolt olaraq ses olmasini bildirir.
-2. **video controls autoplay, loop, muted, poster="", >source src="" > video** --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi **poster** atributudur.**poster** atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.
+1. **audio (controls, autoplay, loop, muted,) >source src=""> audio>**- bu teq ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde **source** teqi olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.**controls** bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. **autoplay** ise vebe daxil olan kimi musiqi seslenir.**loop** ise sonsuz seslenmesi ucundur .**muted** bu atribut ise defolt olaraq ses olmasini bildirir.
+2. **video (controls autoplay, loop, muted, poster)="", >source src="" > video** --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi **poster** atributudur.**poster** atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.
 
 ---
 
@@ -130,10 +130,10 @@
 1. **header** -teqinin icersinde **nav** teqleri ve kecid ucun **a** teqlerinden isdifade olunur.
 2. **aside** -teqinin icersinde iframe yazila biler cunki **main** sehvesinden elave bir yer tutur ve buna misal olaraq oxu.az sayitindaki narin reklamini misal gosdere bilerik.
 3. **main** -teqinin icersinde **article**, **figure**, **p** ve **section** teqleri isdifade olunur burada section teqi evvelki div-i evez edir.
-   **section** -teqinin icerisindede cox vax bu **article** teqi yazilir.
-   **article** -teqinin icerisinde ise **figure**, **p** teqi ve s.yazilir.
-   **figure** -teqinin icerisinde **img** teqi ve sekil haqqinda melumat ucun **figcaption**teqi yazilir.
-4. **footer** - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.
+4. **section** -teqinin icerisindede cox vax bu **article** teqi yazilir.
+5. **article** -teqinin icerisinde ise **figure**, **p** teqi ve s.yazilir.
+6. **figure** -teqinin icerisinde **img** teqi ve sekil haqqinda melumat ucun **figcaption**teqi yazilir.
+7. **footer** - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.
 
 # **(Bezi acar simvollar)**
 
