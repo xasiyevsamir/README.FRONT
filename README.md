@@ -103,7 +103,7 @@
 9. **autofocus** --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.
 10. **input type=number** olduqda onum **max** ve **min** **step=10** qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.
 11. **input type=date** olduqda **max=23-05-26 min=2023-6-01** burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin.
-12. **input type=checkbox** olduqda **checked** atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olara secili gosderecek biz deyisene qeder.
+12. **input type=checkbox** olduqda **checked** atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder.
 13. **input type=file** olduqda 1 fail secmek ucundur ama **multiple** atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve **accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"** yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa **input type=file multiple accept="image/png,image/jpeg"** sece bilerik.Qeyd: Eger biz **video** yuklesek onda **image** yerine **video** yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur.
 14. **input type=range** de min ve max var.
 15. **forum autocomplete="on ve ya off"** bu atribu ise **on** olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq **on**-dur,ekis halda ise off etmek lazimdir.
@@ -143,3 +143,13 @@
 2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
 3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.
 4. Prettier Code--codu formata salir.Yuklemek ucundur.
+
+---
+
+# **CSS**
+
+**CSS-fayili .css kimi yaradilir.** - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.**CSS** 3 Cur html ile elaqendirmek olar.**1.inline>2.internal>3.external**
+
+1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe \*\*style="backgroud:red" bu cur vermekle olur.
+2.  **internal** --bu yol ise **head** icerisinde **style** teqi acaraq ve onun icerisinde teqe css verilir ve quvvetliyine gore 2ci yeri tutur.
+3.  **external** --bu yol ise **css** fayi yaradaraq html fayilindan basqa css fayilinda teqlere css vermekle bas verir ve quvvetliyine gore en zeyifidir.
