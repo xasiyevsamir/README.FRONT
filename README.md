@@ -186,13 +186,13 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-<b>4-cu yolu:</b> Bu yolda ise biz <b>nth-child(odd)</b> kodu ile yalniz tek <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.
+<b>4-cu yolu:</b> Bu yolda ise biz <b>nth-child(odd)</b> kodu ile yalniz tek <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.Tekleri yazdirmaq ucun basqa bir yol <b>nth-child(2n-1)</b> kodundan isdifade etmekle olacaqdir.Burada  <b>n</b> defolt olaraq qiymeti 0-dir.Qeyd: burada 2n+3 etsek 3-cuden basliyacaq rengi deyismeye.
 <p title="4-cu Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\cssodd.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice3.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-<b>5-cu yolu:</b> Bu yolda ise biz <b>nth-child(even)</b> kodu ile yalniz cut <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.
+<b>5-ci yolu:</b> Bu yolda ise biz <b>nth-child(even)</b> kodu ile yalniz cut <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.Cutderri yazdirmaq ucun basqa bir yol <b>nth-child(2n)</b> kodundan isdifade etmekle olacaqdir.Burada  <b>n</b> defolt olaraq qiymeti 0-dir.Qeyd: Burada 2n+4 etsek 4-cu elementden basliyacaq renglemeye.
 <p title="5-ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib"/>
