@@ -158,6 +158,6 @@
 6.  **ul li css reng mermek izahi.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek.
 <p>
  <img src="image\image1\ul li izah.png" width="100" height="100" alt="sekil silinib"/>
- <img src="image\image1\css code.png" width="100" height="100" alt="sekil silinib"/>
+ <img src="image\image1\css.png" width="100" height="100" alt="sekil silinib"/>
  <img src="image\image1\netice.png" width="100" height="100" alt="sekil silinib"/>
 </p>
