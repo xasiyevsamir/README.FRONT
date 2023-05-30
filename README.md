@@ -185,5 +185,4 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
-</p><br/>
-
+</p><br/><br/>
