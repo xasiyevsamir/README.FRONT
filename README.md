@@ -159,5 +159,5 @@
 <p>
  <img src="image\image1\ul li izah.png" width="100" height="100" alt="sekil silinib"/>
  <img src="image\image1\css code.png" width="100" height="100" alt="sekil silinib"/>
- <img src="Cimage\image1\netice.png" width="100" height="100" alt="sekil silinib"/>
+ <img src="image\image1\netice.png" width="100" height="100" alt="sekil silinib"/>
 </p>
