@@ -216,3 +216,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css7.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice8.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>href Atributunun sonu az ile bitrse</b> Onda asagidaki sekildeki kimi <b>$</b> isaresi ile yazilir.
+<p>
+ <img src="image\image1\sehve3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css8.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice9.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
