@@ -264,3 +264,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css15.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan teqin komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
+<p>
+ <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice16.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
