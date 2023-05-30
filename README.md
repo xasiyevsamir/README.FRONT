@@ -19,9 +19,7 @@
 
 4. **<script>** >>>> JavaScript kodunun <head> tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
 
-5. **<base>** >>>> Hər hansı bir <a> (keçid) elementi üçün təyinat URL-nin (baz URL) dəyişdirilməsinə imkan verir.
-
-6. **<style>** >>>> İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
+5. **<style>** >>>> İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
 
 Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.
 
@@ -110,7 +108,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 4. **readonly** --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz.
 5. **selected** --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir.
 6. **maxlength** --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
-7. **mixlength** --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
+7. **minlength** --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
 8. **required** --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir.
 9. **autofocus** --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.
 10. **input type=number** olduqda onum **max** ve **min** **step=10** qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.
@@ -118,8 +116,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 12. **input type=checkbox** olduqda **checked** atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder.
 13. **input type=file** olduqda 1 fail secmek ucundur ama **multiple** atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve **accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"** yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa **input type=file multiple accept="image/png,image/jpeg"** sece bilerik.Qeyd: Eger biz **video** yuklesek onda **image** yerine **video** yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur.
 14. **input type=range** de min ve max var.
-15. **forum autocomplete="on ve ya off"** bu atribu ise **on** olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq **on**-dur,ekis halda ise off etmek lazimdir.
-16. **form action="link ve yaxud ne isdesen qos"**-- bu atribut ise foruma goder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
+15. **form autocomplete="on ve ya off"** bu atribu ise **on** olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq **on**-dur,ekis halda ise off etmek lazimdir.
+16. **form action="link ve yaxud id"**-- bu atribut ise forma gonder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
 
 ---
 
