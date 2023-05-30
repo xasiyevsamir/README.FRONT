@@ -169,7 +169,6 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng vermek izahi 1.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
-<<<<<<< HEAD
 <p title="1-ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
@@ -187,7 +186,6 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-=======
 <p title="1ci yol">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
  <img src="image\image1\css.png" width="250" height="200" alt="css"/>
@@ -199,5 +197,3 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css1.png" width="250" height="200" alt="css1"/>
  <img src="image\image1\netice1.png" width="250" height="200" alt="netice1"/>
 </p><br/>
-
-> > > > > > > d6928e5d329581eab3d168999a8a8da85c27f0
