@@ -148,8 +148,8 @@
 
 <p align="center">
 <b >CSS</b>
-</p><br/>
-**CSS-fayili .css kimi yaradilir.** - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.**CSS** 3 Cur html ile elaqendirmek olar.**1.inline>2.internal>3.external**
+</p>
+<b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
 1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe **style="backgroud:red"** bu cur vermekle olur.
 2.  **internal** --bu yol ise **head** icerisinde **style** teqi acaraq ve onun icerisinde teqe css verilir ve quvvetliyine gore 2ci yeri tutur.
