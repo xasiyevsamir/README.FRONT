@@ -155,8 +155,8 @@
 3.  **external** --bu yol ise **css** fayi yaradaraq html fayilindan basqa css fayilinda teqlere css vermekle bas verir ve quvvetliyine gore en zeyifidir. Bu fayili **link rel="" herf=""** codu ile qosulur. 4.**!important** -- bu acar sozu biz hansi atributun qarsisina atsaq hemin atribut deyismiyecek mes: **color !important** yeni bu o demekdir biz hemin teqe basqa yerde colorunu deyissek deyismiyecek bir sozle import olunan coloru oldugu kimi saxliyacaq esas bu reng olsun kimi.
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
-6.  **ul li css reng mermek izahi.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek.
-<p>
+6.  **ul li css reng vermek izahi.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
+<p title="1ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
