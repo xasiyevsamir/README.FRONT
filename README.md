@@ -13,15 +13,15 @@
 1. **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
     **(<head><title>Kontakhome </title> </head>)** beledir.
 
-2. <meta>: Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
+2. **<meta>** >>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
 
 3. **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
 
-4. <script>: JavaScript kodunun <head> tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
+4. **<script>** >>>> JavaScript kodunun <head> tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
 
-5. <base>: Hər hansı bir <a> (keçid) elementi üçün təyinat URL-nin (baz URL) dəyişdirilməsinə imkan verir.
+5. **<base>** >>>> Hər hansı bir <a> (keçid) elementi üçün təyinat URL-nin (baz URL) dəyişdirilməsinə imkan verir.
 
-6. <style>: İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
+6. **<style>** >>>> İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
 
 Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.
 
