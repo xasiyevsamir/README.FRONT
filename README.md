@@ -169,38 +169,38 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng vermek izahi 1.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
-<p title="1-ci Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>2-ci yolu:</b> Bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
-<p title="2-ci Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>3-cu yolu:</b> Bu yolda ise isdediyimiz qeder <b>li</b> teqine reng vere bilerik .Ancaq bu <b>nth-child(sira daxil edin)</b> kodu yazmaliyiq ve <b>sira daxil edin</b> yerine reqem yaziriq. Mes: Sekilde biz <b>3-cu ve 5ci</b> li-ye reng vermek isdemisik.Asagidaki sekilden baxa bilerik.
-<p title="3-cu Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>4-cu yolu:</b> Bu yolda ise biz <b>nth-child(odd)</b> kodu ile yalniz tek <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.Tekleri yazdirmaq ucun basqa bir yol <b>nth-child(2n-1)</b> kodundan isdifade etmekle olacaqdir.Burada  <b>n</b> defolt olaraq qiymeti 0-dir.Qeyd: burada 2n+3 etsek 3-cuden basliyacaq rengi deyismeye.
-<p title="4-cu Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\cssodd.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice3.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\cssodd.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice3.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>5-ci yolu:</b> Bu yolda ise biz <b>nth-child(even)</b> kodu ile yalniz cut <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.Cutderri yazdirmaq ucun basqa bir yol <b>nth-child(2n)</b> kodundan isdifade etmekle olacaqdir.Burada  <b>n</b> defolt olaraq qiymeti 0-dir.Qeyd: Burada 2n+4 etsek 4-cu elementden basliyacaq renglemeye.
-<p title="5-ci Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>Bezi teqlere muraciyet.</b> Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
-<p title="6-ci Sekil">
- <img src="image\image1\sehve1.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice6.png" width="250" height="200" alt="sekil silinib"/>
+<p>
+ <img src="image\image1\sehve1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice6.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
