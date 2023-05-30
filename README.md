@@ -163,3 +163,8 @@
  <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
 <b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.
+<p title="1ci Sekil">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
