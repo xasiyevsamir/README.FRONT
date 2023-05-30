@@ -146,7 +146,7 @@
 
 ---
 
-# **CSS**
+<b>CSS</b>
 
 **CSS-fayili .css kimi yaradilir.** - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.**CSS** 3 Cur html ile elaqendirmek olar.**1.inline>2.internal>3.external**
 
