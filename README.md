@@ -156,6 +156,6 @@
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng mermek izahi.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek.
-    ![image olmasa burdaki yazi gorunecek bura nese istediyini yaz](image/image1/ul%20li%20izah.png)
+    !width="30px"[image olmasa burdaki yazi gorunecek bura nese istediyini yaz](image/image1/ul%20li%20izah.png)
     ![sekil silinib](image/image1/css%20code.png)
     ![sekil silinib](image/image1/netice.png)
