@@ -13,7 +13,7 @@
 1. **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
    **(<head><title>Kontakhome </title> </head>)** beledir.
 
-2. **<meta>** >>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
+2. **<meta>** >>>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
 
 3. **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
 
