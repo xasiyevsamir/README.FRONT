@@ -146,8 +146,8 @@
 
 ---
 
-<p>
-<b aign="center">CSS</b>
+<p align="center">
+<b >CSS</b>
 </p>
 **CSS-fayili .css kimi yaradilir.** - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.**CSS** 3 Cur html ile elaqendirmek olar.**1.inline>2.internal>3.external**
 
