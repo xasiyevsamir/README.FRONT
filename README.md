@@ -185,4 +185,10 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
-</p><br/><br/>
+</p><br/>
+<b>4-cu yolu:</b> Bu yolda ise biz <b>nth-child(odd)</b> kodu ile yalniz tek <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.
+<p title="4-cu Sekil">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\cssodd.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice3.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
