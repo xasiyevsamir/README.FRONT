@@ -198,3 +198,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
+<b>Bezi teqlere muraciyet.</b> Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
+<p title="6-ci Sekil">
+ <img src="image\image1\sehve1.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice6.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
