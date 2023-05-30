@@ -162,4 +162,9 @@
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.
+<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
+<p title="2ci Sekil">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
