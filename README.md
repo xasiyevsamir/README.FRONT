@@ -192,3 +192,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\cssodd.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice3.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
+<b>5-cu yolu:</b> Bu yolda ise biz <b>nth-child(even)</b> kodu ile yalniz cut <b>li-lere</b> reng vere bilerik.Asagidaki sekillerden tam aydin olacaq.
+<p title="5-ci Sekil">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
