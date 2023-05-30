@@ -157,7 +157,7 @@
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng mermek izahi.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek.
 <p>
- <img src="image\image1\ul li izah.png" width="33%" height="200" alt="sekil silinib"/>
- <img src="image\image1\css.png" width="33" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice.png" width="33" height="200" alt="sekil silinib"/>
+ <img src="image\image1\ul li izah.png" width="400" height="200" alt="sekil silinib"/>
+ <img src="image\image1\css.png" width="400" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice.png" width="400" height="200" alt="sekil silinib"/>
 </p>
