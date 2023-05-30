@@ -6,12 +6,25 @@
 
 # **(head)**
 
-- **(<head> /head>)** head teqi sehvenin basligini yazmaq ucundur.head teqinin icersinde sorc axdaris yazila biler yeni acar sozler head teqinde yazilir. head teqinin daxilinde de teqler yazilir. mes: basliqi adlandirmaq ucun ve s.onlar asagidakilardir.
+- **(<head> /head>)** Əsas HTML sənətinin <head> tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
-1.  **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
+<head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
+
+1. **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
     **(<head><title>Kontakhome </title> </head>)** beledir.
 
-2.  **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+2. **<meta>** >>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
+
+3. **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+
+4. **<script>** >>>> JavaScript kodunun <head> tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
+
+5. **<base>** >>>> Hər hansı bir <a> (keçid) elementi üçün təyinat URL-nin (baz URL) dəyişdirilməsinə imkan verir.
+
+6. **<style>** >>>> İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
+
+Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.
+
 
 ---
 
@@ -157,14 +170,17 @@
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng vermek izahi 1.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
-<p title="1ci Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
+<p title="1ci yol">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
+ <img src="image\image1\css.png" width="250" height="200" alt="css"/>
+ <img src="image\image1\netice.png" width="250" height="200" alt="netice"/>
 </p><br/>
 <b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
-<p title="2ci Sekil">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib"/>
- <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib"/>
+<p title="2ci yol">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
+ <img src="image\image1\css1.png" width="250" height="200" alt="css1"/>
+ <img src="image\image1\netice1.png" width="250" height="200" alt="netice1"/>
 </p><br/>
+
+
+
