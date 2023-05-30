@@ -161,4 +161,4 @@
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-__2ci yol)__ bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.
+<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.
