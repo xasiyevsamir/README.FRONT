@@ -204,3 +204,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice6.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>p .item</b>--Burada <bosluq>bosluq</bosluq> onem dasiyir. Bosluq qoyduqda o demek olur ki p teqinin icerisinde <b>class="item"</b> beraber olan teqe tesir et.
+<p>
+ <img src="image\image1\sehve2.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css6.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice7.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
