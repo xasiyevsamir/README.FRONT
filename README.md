@@ -60,7 +60,7 @@
 
 ---
 
-# **Tebillar-cedveller)**
+# **Tables-cedveller)**
 
 1. **caption)** cedvelin basligini yazmaq ucundur.
 2. **table border="1")** tebillar setrlerden ibaret olur setrlerde sutunlardan ibaret olur. Burada border kanarliq demekdir ve 1 daxil etdikde 1 px cercive duzeldir.
@@ -125,7 +125,7 @@
 
 ---
 
-# **Sehvenin bolunusu**
+# **Sehivenin bolunusu**
 
 **QEYD:** Sehve 3 yere bolunur **header**, **aside**, **main**, **footer**.
 
