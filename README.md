@@ -252,3 +252,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice114.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>(:hover) edende rengi deyisib olur red</b>.Asagidaki coda uygun olaraq.
+<p>
+ <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css14.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice14.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
