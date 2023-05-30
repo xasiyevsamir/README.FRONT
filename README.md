@@ -246,3 +246,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css12.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice13.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b> * yazdiqda ise butun teqlere ayid olur</b> .Asagidaki sekildeki kimi.
+<p>
+ <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice114.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
