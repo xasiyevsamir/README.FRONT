@@ -234,9 +234,15 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css10.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice11.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b> isenilen teqden sonra ilk gelen teqe tesir.</b> Burada <b>+</b> isaresi ile biz divden sonra ilk gelen teqe tesir etmisik sekilde baxa bilersiz.
+<b> isenilen teqden sonra ilk gelen teqe tesir.</b> Burada <b>+</b> isaresi ile biz divden sonra ilk gelen p teqe tesir etmisik sekilde baxa bilersiz.
 <p>
  <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css11.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice12.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b> isenilen teqden sonra gelen isdenilen teqe tesir.</b> Burada <b>~</b> isaresi ile biz divden sonra gelen butun p teqe tesir etmisik sekilde baxa bilersiz.
+<p>
+ <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css12.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice13.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
