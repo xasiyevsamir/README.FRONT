@@ -186,14 +186,4 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-<p title="1ci yol">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
- <img src="image\image1\css.png" width="250" height="200" alt="css"/>
- <img src="image\image1\netice.png" width="250" height="200" alt="netice"/>
-</p><br/>
-<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
-<p title="2ci yol">
- <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
- <img src="image\image1\css1.png" width="250" height="200" alt="css1"/>
- <img src="image\image1\netice1.png" width="250" height="200" alt="netice1"/>
-</p><br/>
+
