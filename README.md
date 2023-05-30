@@ -1,17 +1,29 @@
 # **(FRONT-GIRIS)**
 
-1.**(index.html)** Bu **html)** fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada **Index)** fayilin adidir ve **html)** ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: **MAIN.html ve ya samir.html)** .Lakin html fayili yaratmaq ucun **.html yazmaliyiq.Her bir html)** fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
+1.**(index.html)** Bu **(html)** fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada **(Index)** fayilin adidir ve **(html)** ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: **(MAIN.html ve ya samir.html)** .Lakin html fayili yaratmaq ucun **(.html yazmaliyiq.Her bir html)** fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
 
 ---
 
 # **(head)**
 
-- **(<head> /head>)** head teqi sehvenin basligini yazmaq ucundur.head teqinin icersinde sorc axdaris yazila biler yeni acar sozler head teqinde yazilir. head teqinin daxilinde de teqler yazilir. mes: basliqi adlandirmaq ucun ve s.onlar asagidakilardir.
+- **(<head> /head>)** Əsas HTML sənətinin <head> tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
-1.  **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
-    **(<head><title>Kontakhome </title> </head>)** beledir.
+<head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
 
-2.  **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+1. **(<title>Kontakhome </title>)** burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
+   **(<head><title>Kontakhome </title> </head>)** beledir.
+
+2. **<meta>** >>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
+
+3. **link rel="icon" href=""** >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar **Relative (Menasi-qohum, yaxinliq)** ve ya **Absolute (Menasi ise tamamile)**. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+
+4. **<script>** >>>> JavaScript kodunun <head> tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
+
+5. **<base>** >>>> Hər hansı bir <a> (keçid) elementi üçün təyinat URL-nin (baz URL) dəyişdirilməsinə imkan verir.
+
+6. **<style>** >>>> İnternal CSS stilsətirlərinin <head> tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
+
+Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.
 
 ---
 
@@ -22,9 +34,9 @@
 1. **P** --> Paraqraf teqidir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
 2. **span** --> span ise butov bir setri tutmur ve yanasi gelir.
 3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
-4. **div)**-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
-5. **img src="" alt="sekilin adi fln" width=(seklin eni demekdir)"50% ve ya 50px" height=(seklin hundurluyu demekdir) title="Kontak-Home)** -->bu img ile sekil yukleye bilerik burada **src** sekilin saxlandigi yer **alt** ise sekil haqqinda nese yaza bilerik. **img** olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (**width="")** ifadeden isdifade edilir. Dediyimiz kimi iki cur olcu vere bilerik. Faizle verdikde **(width="50%")** bele, pikselle verdikde ise **(width="50px")** kimi ifade edilir.Biz burada seklin hundurluyunu de artira bilerik lakin seklin effektliyi ite biler. Qeyd: Eger biz seklin eni ve hundurluyunu artirib azaldanda % ve px yazmasaq defult olaraq px(piksel qebul edir).
-   Buradda **title="Kontak-Home)** bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. **(title)** atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
+4. **(div)**-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
+5. **img src="" alt="sekilin adi fln" width=(seklin eni demekdir)"50% ve ya 50px" height=(seklin hundurluyu demekdir) title="(Kontak-Home)** -->bu img ile sekil yukleye bilerik burada **src** sekilin saxlandigi yer **alt** ise sekil haqqinda nese yaza bilerik. **img** olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (**width="")** ifadeden isdifade edilir. Dediyimiz kimi iki cur olcu vere bilerik. Faizle verdikde **(width="50%")** bele, pikselle verdikde ise **(width="50px")** kimi ifade edilir.Biz burada seklin hundurluyunu de artira bilerik lakin seklin effektliyi ite biler. Qeyd: Eger biz seklin eni ve hundurluyunu artirib azaldanda % ve px yazmasaq defult olaraq px(piksel qebul edir).
+   Buradda **(title="Kontak-Home)** bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. **(title)** atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
 6. **u)** bu teq daxil etdiyimiz sozun altindan xet cekir.
 7. **i)** bu teq ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
 8. **em)** bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderdir.Yeni burazerde daha yaxsi basa dusur i teqine nisbeten.
@@ -60,7 +72,7 @@
 
 ---
 
-# **Tebillar-cedveller)**
+# **Tables-cedveller)**
 
 1. **caption)** cedvelin basligini yazmaq ucundur.
 2. **table border="1")** tebillar setrlerden ibaret olur setrlerde sutunlardan ibaret olur. Burada border kanarliq demekdir ve 1 daxil etdikde 1 px cercive duzeldir.
@@ -125,7 +137,7 @@
 
 ---
 
-# **Sehvenin bolunusu**
+# **Sehivenin bolunusu**
 
 **QEYD:** Sehve 3 yere bolunur **header**, **aside**, **main**, **footer**.
 
@@ -157,6 +169,7 @@
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng vermek izahi 1.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
+<<<<<<< HEAD
 <p title="1-ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
@@ -174,3 +187,17 @@
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
+=======
+<p title="1ci yol">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
+ <img src="image\image1\css.png" width="250" height="200" alt="css"/>
+ <img src="image\image1\netice.png" width="250" height="200" alt="netice"/>
+</p><br/>
+<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
+<p title="2ci yol">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="ul li izah"/>
+ <img src="image\image1\css1.png" width="250" height="200" alt="css1"/>
+ <img src="image\image1\netice1.png" width="250" height="200" alt="netice1"/>
+</p><br/>
+
+> > > > > > > d6928e5d329581eab3d168999a8a8da85c27f0
