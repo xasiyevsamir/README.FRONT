@@ -157,14 +157,20 @@
 4.  **class** --teqleri ayirmaq ucun onlara **class** verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele **div class="div-class teqclass"** yazmaq olar .Burda bizim 2 classimiz var 1ci class **div-class** 2ci class ise **teqclass** -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar **.** ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
 5.  **id** --teqleri ayirmagin diger yolu ise id-dir. **div id="div-id"** burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id **#** isaresi ile cagrilir.
 6.  **ul li css reng vermek izahi 1.**- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz **first-child** yazdiqda ilk birincini rengini deyisir.
-<p title="1ci Sekil">
+<p title="1-ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\css.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
-<b>2ci yolu </b> bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
-<p title="2ci Sekil">
+<b>2-ci yolu:</b> Bu yolda ise soncu li-nin rengini deyise bilerik bu ise asagidaki sekilde izah olunur.Gorunduyu kimi salam 9 rengi deyisib.
+<p title="2-ci Sekil">
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib"/>
  <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib"/>
+</p><br/>
+<b>3-cu yolu:</b> Bu yolda ise isdediyimiz qeder <b>li</b> teqine reng vere bilerik .Ancaq bu <b>nth-child(sira daxil edin)</b> kodu yazmaliyiq ve <b>sira daxil edin</b> yerine reqem yaziriq. Mes: Sekilde biz <b>3-cu ve 5ci</b> li-ye reng vermek isdemisik.Asagidaki sekilden baxa bilerik.
+<p title="3-cu Sekil">
+ <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib"/>
+ <img src="image\image1\netice2.png" width="250" height="200" alt="sekil silinib"/>
 </p><br/>
