@@ -284,8 +284,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js1.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
  <img src="image\image2,js\Netice.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-
+<b>2.external yazilis</b>: Burada body icerisinde <b>script</b> teqine src"" yazmaqla bas verir.
 <p>
-<b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqine src"" yazmaqla bas verir.
  <img src="image\image2,js\js2.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
