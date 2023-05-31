@@ -268,6 +268,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice16.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+
+---
+
 <p align="center">
 <b >(JS)</b>
 </p>
