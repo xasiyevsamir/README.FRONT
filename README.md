@@ -1,3 +1,7 @@
+<p align="center">
+<b >(Html)</b>
+</p>
+
 # **(FRONT-GIRIS)**
 
 1.**(index.html)** Bu **(html)** fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada **(Index)** fayilin adidir ve **(html)** ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: **(MAIN.html ve ya samir.html)** .Lakin html fayili yaratmaq ucun **(.html yazmaliyiq.Her bir html)** fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
