@@ -306,3 +306,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js6.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
 </p><br/>
+<b>Qisa yazilis</b>.Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.
+<p>
+ <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
+</p><br/>
