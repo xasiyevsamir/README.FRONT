@@ -298,3 +298,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
+<b>Data Tayiblarin novleri js</b>. Js-de data tayiplarin bir nece novleri var onlari asagida gosdermisem.
+<p>
+ <img src="image\image2,js\js5.png" width="430" height="200" alt="sekil silinib" title="Data Tayiplarin novleri."/>
+</p><br/>
