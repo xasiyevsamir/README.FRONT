@@ -302,3 +302,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js5.png" width="430" height="200" alt="sekil silinib" title="Data Tayiplarin novleri."/>
 </p><br/>
+<b>Arifmatic ve Asigment operatorlar.</b> Arifmatic operatorlardaki <b>**</b> isaresi kvadrat demekdir yeni <b>(5**2=25)</b>.
+<p>
+ <img src="image\image2,js\js6.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
+</p><br/>
