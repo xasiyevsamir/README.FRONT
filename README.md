@@ -308,10 +308,11 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 </p><br/>
 <b>Muqayise ve Mentiqi operatorlar</b>.Burada 2 ve 3 <b>=</b> var. Izahi 2 beraberlik sadece value yoxlayir tipine onem vermir strin ve number tipindedirse strinki cevrir numbere sonra yoxlayir sekil 1e bax. 3 beraberlik ise hem value hemde tipini yoxlayir yeni hem tipi hemde value eyni olmalidi ekis halda false qaytaracaq.
 <p>
+ <img src="image\image2,js\js8.png" width="250" height="200" alt="sekil silinib" title="Muqayise ve Mentiqi operatorlar"/>
  <img src="image\image2,js\js9.png" width="250" height="200" alt="sekil silinib" title="2 == beraberlik"/>
- <img src="image\image2,js\js10.png" width="430" height="200" alt="sekil silinib" title="3 === beraberlik"/>
+ <img src="image\image2,js\js10.png" width="250" height="200" alt="sekil silinib" title="3 === beraberlik"/>
 </p><br/>
 <b>Qisa yazilis</b>.Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.
 <p>
- <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
+ <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
