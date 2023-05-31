@@ -290,6 +290,11 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 </p><br/>
 <b>defer</b>.Biz eger js codunu evvele qosuruqsa onda ona defer yaziriq ki html codu islesin bitsin sonra js codu islemeye baslasin.defer yazdiqda asagidaki kimi yazmaliyiq.Yeni defer gozlemek funksiyasi dasiyir.
 <p>
- <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
  <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
+</p><br/>
+<b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <b>document.addEventListener("DOMContentLoaded",()=>{</b> yazaq.
+<p>
+ <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
