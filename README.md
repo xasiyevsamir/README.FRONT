@@ -1,3 +1,7 @@
+<p align="center">
+<b >(Html)</b>
+</p>
+
 # **(FRONT-GIRIS)**
 
 1.**(index.html)** Bu **(html)** fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada **(Index)** fayilin adidir ve **(html)** ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: **(MAIN.html ve ya samir.html)** .Lakin html fayili yaratmaq ucun **(.html yazmaliyiq.Her bir html)** fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
@@ -267,4 +271,48 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice16.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+
+---
+
+<p align="center">
+<b >(JS)</b>
+</p>
+<b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
+<b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
+<p>
+ <img src="image\image2,js\js1.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
+ <img src="image\image2,js\Netice.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b>2.external yazilis</b>: Burada body icerisinde <b>script</b> teqine src"" yazmaqla bas verir.
+<p>
+ <img src="image\image2,js\js2.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
+</p><br/>
+<b>defer</b>.Biz eger js codunu evvele qosuruqsa onda ona defer yaziriq ki html codu islesin bitsin sonra js codu islemeye baslasin.defer yazdiqda asagidaki kimi yazmaliyiq.Yeni defer gozlemek funksiyasi dasiyir.
+<p>
+ <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
+</p><br/>
+<b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <b>document.addEventListener("DOMContentLoaded",()=>{</b> yazaq.
+<p>
+ <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
+</p><br/>
+<b>Data Tayiblarin novleri js</b>. Js-de data tayiplarin bir nece novleri var onlari asagida gosdermisem.
+<p>
+ <img src="image\image2,js\js5.png" width="430" height="200" alt="sekil silinib" title="Data Tayiplarin novleri."/>
+</p><br/>
+<b>Arifmatic ve Asigment operatorlar.</b> Arifmatic operatorlardaki <b>**</b> isaresi kvadrat demekdir yeni <b>(5**2=25)</b>.
+<p>
+ <img src="image\image2,js\js6.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
+</p><br/>
+<b>Muqayise ve Mentiqi operatorlar</b>.Burada 2 ve 3 <b>=</b> var. Izahi 2 beraberlik sadece value yoxlayir tipine onem vermir strin ve number tipindedirse strinki cevrir numbere sonra yoxlayir sekil 2e bax. 3 beraberlik ise hem value hemde tipini yoxlayir yeni hem tipi hemde value eyni olmalidi ekis halda false qaytaracaq sekil 3e bax.
+<p>
+ <img src="image\image2,js\js8.png" width="250" height="200" alt="sekil silinib" title="Muqayise ve Mentiqi operatorlar"/>
+ <img src="image\image2,js\js9.png" width="250" height="200" alt="sekil silinib" title="2 == beraberlik"/>
+ <img src="image\image2,js\js10.png" width="250" height="200" alt="sekil silinib" title="3 === beraberlik"/>
+</p><br/>
+<b>Qisa yazilis</b>.Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.Qeyd: <b>&&</b> evvel <b>false</b> olarsa qisa yazilis islemiyecek ,her zaman <b>true</b> olmalidir
+<p>
+ <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
