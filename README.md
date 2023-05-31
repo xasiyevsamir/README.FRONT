@@ -278,3 +278,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(JS)</b>
 </p>
+<b>Js de 3 cur yazilis var</b>.B u yazilislardan yalniz 2si cox isdifade edilir. <b>Internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra yazilmalidir.
+<b>1.Internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
+<p>
+ <img src="image\image2,js\js1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\Netice.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+</p><br/>
