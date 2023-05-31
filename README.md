@@ -278,7 +278,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(JS)</b>
 </p>
-<b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra yazilmalidir.<br/>
+<b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
 <b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
 <p>
  <img src="image\image2,js\js1.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
@@ -287,4 +287,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <b>2.external yazilis</b>: Burada body icerisinde <b>script</b> teqine src"" yazmaqla bas verir.
 <p>
  <img src="image\image2,js\js2.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
+</p><br/>
+<b>defer</b>.Biz eger js codunu evvele qosuruqsa onda ona defer yaziriq ki html codu islesin bitsin sonra js codu islemeye baslasin.defer yazdiqda asagidaki kimi yazmaliyiq.Yeni defer gozlemek funksiyasi dasiyir.
+<p>
+ <img src="image\image2,js\sekil.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
