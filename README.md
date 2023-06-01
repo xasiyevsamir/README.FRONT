@@ -163,7 +163,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(CSS)</b>
 </p>
-<p><a herf="https://javascript.info/" >Javascript oyren.</a></p>
+<a herf="https://javascript.info/" >Javascript oyren.</a>
 <b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
 1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe **style="backgroud:red"** bu cur vermekle olur.
