@@ -293,7 +293,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
-<b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <>document.addEventListener("DOMContentLoaded",()=></)b> yazaq.
+<b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <b>document.addEventListener("DOMContentLoaded",()=>)</b> yazaq.
 <p>
  <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
@@ -316,7 +316,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
-<b>Bezi Codlar</b>.Bezi codlar var ki onlar sirf console ucundur yeni console vermek ucun js ile hec bir elaqesi yoxdur.Bunlar asagidakilardir.<p>prompt</b> isdafeciden data almaq ucundur.<b>confirm</b> neyise tesdiq etmek ucundur, ok verdikde true clen verdikde ise false qaytarir.
+<b>Bezi Codlar</b>.Bezi codlar var ki onlar sirf console ucundur yeni console vermek ucun js ile hec bir elaqesi yoxdur.Bunlar asagidakilardir.<p>prompt</b> isdafeciden data almaq ucundur.<b>confirm</b> neyise tesdiq etmek ucundur, ok verdikde true clen verdikde ise false verir.
 <p>
  <img src="image\image2,js\js11.png" width="350" height="200" alt="sekil silinib" title="prompt"/>
  <img src="image\image2,js\js12.png" width="350" height="200" alt="sekil silinib" title="confirm"/>
