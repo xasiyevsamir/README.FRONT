@@ -316,3 +316,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
+<b>Bezi Codlar</b>.Bezi codlar var ki onlar sirf console ucundur yeni console vermek ucun js ile hec bir elaqesi yoxdur.Bunlar asagidakilardir.<p>prompt</b> isdafeciden data almaq ucundur.<b>confirm</b> neyise tesdiq etmek ucundur.
+<p>
+ <img src="image\image2,js\js11.png" width="430" height="200" alt="sekil silinib" title="prompt"/>
+ <img src="image\image2,js\js12.png" width="430" height="200" alt="sekil silinib" title="confirm"/>
+</p><br/>
