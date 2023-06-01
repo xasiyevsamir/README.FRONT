@@ -278,6 +278,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(JS)</b>
 </p>
+<a herf="https://javascript.info/">Ja</a>
 <b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
 <b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
 <p>
