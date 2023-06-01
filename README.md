@@ -163,6 +163,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(CSS)</b>
 </p>
+<p><a herf="https://javascript.info/" >Javascript oyren.</a></p>
 <b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
 1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe **style="backgroud:red"** bu cur vermekle olur.
@@ -316,7 +317,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
-<b>Bezi Codlar</b>.Bezi codlar var ki onlar sirf console ucundur yeni console vermek ucun js ile hec bir elaqesi yoxdur.Bunlar asagidakilardir.<p>prompt</b> isdafeciden data almaq ucundur.<b>confirm</b> neyise tesdiq etmek ucundur.
+<b>Bezi Codlar</b>.Bezi codlar var ki onlar sirf console ucundur yeni console vermek ucun js ile hec bir elaqesi yoxdur.Bunlar asagidakilardir.<p>prompt</b> isdafeciden data almaq ucundur.<b>confirm</b> neyise tesdiq etmek ucundur, ok verdikde true clen verdikde ise false qaytarir.
 <p>
  <img src="image\image2,js\js11.png" width="350" height="200" alt="sekil silinib" title="prompt"/>
  <img src="image\image2,js\js12.png" width="350" height="200" alt="sekil silinib" title="confirm"/>
