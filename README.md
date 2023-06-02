@@ -334,3 +334,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js15.png" width="420" height="200" alt="sekil silinib" title="Arrey yazilisi."/>
 </p><br/>
+<b>JavaScripte C#-dan ferqli olaraq lenght ezmek mumkundur</b>.Sekildeki emeliyyati etsek uzunluq lenght 20 olacaqdir. Neticedende gorunduyu kimi empty 20 yazilib yeni evvelden 19 indexs bosdur.
+<p>
+ <img src="image\image2,js\js16.png" width="420" height="200" alt="sekil silinib" title="Arrey isdinad"/>
+ <img src="image\image2,js\netice1.png" width="420" height="200" alt="sekil silinib" title="Arrey isdinad"/>
+</p><br/>
