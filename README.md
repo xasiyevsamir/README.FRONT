@@ -366,7 +366,13 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js23.png" width="285" height="200" alt="sekil silinib" title="Array concat-siz elave etmek."/>
  <img src="image\image2,js\netice5.png" width="230" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>filter methodu</b> Bu method ise massivi filtirleyir ve isdediyimiz datani bize verir, filtirleyerken  basqa bir massivde saxlayiriq.
+<b>filter methodu</b>. Bu method ise massivi filtirleyir ve isdediyimiz datani bize verir, filtirleyerken  basqa bir massivde saxlayiriq.
 <p>
  <img src="image\image2,js\js24.png" width="250" height="200" alt="sekil silinib" title="Array filter methodu"/>
  <img src="image\image2,js\netice6.png" width="285" height="200" alt="sekil silinib" title="Netice"/>
+ </p><br/>
+ <b>find methodu</b>. Bu method ise massivin icinde verdiyimiz serte uygun hemi datanin ozunu getrir.
+ <p>
+ <img src="image\image2,js\js25.png" width="250" height="200" alt="sekil silinib" title="Array find methodu"/>
+ <img src="image\image2,js\netice7.png" width="285" height="200" alt="sekil silinib" title="Netice"/>
+ </p><br/>
