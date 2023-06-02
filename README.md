@@ -322,3 +322,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js11.png" width="350" height="200" alt="sekil silinib" title="prompt"/>
  <img src="image\image2,js\js12.png" width="350" height="200" alt="sekil silinib" title="confirm"/>
 </p><br/>
+<b>$ ile yazilis.</b>
+<p>
+ <img src="image\image2,js\js13.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
+ <a herf="https://javascript.info/">JavaScript oyren.</a>
+</p><br/>
