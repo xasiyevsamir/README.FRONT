@@ -325,5 +325,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <b>$ ile yazilis.</b>
 <p>
  <img src="image\image2,js\js13.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
- 
+</p><br/>
+<b>Arrays</b>.Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
+<p>
+ <img src="image\image2,js\js14.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
 </p><br/>
