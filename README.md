@@ -428,3 +428,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js39.png" width="400" height="200" alt="sekil silinib" title="forEach methodunun yazilisi"/>
  <img src="image\image2,js\netice16.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>map() methodu.</b>Bu methodda forEach mehodu kimidir tek ferqi ise forEach geri deyer qaytarmadigi halda map methodu ise massivi hem cap edir hemde deyirini return ede bilir.
+<p>
+ <img src="image\image2,js\js37.png" width="400" height="200" alt="sekil silinib" title="map methodunun yazilisi"/>
+ <img src="image\image2,js\netice17.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
