@@ -360,3 +360,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js21.png" width="300" height="200" alt="sekil silinib" title="Array unshift methodu"/>
  <img src="image\image2,js\netice4.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>concat methodu</b> Bu method ise 2 massivi birlesdirmek ucundur.Asagidaki sekilde tam aydindir.
+<p>
+ <img src="image\image2,js\js22.png" width="300" height="200" alt="sekil silinib" title="Array concat methodu"/>
+ <img src="image\image2,js\netice5.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
