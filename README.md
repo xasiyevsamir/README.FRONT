@@ -392,8 +392,13 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js29.png" width="300" height="200" alt="sekil silinib" title="Array lastindexof methodu"/>
  <img src="image\image2,js\js28.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>every methodu</b>. Bu method ise massivin icinde verdiyimiz sertin duzgun olub olmadigini yoxlayir ve geriye <b>true ,false</b> qaytarir.
+<b>every methodu</b>. Bu method ise massivin icinde verdiyimiz sertin duzgun olub olmadigini yoxlayir ve geriye <b>true ,false</b> qaytarir.Yeni massivin icindeki datanin hamisi 20 den boyukdurmu?
 <p>
  <img src="image\image2,js\js31.png" width="300" height="200" alt="sekil silinib" title="Array every methodu"/>
  <img src="image\image2,js\netice10.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b>some methodu</b>. Bu method ise massivin icinde verdiyimiz sertin duzgun olub olmadigini yoxlayir ve geriye <b>true ,false</b> qaytarir.Yeni massivin icindeki datanin en azi biri 20 den boyukdurmu?
+<p>
+ <img src="image\image2,js\js32.png" width="300" height="200" alt="sekil silinib" title="Array some methodu"/>
+ <img src="image\image2,js\netice11.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
