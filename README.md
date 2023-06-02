@@ -402,3 +402,14 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js32.png" width="300" height="200" alt="sekil silinib" title="Array some methodu"/>
  <img src="image\image2,js\netice11.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>includes methodu</b>. Bu method ise massivin icinde verdiyimiz sertin duzgun olub olmadigini yoxlayir ve geriye <b>true ,false</b> qaytarir.Yeni massivin icindeki bu (40) datasi varmi?
+<p>
+ <img src="image\image2,js\js33.png" width="300" height="200" alt="sekil silinib" title="Array includes methodu"/>
+ <img src="image\image2,js\netice12.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<p> fill methodu</b>. Bu method erreyin icindeki butun datalari deyisir ,isdesek necenci indeksden baslamaginida biz sece bilerik.
+<p>
+ <img src="image\image2,js\js34.png" width="250" height="200" alt="sekil silinib" title="Array fill methodu"/>
+ <img src="image\image2,js\js35.png" width="250" height="200" alt="sekil silinib" title="Burada 3 start qiymetdir yeni 3cu indeksden basla demekdir."/>
+ <img src="image\image2,js\netice13.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
