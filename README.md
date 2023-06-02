@@ -363,6 +363,6 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <b>concat methodu</b> Bu method ise 2 massivi birlesdirmek ucundur.Asagidaki sekilde tam aydindir.
 <p>
  <img src="image\image2,js\js22.png" width="250" height="200" alt="sekil silinib" title="Array concat methodu"/>
- <img src="image\image2,js\js23.png" width="250" height="200" alt="sekil silinib" title="Array concat-siz elave etmek."/>
- <img src="image\image2,js\netice5.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image2,js\js23.png" width="285" height="200" alt="sekil silinib" title="Array concat-siz elave etmek."/>
+ <img src="image\image2,js\netice5.png" width="230" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
