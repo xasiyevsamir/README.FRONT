@@ -350,3 +350,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js19.png" width="300" height="200" alt="sekil silinib" title="Array pop methodu"/>
  <img src="image\image2,js\js18.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>shift methodu</b>.Bu method ise evvelden data silir sekilden gore bilerik.
+p>
+ <img src="image\image2,js\js20.png" width="300" height="200" alt="sekil silinib" title="Array shift methodu"/>
+ <img src="image\image2,js\netice3.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
