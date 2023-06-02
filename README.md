@@ -325,5 +325,5 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <b>$ ile yazilis.</b>
 <p>
  <img src="image\image2,js\js13.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
- <a herf="https://javascript.info/">JavaScript oyren.</a>
+ 
 </p><br/>
