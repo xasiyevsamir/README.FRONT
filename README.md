@@ -307,7 +307,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js6.png" width="430" height="200" alt="sekil silinib" title="Arifmatic ve Asigment operatorlar."/>
 </p><br/>
-<b>Muqayise ve Mentiqi operatorlar</b>.Burada 2 ve 3 <b>=</b> var. Izahi 2 beraberlik sadece value yoxlayir tipine onem vermir strin ve number tipindedirse strinki cevrir numbere sonra yoxlayir sekil 2e bax. 3 beraberlik ise hem value hemde tipini yoxlayir yeni hem tipi hemde value eyni olmalidi ekis halda false qaytaracaq sekil 3e bax.
+<b>Muqayise ve Mentiqi operatorlar</b>.Burada 2 ve 3 <b>=</b> var. Izahi 2 beraberlik sadece value yoxlayir tipine onem vermir string ve number tipindedirse strinki cevrir numbere sonra yoxlayir sekil 2e bax. 3 beraberlik ise hem value hemde tipini yoxlayir yeni hem tipi hemde value eyni olmalidi ekis halda false qaytaracaq sekil 3e bax.
 <p>
  <img src="image\image2,js\js8.png" width="250" height="200" alt="sekil silinib" title="Muqayise ve Mentiqi operatorlar"/>
  <img src="image\image2,js\js9.png" width="250" height="200" alt="sekil silinib" title="2 == beraberlik"/>
@@ -351,7 +351,12 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js18.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>shift methodu</b>.Bu method ise evvelden data silir sekilden gore bilerik.
-p>
+<p>
  <img src="image\image2,js\js20.png" width="300" height="200" alt="sekil silinib" title="Array shift methodu"/>
  <img src="image\image2,js\netice3.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b>unshif methodu</b> Bu method ise datani evvveline elave edir.Asagidaki sekilde tam aydindir.
+<p>
+ <img src="image\image2,js\js21.png" width="300" height="200" alt="sekil silinib" title="Array unshift methodu"/>
+ <img src="image\image2,js\netice4.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
