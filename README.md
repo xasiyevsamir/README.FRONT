@@ -383,8 +383,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  </p><br/>
  <b>Indexof methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.Hemin elementi tapmasa ise (-1) qaytaracaqdir.
 <p>
- <img src="image\image2,js\js27.png" width="300" height="200" alt="sekil silinib" title="Array indexof methodu"/>
- <img src="image\image2,js\netice9.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image2,js\js27.png" width="250" height="200" alt="sekil silinib" title="Array indexof methodu"/>
+ <img src="image\image2,js\js27.png" width="250" height="200" alt="sekil silinib" title="5i 1ci indexsden sonra axdar ve onun indexsini getr"/>
+ <img src="image\image2,js\netice9.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>lastIndexof methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.Amma axdarisa sondan baslayir sekilde gorduyumuz kimi 40 iki edetdir ve o axirdan 1ci datanin indexsini getrir.
 <p>
