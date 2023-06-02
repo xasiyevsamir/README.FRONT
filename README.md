@@ -413,3 +413,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js35.png" width="250" height="200" alt="sekil silinib" title="Burada 3 start qiymetdir yeni 3cu indeksden basla demekdir."/>
  <img src="image\image2,js\netice13.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>Ic-ice arrays</b>.Sekilde tam izah olunub neticeyede baxa bilersiz.
+<p>
+ <img src="image\image2,js\js36.png" width="350" height="200" alt="sekil silinib" title="Ic-ice array"/>
+ <img src="image\image2,js\netice14.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
