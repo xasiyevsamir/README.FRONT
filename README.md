@@ -340,8 +340,13 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\netice1.png" width="420" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>Array-in Methodlari</b><br/>
-<b>push methodu</b>.Array-in sonuna bir data elave etmek ucundur.
+<b>push methodu</b>.Array-in sonuna datalari elave etmek ucundur. Sekildeki kimi yeni (20,40) elave etseydik ikisinide elave edecekdi. 
 <p>
  <img src="image\image2,js\js17.png" width="300" height="200" alt="sekil silinib" title="Array pushs methodu"/>
  <img src="image\image2,js\netice2.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b>pop methodu.</b>Bu method ile ise sondaki datani silmek ucundur.
+<p>
+ <img src="image\image2,js\js19.png" width="300" height="200" alt="sekil silinib" title="Array pop methodu"/>
+ <img src="image\image2,js\js18.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
