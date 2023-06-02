@@ -438,3 +438,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js40.png" width="400" height="200" alt="sekil silinib" title="forin yazilisi"/>
  <img src="image\image2,js\netice18.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>Massivin datanin ozunu almaq ucun</b>.forof() methodundan isdifade edilir.
+<p>
+ <img src="image\image2,js\js41.png" width="400" height="200" alt="sekil silinib" title="forin yazilisi"/>
+ <img src="image\image2,js\netice19.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
