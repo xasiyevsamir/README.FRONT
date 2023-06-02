@@ -381,8 +381,13 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js26.png" width="250" height="200" alt="sekil silinib" title="Array findIndex methodu"/>
  <img src="image\image2,js\netice8.png" width="285" height="200" alt="sekil silinib" title="Netice"/>
  </p><br/>
- <b>Index methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.
+ <b>Indexof methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.Hemin elementi tapmasa ise (-1) qaytaracaqdir.
 <p>
- <img src="image\image2,js\js27.png" width="300" height="200" alt="sekil silinib" title="Array unshift methodu"/>
+ <img src="image\image2,js\js27.png" width="300" height="200" alt="sekil silinib" title="Array indexof methodu"/>
  <img src="image\image2,js\netice9.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+<b>lastIndexof methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.Amma axdarisa sondan baslayir sekilde gorduyumuz kimi 40 iki edetdir ve o axirdan 1ci datanin indexsini getrir.
+<p>
+ <img src="image\image2,js\js29.png" width="300" height="200" alt="sekil silinib" title="Array lastindexof methodu"/>
+ <img src="image\image2,js\js28.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
