@@ -381,3 +381,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js26.png" width="250" height="200" alt="sekil silinib" title="Array findIndex methodu"/>
  <img src="image\image2,js\netice8.png" width="285" height="200" alt="sekil silinib" title="Netice"/>
  </p><br/>
+ <b>Index methodu</b>. Bu method ise massivin icinde verdiyimiz dataya uygun hemin datanin indexsini getrir.
+<p>
+ <img src="image\image2,js\js27.png" width="300" height="200" alt="sekil silinib" title="Array unshift methodu"/>
+ <img src="image\image2,js\netice9.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
