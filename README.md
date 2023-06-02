@@ -420,6 +420,6 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 </p><br/>
 <b>flat methodu</b>.Bu method ile ic-ice olan massivleri ic-icden cixardib bir etmek ucundur.Burada 3 reqemi massivin ic-ice derinliyini bildirir.
 <p>
- <img src="image\image2,js\js38.png" width="300" height="200" alt="sekil silinib" title="flat methodu"/>
+ <img src="image\image2,js\js38.png" width="400" height="200" alt="sekil silinib" title="flat methodu"/>
  <img src="image\image2,js\netice15.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
