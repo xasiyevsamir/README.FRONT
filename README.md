@@ -452,5 +452,13 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js42.png" width="300" alt="sekil silinib" title="Date 1ci yazilis"/>
  <img src="image\image2,js\netice20.png"  height="300" alt="sekil silinib" title="Netice"/>
+<details><summary><b>new Date()-Methodlari</b></summary><br/>
+ <i><b>getDay()</b>-Methodu hefdenin necenci gunu oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir.Yeni 0 daxil etsek 1ci gun demekdir.</i>
+<p>
+ <img src="image\image2,js\js43.png" alt="sekil silinib" title="Date ci yazilis"/>
+ <img src="image\image2,js\netice21.png"   alt="sekil silinib" title="Netice"/>
+</p><br/>
+
+</details>
 </p><br/>
 </details>
