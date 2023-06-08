@@ -450,7 +450,7 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <details><summary><b>new Date()</b></summary><br/>
 <i>Tarixi bu cur yazsaq onda asagidaki neticeni verecekdir.Yeni butov sekilde.</i><br/>
 <p>
- <img src="image\image2,js\js42.png" width="300" height="300" alt="sekil silinib" title="Date 1ci yazilis"/>
- <img src="image\image2,js\netice20.png" width="350" height="300" alt="sekil silinib" title="Netice"/>
+ <img src="image\image2,js\js42.png" width="300" alt="sekil silinib" title="Date 1ci yazilis"/>
+ <img src="image\image2,js\netice20.png"  height="300" alt="sekil silinib" title="Netice"/>
 </p><br/>
 </details>
