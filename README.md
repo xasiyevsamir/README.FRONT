@@ -315,7 +315,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js9.png" width="250" height="200" alt="sekil silinib" title="2 == beraberlik"/>
  <img src="image\image2,js\js10.png" width="250" height="200" alt="sekil silinib" title="3 === beraberlik"/>
 </p><br/></details>
-<b>Qisa yazilis</b>.Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.Qeyd: <b>&&</b> evvel <b>false</b> olarsa qisa yazilis islemiyecek ,her zaman <b>true</b> olmalidir
+<details><summary><b>Bezi yazilislar ve Qisa yazilis.</b></summary><br/>
+Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.Qeyd: <b>&&</b> evvel <b>false</b> olarsa qisa yazilis islemiyecek ,her zaman <b>true</b> olmalidir
 <p>
  <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
 </p><br/>
@@ -327,7 +328,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <b>$ ile yazilis.</b>
 <p>
  <img src="image\image2,js\js13.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
-</p><br/>
+</p><br/></details>
 <b>Arrays</b>.Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js14.png" width="420" height="200" alt="sekil silinib" title="Arrey yazilisi."/>
