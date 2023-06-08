@@ -41,7 +41,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
    Buradda **(title="Kontak-Home)** bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. **(title)** atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
 6. **u)** bu teq daxil etdiyimiz sozun altindan xet cekir.
 7. **i)** bu teq ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
-8. **em)** bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderdir.Yeni burazerde daha yaxsi basa dusur i teqine nisbeten.
+8. **em)** bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderindir.Yeni burazerde daha yaxsi basa dusur i teqine nisbeten.
 9. **s)** bu teq ise sozun uzerinden xett cekir.
 10. **del)** bu teqde s teqi ile eynidir.
 11. **b)** bu teq sozu daha qalin yazdirir.
@@ -278,6 +278,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(JS)</b>
 </p>
+<details><summary><b>JS-i html-e qosmaq. --></b></summary>
 <a herf="https://javascript.info/">Ja</a>
 <b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
 <b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
@@ -293,7 +294,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
-</p><br/>
+</p><br/></details>
 <b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <b>document.addEventListener("DOMContentLoaded",()=>)</b> yazaq.
 <p>
  <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
