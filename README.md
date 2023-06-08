@@ -278,7 +278,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(JS)</b>
 </p>
-<details><summary><b>JS-i html-e qosmaq. --></b></summary>
+<details><summary><b>JS-i html-e qosmaq.</b></summary>
 <a herf="https://javascript.info/">Ja</a>
 <b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
 <b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
@@ -300,7 +300,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/></details>
-<b>Data Tayiblarin novleri js</b>. Js-de data tayiplarin bir nece novleri var onlari asagida gosdermisem.
+<details><summary><b>Data Tayiblarin novleri js</b></summary><br/>
+<i>Js-de data tayiplarin bir nece novleri var onlari asagida gosdermisem.</i>
 <p>
  <img src="image\image2,js\js5.png" width="430" height="200" alt="sekil silinib" title="Data Tayiplarin novleri."/>
 </p><br/>
@@ -313,7 +314,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image2,js\js8.png" width="250" height="200" alt="sekil silinib" title="Muqayise ve Mentiqi operatorlar"/>
  <img src="image\image2,js\js9.png" width="250" height="200" alt="sekil silinib" title="2 == beraberlik"/>
  <img src="image\image2,js\js10.png" width="250" height="200" alt="sekil silinib" title="3 === beraberlik"/>
-</p><br/>
+</p><br/></details>
 <b>Qisa yazilis</b>.Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> ,sanki <b>alert-in yerinde true dayanib</b>.Qeyd: <b>&&</b> evvel <b>false</b> olarsa qisa yazilis islemiyecek ,her zaman <b>true</b> olmalidir
 <p>
  <img src="image\image2,js\js7.png" width="430" height="200" alt="sekil silinib" title="Qisa yazlis."/>
