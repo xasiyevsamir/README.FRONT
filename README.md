@@ -290,7 +290,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js2.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
-<b>defer</b>.avascript kodlarini html-e import edende normalda body sonunda import etmek lazimdi, cunki kodlar yuxardan aşagiya dogru oxunur ve 1ci javascrip kodu oxunsa sonradan htmlde olan elementleri gormeye biler ve funksiyalar istenilen effekti vermez.Defer ona gore yazilirki JavaScript-i en başda import elesen bele sonda import olunmuş kimi effekt verir ve herşey qaydasında isleyir.Biz eger js codunu evvele qosuruqsa onda ona defer yaziriq ki html codu islesin bitsin sonra js codu islemeye baslasin.defer yazdiqda asagidaki kimi yazmaliyiq.Yeni defer gozlemek funksiyasi dasiyir.
+<b>defer</b>.Javascript kodlarini html-e import edende normalda body sonunda import etmek lazimdi, cunki kodlar yuxardan aşagiya dogru oxunur ve 1ci javascrip kodu oxunsa sonradan htmlde olan elementleri gormeye biler ve funksiyalar istenilen effekti vermez.Defer ona gore yazilirki JavaScript-i en başda import elesen bele sonda import olunmuş kimi effekt verir ve herşey qaydasında isleyir.Biz eger js codunu evvele qosuruqsa onda ona defer yaziriq ki html codu islesin bitsin sonra js codu islemeye baslasin.defer yazdiqda asagidaki kimi yazmaliyiq.Yeni defer gozlemek funksiyasi dasiyir.
 <p>
  <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
