@@ -294,12 +294,12 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p>
  <img src="image\image2,js\js3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\sekil.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
-</p><br/></details>
+</p><br/>
 <b>defer</b>.Yazmasaq onda gerek sekilde gorduyumuz kimi js codlarinin her birini <b>document.addEventListener("DOMContentLoaded",()=>)</b> yazaq.
 <p>
  <img src="image\image2,js\html1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image2,js\js4.png" width="430" height="200" alt="sekil silinib" title="JS codu"/>
-</p><br/>
+</p><br/></details>
 <b>Data Tayiblarin novleri js</b>. Js-de data tayiplarin bir nece novleri var onlari asagida gosdermisem.
 <p>
  <img src="image\image2,js\js5.png" width="430" height="200" alt="sekil silinib" title="Data Tayiplarin novleri."/>
