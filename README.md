@@ -449,12 +449,15 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 </p><br/></details>
 <details><summary><b>new Date()</b></summary><br/>
 <i>Tarixi bu cur yazsaq onda asagidaki neticeni verecekdir.Yeni butov sekilde.</i><br/>
-<>
+<p>
  <img src="image\image2,js\js42.png" width="300" alt="sekil silinib" title="Tarix yazilisi 1"/>
- <img src="image\image2,js\netice20.png"   alt="sekil silinib" title="Netice"/></p><br/>
+ <img src="image\image2,js\netice20.png"   alt="sekil silinib" title="Netice"/></p>
  <i>Bu yazilisda ise birinci il sonra ay sonra gun sonra saat sonra deqiqe sonra saniye ve s.yazilir</i>
- <img src="image\image2,js\js45.png" width="300" alt="sekil silinib" title="Tarix yazilisi 2"/>
- <img src="image\image2,js\netice23.png"  alt="sekil silinib" title="Netice"/>
+<p> <img src="image\image2,js\js45.png" width="300" alt="sekil silinib" title="Tarix yazilisi 2"/>
+ <img src="image\image2,js\netice23.png"  alt="sekil silinib" title="Netice"/></p>
+ <i>Bu ise daha bir yazilisdir ve burda saymaga 0 dan deyil 1 den basliyir.</i>
+ <p><img src="image\image2,js\js46.png" width="300" alt="sekil silinib" title="Tarix yazilisi 3"/>
+ <img src="image\image2,js\netice24.png"  alt="sekil silinib" title="Netice"/></p>
 
 <details><summary><b>new Date()-Methodlari</b></summary><br/>
  <i><b>getDay()</b>-Methodu hefdenin necenci gunu oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir.</i>
