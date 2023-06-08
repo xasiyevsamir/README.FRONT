@@ -490,6 +490,6 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 </details>
 <details><summary><b>Math sinifi ve random</b></summary><br/>
 <p>
- <img src="image\image2,js\js51.png" width="800" height="500" alt="sekil silinib" title="setTimeout methodu."/>
+ <img src="image\image2,js\js51.png" width="800" height="500" alt="sekil silinib" title="Math sinifi ve random "/>
 </p><br/>
 </details>
