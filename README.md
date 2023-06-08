@@ -450,13 +450,18 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <details><summary><b>new Date()</b></summary><br/>
 <i>Tarixi bu cur yazsaq onda asagidaki neticeni verecekdir.Yeni butov sekilde.</i><br/>
 <p>
- <img src="image\image2,js\js42.png" width="300" alt="sekil silinib" title="Date 1ci yazilis"/>
+ <img src="image\image2,js\js42.png" width="300" alt="sekil silinib" title="getDay() Methodu"/>
  <img src="image\image2,js\netice20.png"  height="300" alt="sekil silinib" title="Netice"/>
 <details><summary><b>new Date()-Methodlari</b></summary><br/>
- <i><b>getDay()</b>-Methodu hefdenin necenci gunu oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir.Yeni 0 daxil etsek 1ci gun demekdir.</i>
+ <i><b>getDay()</b>-Methodu hefdenin necenci gunu oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir.</i>
 <p>
- <img src="image\image2,js\js43.png" alt="sekil silinib" title="Date ci yazilis"/>
+ <img src="image\image2,js\js43.png" alt="sekil silinib" title="getDay() Methodu"/>
  <img src="image\image2,js\netice21.png"   alt="sekil silinib" title="Netice"/>
+</p><br/>
+<i><b>getMonth()</b>-Methodu necenci ay oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir ve buna gorede onun uzerine +1 gelirik ki 6ci ayi versin bize bu gun (08.06.2023)</i>
+<p>
+ <img src="image\image2,js\js44.png" alt="sekil silinib" title="getMonth() Methodu"/>
+ <img src="image\image2,js\netice22.png"   alt="sekil silinib" title="Netice"/>
 </p><br/>
 
 </details>
