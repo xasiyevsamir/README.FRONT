@@ -479,8 +479,12 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <img src="image\image2,js\js48.png" alt="sekil silinib" title="getMonth() Methodu"/>
 </p><br/>
 </details>
-<i>setInterval methodu.</i>Bu method verdiyimiz saniyeye uygun dovr edir.
+<i><b>setInterval methodu.</b></i>Bu method verdiyimiz saniyeye uygun dovr edir.
 <p>
- <img src="image\image2,js\js49.png" width="300" alt="sekil silinib" title="getMonth() Methodu"/>
+ <img src="image\image2,js\js49.png" width="300" alt="sekil silinib" title="setInterval methodu."/>
+</p><br/>
+<i><b>setTimeout methodu.</b></i>Bu method verdiyimiz saniyeden sonra baslayir isleyir ve yalniz  bir defe isleyir.
+<p>
+ <img src="image\image2,js\js50.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
 </p><br/>
 </details>
