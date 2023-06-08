@@ -458,19 +458,22 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <i>Bu ise daha bir yazilisdir ve burda saymaga 0 dan deyil 1 den basliyir.</i>
  <p><img src="image\image2,js\js46.png" width="300" alt="sekil silinib" title="Tarix yazilisi 3"/>
  <img src="image\image2,js\netice24.png"  alt="sekil silinib" title="Netice"/></p>
-
-<details><summary><b>new Date()-Methodlari</b></summary><br/>
+<b>Qeyd:set edende deyise get edende ise hemin dataya baxa bilirik.</b>
+<details><summary><b>new Date()-Methodlari</b></summary>
  <i><b>getDay()</b>-Methodu hefdenin necenci gunu oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir.</i>
 <p>
  <img src="image\image2,js\js43.png" alt="sekil silinib" title="getDay() Methodu"/>
  <img src="image\image2,js\netice21.png"   alt="sekil silinib" title="Netice"/>
-</p><br/>
+</p>
 <i><b>getMonth()</b>-Methodu necenci ay oldugunu bildirir.Qeyd edeki saymaq 0 dan baslayir ve buna gorede onun uzerine +1 gelirik ki 6ci ayi versin bize bu gun (08.06.2023)</i>
 <p>
  <img src="image\image2,js\js44.png" alt="sekil silinib" title="getMonth() Methodu"/>
  <img src="image\image2,js\netice22.png"   alt="sekil silinib" title="Netice"/>
+</p>
+<i>get-ile olan methodlar</i>
+<p>
+ <img src="image\image2,js\js47.png" alt="sekil silinib" title="getMonth() Methodu"/>
 </p><br/>
-
 </details>
 
 </details>
