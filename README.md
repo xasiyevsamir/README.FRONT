@@ -474,6 +474,10 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js47.png" alt="sekil silinib" title="getMonth() Methodu"/>
 </p><br/>
+<i>set-ile olan methodlar</i>
+<p>
+ <img src="image\image2,js\js48.png" alt="sekil silinib" title="getMonth() Methodu"/>
+</p><br/>
 </details>
 
 </details>
