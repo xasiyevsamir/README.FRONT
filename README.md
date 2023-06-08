@@ -329,13 +329,14 @@ Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> 
 <p>
  <img src="image\image2,js\js13.png" width="420" height="200" alt="sekil silinib" title="$ ile yazilis"/>
 </p><br/></details>
-<b>Arrays</b>.Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
+<details><summary><b>Arrays</b></summary><br/>
+Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js14.png" width="420" height="200" alt="sekil silinib" title="Arrey yazilisi."/>
 </p><br/>
 <b> 2-ci yol.
 <p>
- <img src="image\image2,js\js15.png" width="420" height="200" alt="sekil silinib" title="Arrey yazilisi."/>
+ <img src="image\image2,js\js15.png" width="420" height="200" alt="sekil silinib" title="Arrey yazilisi 2."/>
 </p><br/>
 <b>JavaScripte C#-dan ferqli olaraq lenght ezmek mumkundur</b>.Sekildeki emeliyyati etsek uzunluq lenght 20 olacaqdir. Neticedende gorunduyu kimi empty 20 yazilib yeni evvelden 19 indexs bosdur.
 <p>
@@ -445,4 +446,7 @@ Burada eyni seyi hem if ile hemde ifsiz yazmisiq <b>data1 && alert("salam")</b> 
 <p>
  <img src="image\image2,js\js41.png" width="400" height="200" alt="sekil silinib" title="forin yazilisi"/>
  <img src="image\image2,js\netice19.png" width="300" height="200" alt="sekil silinib" title="Netice"/>
-</p><br/>
+</p><br/></details>
+<details><summary><b>new Date()</b></summary><br/>
+
+</details>
