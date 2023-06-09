@@ -495,9 +495,14 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 </details>
 <details><summary><b>var,let</b></summary>
 <details><summary><b>var</b></summary>
-<i>Var-in digerlerinden 1ci ferqi.</i>Digerlerinden ferqli olaraq 2 datani eyni qutunun uzerine almaq olar ve bu zaman sonuncunu gotrecek.<br/>
+<i>Var-in let ,const 1ci ferqi.</i>let ve const-dan ferqli olaraq 2 datani eyni qutunun uzerine almaq olar ve bu zaman sonuncunu gotrecek.<br/>
 <p>
- <img src="image\image2,js\js52.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
- <img src="image\image2,js\netice25.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
-</p><br/>
+ <img src="image\image2,js\js52.png" width="300" alt="sekil silinib" title="Var-in let ,const 1ci ferqi."/>
+ <img src="image\image2,js\netice25.png" width="300" alt="sekil silinib" title="Netice"/>
+</p>
+<i>Var-in let ,const 2ci ferqi</i>.Hosting yeni birinci deyiseni teyin edib daha sonra tipini yaradiriq bu zaman var en yuxariya qalxir yeni kodu isletdiyimiz zaman.<br/>
+<p>
+ <img src="image\image2,js\js53.png" width="300" alt="sekil silinib" title="Var-in let ,const 2ci ferqi."/>
+ <img src="image\image2,js\netice26.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
+</p>
 </details></details>
