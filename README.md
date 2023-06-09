@@ -546,3 +546,9 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <img src="image\image2,js\netice29.png"  alt="sekil silinib" title="Netice."/>
  </p>
 </details>
+<i><b>Higher order function</b>--yeni daxilinde basqa funksiyani return eden.</i>
+<p>
+ <img src="image\image2,js\js62.png"  alt="sekil silinib" title="Higher order function."/>
+ <img src="image\image2,js\netice30.png"  alt="sekil silinib" title="Netice."/>
+ </p>
+</details>
