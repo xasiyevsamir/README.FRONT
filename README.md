@@ -163,6 +163,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(CSS)</b>
 </p>
+<details><summary><b>Html bezi Qaydalar</b></summary>
 <b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
 1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe **style="backgroud:red"** bu cur vermekle olur.
@@ -200,7 +201,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\csseven.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>Bezi teqlere muraciyet.</b> Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
+</details>
+<details><summary><b>Bezi teqlere muraciyet.</b></summary>
+ Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
 <p>
  <img src="image\image1\sehve1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -272,6 +275,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice16.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+</details>
 
 ---
 
