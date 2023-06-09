@@ -514,5 +514,11 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <details><summary><b>const</b></summary>
 <i>Const-in var ve let-den  ferqi</i>.Const sabitdir adindan gorunduyu kimi ve o ikinci defe deyisdirile bilmez.<br/>
 <p>
- <img src="image\image2,js\js55.png" width="300" alt="sekil silinib" title="Const-in var ve let-den  ferqi."/>
+ <img src="image\image2,js\js55.png" width="300" alt="sekil silinib" title="Const-in var ve let-den  ferqi."/></p>
 </details>
+<details><summary><b>Object</b></summary>
+<p>
+ <img src="image\image2,js\js56.png" width="300" alt="sekil silinib" title="Object ve cagrilisi."/></p>
+ <img src="image\image2,js\netice28.png" width="300" alt="sekil silinib" title="Netice."/></p>
+
+<details>
