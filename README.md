@@ -523,6 +523,6 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <img src="image\image2,js\netice28.png" width="300" alt="sekil silinib" title="Netice."/></p>
  <i>Methodlar</i>
  <p>
- <img src="image\image2,js\js57.png" width="300" alt="sekil silinib" title="Object Methodlar."/>
+ <img src="image\image2,js\js57.png"  alt="sekil silinib" title="Object Methodlar."/>
  </p>
 </details>
