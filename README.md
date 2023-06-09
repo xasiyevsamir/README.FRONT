@@ -510,4 +510,9 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <img src="image\image2,js\js54.png" width="300" alt="sekil silinib" title="Var-in let ,const 3cu ferqi."/>
  <img src="image\image2,js\netice27.png" width="300" alt="sekil silinib" title="Netice."/>
 </p>
-</details></details>
+</details>
+<details><summary><b>const</b></summary>
+<i>Const-in var ve let-den  ferqi</i>.Const sabitdir adindan gorunduyu kimi ve o ikinci defe deyisdirile bilmez.<br/>
+<p>
+ <img src="image\image2,js\js55.png" width="300" alt="sekil silinib" title="Const-in var ve let-den  ferqi."/>
+</details>
