@@ -518,8 +518,8 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 </details>
 </details>
 <details><summary><b>Object</b></summary>
-<>
+<p>
  <img src="image\image2,js\js56.png" width="300" alt="sekil silinib" title="Object ve cagrilisi."/>
  <img src="image\image2,js\netice28.png" width="300" alt="sekil silinib" title="Netice."/></p>
 
-<details>
+</details>
