@@ -516,6 +516,7 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js55.png" width="300" alt="sekil silinib" title="Const-in var ve let-den  ferqi."/></p>
 </details>
+</details>
 <details><summary><b>Object</b></summary>
 <p>
  <img src="image\image2,js\js56.png" width="300" alt="sekil silinib" title="Object ve cagrilisi."/></p>
