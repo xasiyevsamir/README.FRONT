@@ -540,4 +540,9 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js60.png"  alt="sekil silinib" title="Anonim fuctions."/>
  </p>
+  <i><b>Callback fuctions.</b>Callback function-lar eslinde bir methodun icerisine diger method gondermekdir ve gonderdiyimiz mothodu oz isdeyimize gore isledirik.</i>
+<p>
+ <img src="image\image2,js\js61.png"  alt="sekil silinib" title="Callback fuctions."/>
+ <img src="image\image2,js\netice29.png"  alt="sekil silinib" title="Netice."/>
+ </p>
 </details>
