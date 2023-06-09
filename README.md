@@ -503,6 +503,11 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <i>Var-in let ,const 2ci ferqi</i>.Hosting yeni birinci deyiseni teyin edib daha sonra tipini yaradiriq bu zaman var en yuxariya qalxir yeni kodu isletdiyimiz zaman.<br/>
 <p>
  <img src="image\image2,js\js53.png" width="300" alt="sekil silinib" title="Var-in let ,const 2ci ferqi."/>
- <img src="image\image2,js\netice26.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
+ <img src="image\image2,js\netice26.png" width="300" alt="sekil silinib" title="Netice."/>
+</p>
+<i>Var-in let ,const 3cu ferqi</i>.Var qlobal skopdur yeni bu o demekdir ki vari ifinde icinde yazsan el catandir diger let ve const ferqli olaraq.<br/>
+<p>
+ <img src="image\image2,js\js54.png" width="300" alt="sekil silinib" title="Var-in let ,const 3cu ferqi."/>
+ <img src="image\image2,js\netice27.png" width="300" alt="sekil silinib" title="Netice."/>
 </p>
 </details></details>
