@@ -536,4 +536,8 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js59.png"  alt="sekil silinib" title="Sade methodlar."/>
  </p>
+ <i><b>Anonim fuctions.</b></i>
+<p>
+ <img src="image\image2,js\js60.png"  alt="sekil silinib" title="Anonim fuctions."/>
+ </p>
 </details>
