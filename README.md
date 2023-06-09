@@ -494,5 +494,10 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 </p><br/>
 </details>
 <details><summary><b>var,let</b></summary>
-
-</details>
+<details><summary><b>var</b></summary>
+<i>Var-in digerlerinden 1ci ferqi.</i>Digerlerinden ferqli olaraq 2 datani eyni qutunun uzerine almaq olar ve bu zaman sonuncunu gotrecek.<br/>
+<p>
+ <img src="image\image2,js\js52.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
+ <img src="image\image2,js\netice25.png" width="300" alt="sekil silinib" title="setTimeout methodu."/>
+</p><br/>
+</details></details>
