@@ -531,3 +531,9 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
  <img src="image\image2,js\js58.png"  alt="sekil silinib" title="string ve Methodlar."/>
  </p>
 </details>
+<details><summary><b>Methodlari ve novleri</b></summary>
+<i><b>Sade methodlar.</b></i>
+<p>
+ <img src="image\image2,js\js59.png"  alt="sekil silinib" title="Sade methodlar."/>
+ </p>
+</details>
