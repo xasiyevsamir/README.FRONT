@@ -285,7 +285,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <i>Heksa reng vermek</i><br/>
  <img src="image\image1\css17.png"  alt="sekil silinib" title="Css codu"/><br/>
 <i>rgb reng vermek</i><br/>
- <img src="image\image1\css18.png"  alt="sekil silinib" title="Css codu"/>
+ <img src="image\image1\css18.png"  alt="sekil silinib" title="Css codu"/><br/>
+ <i>rgba reng vermek.Burada sonuncu reqem 0 ile 1 arasinda ola biler ve buda onun seffafligini bildirir.</i><br/>
+ <img src="image\image1\css19.png"  alt="sekil silinib" title="Css codu"/>
 
 </p><br/>
 </details>
