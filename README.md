@@ -313,7 +313,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css26.png"  alt="sekil silinib" title="Css codu"/>
 </p><br/>
 <i>font-family</i>.Font-family dedikde textin hansi formada yazilmagini bildirir yeni Time romans ve s .Diger font-family -leri yukluyub isdifade ede bilerik asagida kecidi yerlesdirmisem.<br/>
-<a href="https://fonts.google.com/">font-family kecid et.</a>
+<a href="https://fonts.google.com/">font-family kecid et.</a><br/>
 <p>
  <img src="image\image1\css27.png"  alt="sekil silinib" title="Css codu"/>
 </p>
