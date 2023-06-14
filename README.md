@@ -293,12 +293,22 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css19.png"  alt="sekil silinib" title="Css codu"/><br/>
  <i>hsl rengi.Bu reng ise heksa ile rgb birlesmesinden alinir.</i><br/>
  <img src="image\image1\css20.png"  alt="sekil silinib" title="Css codu"/>
-
 </p><br/>
 </details>
 
 ---
 
+<details><summary><b>Tekster uzerinde emeliyyat.</b></summary>
+<i><b>Tesklerin siftinin olcusunu deyismek</b>.Bunn 3 yolu var <b>px</b> ,<b>rem</b> ve <b>em</b> bularin bir birinden ferqlerini asagida izah  etmisem.<br/>
+<i>px ile</i><br/>
+<p>
+ <img src="image\image1\css23.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css22.png" width="250" height="200" alt="sekil silinib" title="css codu"/>
+ <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+
+</p>
+
+</details>
 <p align="center">
 <b >(JS)</b>
 </p>
