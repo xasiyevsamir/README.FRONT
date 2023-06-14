@@ -276,6 +276,14 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\netice16.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 </details>
+<b>________________________________________________________________________________________________________________________</b>
+<details><summary><b>Taglara reng vermek.</b></summary>
+<i>Heksa reng vermek</i><br/>
+<p>
+ <img src="image\image1\css17.png"  alt="sekil silinib" title="html codu"/>
+
+</p><br/>
+</details>
 
 ---
 
