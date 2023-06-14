@@ -303,7 +303,10 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css23.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css22.png" width="250" height="200" alt="sekil silinib" title="css codu"/>
  <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
-
+</p><br/>
+<i>rem ile</i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.
+<p>
+ <img src="image\image1\css25.png"  alt="sekil silinib" title="Css codu"/>
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
