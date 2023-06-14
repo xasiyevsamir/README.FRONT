@@ -283,7 +283,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 
 <p>
 <i>Heksa reng vermek</i><br/>
- <img src="image\image1\css17.png"  alt="sekil silinib" title="Css codu"/>
+ <img src="image\image1\css17.png"  alt="sekil silinib" title="Css codu"/><br/>
 <i>rgb reng vermek</i><br/>
  <img src="image\image1\css18.png"  alt="sekil silinib" title="Css codu"/>
 
