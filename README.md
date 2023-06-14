@@ -163,7 +163,7 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 <p align="center">
 <b >(CSS)</b>
 </p>
-<details><summary><b>Html bezi Qaydalar</b></summary>
+<details><summary><b>CSS bezi Qaydalar</b></summary>
 <b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
 1.  **inline** --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe **style="backgroud:red"** bu cur vermekle olur.
@@ -280,9 +280,12 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
 </details>
 <b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>Taglara reng vermek.</b></summary>
-<i>Heksa reng vermek</i><br/>
+
 <p>
- <img src="image\image1\css17.png"  alt="sekil silinib" title="html codu"/>
+<i>Heksa reng vermek</i><br/>
+ <img src="image\image1\css17.png"  alt="sekil silinib" title="Css codu"/>
+<i>rgb reng vermek</i><br/>
+ <img src="image\image1\css18.png"  alt="sekil silinib" title="Css codu"/>
 
 </p><br/>
 </details>
