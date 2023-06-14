@@ -202,6 +202,8 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\netice4.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 </details>
+<b>________________________________________________________________________________________________________________________</b>
+
 <details><summary><b>Bezi teqlere muraciyet.</b></summary>
  Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
 <p>
