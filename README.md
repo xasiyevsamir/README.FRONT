@@ -305,9 +305,9 @@ Bu elementlər <head> tagında bir arada istifadə edilə bilər və səhifənin
  <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 
 </p>
+</details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
-</details>
 <p align="center">
 <b >(JS)</b>
 </p>
