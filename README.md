@@ -317,6 +317,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p>
  <img src="image\image1\css27.png"  alt="sekil silinib" title="Css codu"/>
 </p>
+<i>font-style</i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
+<p>
+ <img src="image\image1\css28.png"  alt="sekil silinib" title="Css codu"/>
+ <img src="image\image1\netice17.png"  alt="sekil silinib" title="Netice"/>
+</p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
