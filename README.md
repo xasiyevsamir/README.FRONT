@@ -330,7 +330,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <i>font-align</i>.Font-align dedikde texti asagidaki kimi ten ortaya getrir.<br/>
 <p>
  <img src="image\image1\css30.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
- <img src="image\image1\netice19.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\css31.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\netice19.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
