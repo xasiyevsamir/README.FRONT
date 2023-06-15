@@ -322,6 +322,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css28.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
 </p>
+<i>font-variant</i>.Font-variant dedikde texti asagidaki sekilde yazir.<br/>
+<p>
+ <img src="image\image1\css29.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
+ <img src="image\image1\netice18.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
+</p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
