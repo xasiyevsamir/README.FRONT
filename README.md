@@ -10,7 +10,7 @@
 
 # <b>(head)</b>
 
-- <b>(head)</b> Əsas HTML sənətinin head tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
+<b>(head)</b> Əsas HTML sənətinin head tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
 <head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
 
