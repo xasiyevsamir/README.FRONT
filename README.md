@@ -158,7 +158,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.
 4. Prettier Code--codu formata salir.Yuklemek ucundur.
 </details>
-<b>--------------------------------------------------------------------------------------------------------------------------------</b>
+<b>-------------------------------------------------------------------------------------------------------------------------</b>
 
 <p align="center">
 <b >(CSS)</b
