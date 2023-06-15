@@ -335,7 +335,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <i>Burada ise sozler eyni anda basliyir ve eyni anda bitir qanuna uygunsuzluq yoxdur</i><br/>
  <img src="image\image1\css32.png" width="250" height="200" alt="sekil silinib" title="Css codu"/><br/><br/>
  <img src="image\image1\netice20.png"  alt="sekil silinib" title="Netice"/><br/>
-
+ <i>text-align-last:</i><br/>
+ <img src="image\image1\css33.png" width="250" height="200" alt="sekil silinib" title="Css codu"/><br/><br/>
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
