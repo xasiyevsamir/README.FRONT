@@ -1,7 +1,7 @@
 <p align="center">
 <b >(Html)</b>
 </p>
-
+<details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
 
 1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
@@ -157,8 +157,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
 3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.
 4. Prettier Code--codu formata salir.Yuklemek ucundur.
-
----
+</details>
+<b>----------------------------------------------------------------------------------------------------------------------------------</b>
 
 <p align="center">
 <b >(CSS)</b
