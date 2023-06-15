@@ -320,7 +320,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <i>font-style</i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
 <p>
  <img src="image\image1\css28.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
- <img src="image\image1\netice17.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
