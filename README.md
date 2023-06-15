@@ -2,7 +2,7 @@
 <b >(Html)</b>
 </p>
 
-# <b>(FRONT-GIRIS)</b>
+<b>(FRONT-GIRIS)</b>
 
 1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
 
@@ -29,7 +29,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 ---
 
-# <b>(body)</b>
+<b>(body)</b>
 
 0. <b>body</b> --> body teqi ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body teqinde yazilir. Mes: burada bis salam sozunu yazdiq.body teqininde icersinde de bir cox teqler var meselen bunlar asagidakilardir.
 
@@ -91,7 +91,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 ---
 
-# <b>(Formlar)</b
+<b>(Formlar)</b
 
 1. <b>form)</b> bu forum her hansi bir datani icine yazmagimizi teskil edir.
 2. <b>input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"), button)</b> form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (<b>submit</b>-- hazir olan melumati gondermek ucun olan bir duymedir.), (<b>password</b>--ise password daxil etmek ucundur.), (<b>number</b>- ise yalniz reqem tipli datalar yazmaq ucundur.), (<b>color</b>- ise reng secimini etmek olar.) , (<b>date</b>-tarixi secmek ucun isdifade edilir), (<b>time</b>-saati secmek ucun isdifade edilir), (<b>datetime</b>-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(<b>week</b>-yalniz hefdeni secmek ucundur), (<b>month</b>- yalniz aylari secmek ucundur.), (<b>checkbox</b>--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada <b>radio</b> ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (<b>file</b> --ise sekil elave etmek ucundur.) (<b>search</b>--axdaris ucun isdifade edilir.) (<b>range</b>- bu ise azalib artma oxudur.), (<b>image</b> --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (<b>reset</b>--doldurulan formu sifirlamaq ucundur.) (<b>hidden</b>-- isdifadecin id gizletmek ucundur), (<b>button</b> da submit ile eynidir yeni her hansi duymedir ve bunlar forumda bas veren hadiseleri bazaya ve ya basqa yere gondermek ucundur.) .Adi butondan ferqlidirler adi button forumun daxilinde deyil basqa kenar hisselerede olur. <b>button>Gonder/button></b> kimi yazilir.
@@ -104,7 +104,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 ---
 
-# <b>(Atributlar)</b>
+<b>(Atributlar)</b>
 
 1. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
 2. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.
@@ -125,21 +125,21 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 ---
 
-# <b>iframe</b>
+<b>iframe</b>
 
 1. <b>iframe src="" frameborder="0" iframe</b> -- iframe dedikde her hansi bir sehveni oz sehvemizde acmaq ucun isdifade edilir.Burada <b>src</b> -e yerlesdirmek isdediyimiz sehvenin <b>url</b> -i yazmaliyiq.
 2. <b>frameborder="1"</b> --bu ise kenarliq teyin etmek ucundur.
 
 ---
 
-# <b>audio ve video</b>
+<b>audio ve video</b>
 
 1. <b>audio (controls, autoplay, loop, muted,) >source src=""> audio></b>- bu teq ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde <b>source</b> teqi olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.<b>controls</b> bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. <b>autoplay</b> ise vebe daxil olan kimi musiqi seslenir.<b>loop</b> ise sonsuz seslenmesi ucundur .<b>muted</b> bu atribut ise defolt olaraq ses olmasini bildirir.
 2. <b>video (controls autoplay, loop, muted, poster)="", >source src="" > video</b> --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi <b>poster</b> atributudur.<b>poster</b> atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.
 
 ---
 
-# <b>Sehivenin bolunusu</b>
+<b>Sehivenin bolunusu</b>
 
 <b>QEYD:</b> Sehve 3 yere bolunur <b>header</b>, <b>aside</b>, <b>main</b>, <b>footer</b>.
 
@@ -151,7 +151,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 6. <b>figure</b> -teqinin icerisinde <b>img</b> teqi ve sekil haqqinda melumat ucun <b>figcaption</b>teqi yazilir.
 7. <b>footer</b> - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.
 
-# <b>(Bezi acar simvollar)</b>
+<b>(Bezi acar simvollar)</b>
 
 1. ./ --> Hal-hazirda oldugumuz qovlugu bildirir.
 2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
