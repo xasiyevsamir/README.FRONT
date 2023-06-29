@@ -327,7 +327,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css29.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\netice18.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
 </p>
-<i>font-align</i>.Font-align dedikde texti asagidaki kimi ten ortaya getrir.<br/>
+<i>font-align</i>.Font-align dedikde texti asagidaki kimi tam ortaya getrir.<br/>
 <p>
  <img src="image\image1\css30.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\css31.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
@@ -337,6 +337,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\netice20.png"  alt="sekil silinib" title="Netice"/><br/><br/><br/>
  <i>text-align-last:</i><br/>
  <img src="image\image1\css33.png"  alt="sekil silinib" title="Css codu"/><br/><br/>
+ <img src="image\image1\css34.png"  alt="sekil silinib" title="right etdikde"/><br/><br/>
+ 
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
