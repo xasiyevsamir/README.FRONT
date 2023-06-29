@@ -298,36 +298,36 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>Tekster uzerinde emeliyyat.</b></summary>
 <i><b>Tesklerin siftinin olcusunu deyismek</b>.Bunn 3 yolu var <b>px</b> ,<b>rem</b> ve <b>em</b> bularin bir birinden ferqlerini asagida izah  etmisem.<br/>
-<i>px ile</i><br/>
+<i><b>px ile</b></i><br/>
 <p>
  <img src="image\image1\css23.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css22.png" width="250" height="200" alt="sekil silinib" title="css codu"/>
  <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<i>rem ile</i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun teqlerin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
+<i><b>rem ile</b></b></i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun teqlerin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
 <p>
  <img src="image\image1\css25.png"  alt="sekil silinib" title="Css codu"/>
 </p>
-<i>em ile</i>.em ile olcu verdikde em oz pareti varsa yeni ozunden bir ust teq varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
+<i><b>em ile</b></i>.em ile olcu verdikde em oz pareti varsa yeni ozunden bir ust teq varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
 <p>
  <img src="image\image1\css26.png"  alt="sekil silinib" title="Css codu"/>
 </p><br/>
-<i>font-family</i>.Font-family dedikde textin hansi formada yazilmagini bildirir yeni Time romans ve s .Diger font-family -leri yukluyub isdifade ede bilerik asagida kecidi yerlesdirmisem.<br/>
+<i><b>font-family</b></i>.Font-family dedikde textin hansi formada yazilmagini bildirir yeni Time romans ve s .Diger font-family -leri yukluyub isdifade ede bilerik asagida kecidi yerlesdirmisem.<br/>
 <a href="https://fonts.google.com/">1.font-family kecid et.</a><br/>
 <p>
  <img src="image\image1\css27.png"  alt="sekil silinib" title="Css codu"/>
 </p>
-<i>font-style</i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
+<i><b>font-style</b></i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
 <p>
  <img src="image\image1\css28.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
 </p>
-<i>font-variant</i>.Font-variant dedikde texti asagidaki sekilde yazir.<br/>
+<i><b>font-variant</b></i>.Font-variant dedikde texti asagidaki sekilde yazir.<br/>
 <p>
  <img src="image\image1\css29.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\netice18.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
 </p>
-<i>font-align</i>.Font-align dedikde texti asagidaki kimi tam ortaya getrir.<br/>
+<i><b>font-align</b></i>.Font-align dedikde texti asagidaki kimi tam ortaya getrir.<br/>
 <p>
  <img src="image\image1\css30.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\css31.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
@@ -335,10 +335,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <i>Burada ise sozler eyni anda basliyir ve eyni anda bitir qanuna uygunsuzluq yoxdur</i><br/>
  <img src="image\image1\css32.png" width="250" height="200" alt="sekil silinib" title="Css codu"/><br/><br/>
  <img src="image\image1\netice20.png"  alt="sekil silinib" title="Netice"/><br/><br/><br/>
- <i>text-align-last:</i><br/>
+ <i><b>text-align-last: right ve last</b></i><br/>
  <img src="image\image1\css33.png"  alt="sekil silinib" title="Css codu"/><br/><br/>
  <img src="image\image1\css34.png"  alt="sekil silinib" title="right etdikde"/><br/><br/>
- 
 </p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
