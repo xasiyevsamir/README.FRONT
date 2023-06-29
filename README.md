@@ -356,7 +356,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\netice23.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
 <p><i><b>Bir nece ozelliyi eyni anda yaza bilerik.</b></i><br/>
 <img src="image\image1\css42.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>/<p>
+<img src="image\image1\netice24.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
 <p><i><b>text-decoration-style: ;</b>.Xetlerin hansi formada oldugunu gosdermek ucundur.Bunlari 3 yolu sekildeki kimi gosderilib.</i><br/>
 <img src="image\image1\css43.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\css44.png"  alt="sekil silinib" title="Netice"/></p>
@@ -364,6 +364,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css45.png" alt="sekil silinib" title="Netice"/></p>
 <p><i><b> text-decoration-thickness: 10px;.</b> Xettin olcusunu deyisdikde.</i><br/>
 <img src="image\image1\css47.png" alt="sekil silinib" title="Netice"/></p>
+<p><i><b> text-indent: 40px;.</b>Metine abzas verir.</i><br/>
+<img src="image\image1\css46.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice25.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
