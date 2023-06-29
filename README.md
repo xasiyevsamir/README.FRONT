@@ -361,7 +361,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css43.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\css44.png"  alt="sekil silinib" title="Netice"/></p>
 <p><i><b> text-decoration-color: blue;</b> Xettin rengini deyisdikde.</i><br/>
-<img src="image\image1\css45.png" alt="sekil silinib" title="Netice"/>
+<img src="image\image1\css45.png" alt="sekil silinib" title="Netice"/></p>
+<p><i><b> text-decoration-thickness: 10px;;</b> Xettin olcusunu deyisdikde.</i><br/>
+<img src="image\image1\css46.png" alt="sekil silinib" title="Netice"/></p>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
