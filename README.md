@@ -339,25 +339,27 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css33.png"  alt="sekil silinib" title="Css codu"/><br/><br/>
  <img src="image\image1\css34.png"  alt="sekil silinib" title="right etdikde"/><br/><br/>
 </p>
- <i><b>text-transform: capitalize;</b>Butun sozlerin birinci herifini boyuk herifle yazir.</i><br/>
+<p> <i><b>text-transform: capitalize;</b>Butun sozlerin birinci herifini boyuk herifle yazir.</i><br/>
  <img src="image\image1\css37.png"  alt="sekil silinib" title="html codu"/><br/>
  <img src="image\image1\css36.png"  alt="sekil silinib" title="Css codu"/><br/>
- <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/><br/>
+ <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/></p>
  <i><b>text-decoration: ;</b></i><br/>
  <img src="image\image1\css40.png"  alt="sekil silinib" title="Css codu"/><br/>
-
-<i><b>text-decoration-line: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
+<p><i><b>text-decoration-line: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
 <img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice21.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
+<img src="image\image1\netice21.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
 <i><b>text-decoration-line: line-through;</b>Butun sozlerin ustunden xett cekir.</i><br/>
-<img src="image\image1\css38.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice22.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
-<i><b>text-decoration-line: overline;</b>Butun sozlerin uzerinden xett cekir.</i><br/>
+<p><img src="image\image1\css38.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice22.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
+<p><i><b>text-decoration-line: overline;</b>Butun sozlerin uzerinden xett cekir.</i><br/>
 <img src="image\image1\css41.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice23.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
-<i><b>Bir nece ozelliyi eyni anda yaza bilerik.</b></i><br/>
+<img src="image\image1\netice23.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
+<p><i><b>Bir nece ozelliyi eyni anda yaza bilerik.</b></i><br/>
 <img src="image\image1\css42.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice24.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
+<img src="image\image1\netice24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>/<p>
+<p><i><b>text-decoration-style: ;</b>.Xetlerin hansi formada oldugunu gosdermek ucundur.Bunlari 3 yolu sekildeki kimi gosderilib.</i><br/>
+<img src="image\image1\css43.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\css44.png"  alt="sekil silinib" title="Netice"/></p>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
