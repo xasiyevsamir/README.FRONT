@@ -344,11 +344,14 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css36.png"  alt="sekil silinib" title="Css codu"/><br/>
  <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/><br/>
  <i><b>text-decoration: ;</b></i><br/>
- <img src="image\image1\css38.png"  alt="sekil silinib" title="Css codu"/><br/>
+ <img src="image\image1\css40.png"  alt="sekil silinib" title="Css codu"/><br/>
 
-<i><b>text-decoration: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
+<i><b>text-decoration-line: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
 <img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice21.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
+<i><b>text-decoration-line: line-through;</b>Butun sozlerin uzerinden xett cekir.</i><br/>
+<img src="image\image1\css38.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice22.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
