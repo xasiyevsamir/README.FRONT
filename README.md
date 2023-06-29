@@ -339,6 +339,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css33.png"  alt="sekil silinib" title="Css codu"/><br/><br/>
  <img src="image\image1\css34.png"  alt="sekil silinib" title="right etdikde"/><br/><br/>
 </p>
+ <i><b>text-transform: capitalize;</b></i><br/>
+ <img src="image\image1\css37.png"  alt="sekil silinib" title="html codu"/><br/><br/>
+ <img src="image\image1\css36.png"  alt="sekil silinib" title="Css codu"/><br/><br/>
+ <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/><br/><br/>
+
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
