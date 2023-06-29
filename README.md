@@ -347,8 +347,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css38.png"  alt="sekil silinib" title="Css codu"/><br/>
 
 <i><b>text-decoration: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
-<img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/><br/>
-<img src="image\image1\netice21.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/><br/><br/>
+<img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice21.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
