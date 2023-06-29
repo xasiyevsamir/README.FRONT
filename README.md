@@ -360,6 +360,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p><i><b>text-decoration-style: ;</b>.Xetlerin hansi formada oldugunu gosdermek ucundur.Bunlari 3 yolu sekildeki kimi gosderilib.</i><br/>
 <img src="image\image1\css43.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\css44.png"  alt="sekil silinib" title="Netice"/></p>
+<p><i><b> text-decoration-color: blue;</b> Xettin rengini deyisdikde.</i><br/>
+<img src="image\image1\css45.png" alt="sekil silinib" title="Netice"/>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
