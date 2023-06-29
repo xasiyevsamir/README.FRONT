@@ -304,7 +304,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css22.png" width="250" height="200" alt="sekil silinib" title="css codu"/>
  <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<i><b>rem ile</b></b></i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun teqlerin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
+<i><b>rem ile</b></i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun teqlerin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
 <p>
  <img src="image\image1\css25.png"  alt="sekil silinib" title="Css codu"/>
 </p>
