@@ -343,7 +343,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css37.png"  alt="sekil silinib" title="html codu"/><br/>
  <img src="image\image1\css36.png"  alt="sekil silinib" title="Css codu"/><br/>
  <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/></p>
- <i><b>text-decoration: ;</b></i><br/>
+ <i><b>text-decoration: ;</b>text-decoration-line: ile text-decoration: ferqi ise line dedikde yalniz bir ozellik yeni ya altdan ya usden ya da ki uzerinden xet cekile biler line yazmasaq ise bunlarin her birini eyni anda vere bilerik.</i><br/>
  <img src="image\image1\css40.png"  alt="sekil silinib" title="Css codu"/><br/>
 <p><i><b>text-decoration-line: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
 <img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
