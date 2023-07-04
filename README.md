@@ -320,7 +320,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <i><b>font-style</b></i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
 <p>
  <img src="image\image1\css28.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
- <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/><br/>
+ <img src="image\image1\css48.png"  alt="sekil silinib" title="font-weight"/>
+
 </p>
 <i><b>font-variant</b></i>.Font-variant dedikde texti asagidaki sekilde yazir.<br/>
 <p>
