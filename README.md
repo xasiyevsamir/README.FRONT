@@ -223,7 +223,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css7.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice8.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>(href) Atributunun sonu az ile bitrse</b> .Onda asagidaki sekildeki kimi <b>$</b> isaresi ile yazilir.
+<b>(href) Atributunun value sonu az ile bitrse</b> .Onda asagidaki sekildeki kimi <b>$</b> isaresi ile yazilir.
 <p>
  <img src="image\image1\sehve3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css8.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -370,10 +370,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css46.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice25.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p><br/>
 <p><i><b> ::first-letter.</b>Isdediyimiz metnin ilk herifine bir nece ozellik vere bilerik.Ve bu butun teglere aid deyil.</i><br/>
-<img src="image\image1\css49.png" alt="sekil silinib" title="Chatgbt"/><br/>
 <img src="image\image1\css50.png" alt="sekil silinib" title="Chatgbt"/><br/>
+<img src="image\image1\css49.png" alt="sekil silinib" title="Chatgbt"/><br/>
 <img src="image\image1\css51.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice26.png"  alt="sekil silinib" title="Netice"/></p><br/>
+<a href="https://chat.openai.com/">1.text-shadow etrafli oxu.</a><br/>
+
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
