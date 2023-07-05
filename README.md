@@ -378,7 +378,6 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <a href="https://www.w3schools.com/cssref/css3_pr_text-shadow.php">1.text-shadow etrafli oxu.</a>
 <img src="image\image1\css52.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice53.png"  alt="sekil silinib" title="Netice"/></p>
-<br/>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
