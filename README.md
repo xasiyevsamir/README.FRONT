@@ -374,7 +374,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css49.png" alt="sekil silinib" title="Chatgbt"/><br/>
 <img src="image\image1\css51.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice26.png"  alt="sekil silinib" title="Netice"/></p><br/>
-<a href="https://chat.openai.com/">1.text-shadow etrafli oxu.</a><br/>
+<p><i><b> text-shadow:</b>Metne kolge effekti vermek ucundur.</i><br/>
+<a href="https://www.w3schools.com/cssref/css3_pr_text-shadow.php">1.text-shadow etrafli oxu.</a>
+<img src="image\image1\css52.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice53.png"  alt="sekil silinib" title="Netice"/></p>
+<br/>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
