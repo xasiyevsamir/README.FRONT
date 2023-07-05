@@ -308,7 +308,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p>
  <img src="image\image1\css25.png"  alt="sekil silinib" title="Css codu"/>
 </p>
-<i><b>em ile</b></i>.em ile olcu verdikde em oz pareti varsa yeni ozunden bir ust teq varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
+<i><b>em ile</b></i>.em ile olcu verdikde em oz parenti varsa yeni ozunden bir ust teq varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
 <p>
  <img src="image\image1\css26.png"  alt="sekil silinib" title="Css codu"/>
 </p><br/>
@@ -345,7 +345,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css37.png"  alt="sekil silinib" title="html codu"/><br/>
  <img src="image\image1\css36.png"  alt="sekil silinib" title="Css codu"/><br/>
  <img src="image\image1\css35.png"  alt="sekil silinib" title="Netice"/></p>
- <i><b>text-decoration: ;</b>text-decoration-line: ile text-decoration: ferqi ise line dedikde yalniz bir ozellik yeni ya altdan ya usden ya da ki uzerinden xet cekile biler line yazmasaq ise bunlarin her birini eyni anda vere bilerik.</i><br/>
+ <i><b>text-decoration: ;</b>text-decoration-line: ile text-decoration: ferqi ise line dedikde yalniz bir ozellik yeni  ferq etmez altindan usdunden ve ya uzerinden eyni anda ya altindan yadaki her 3nu ede bilerik, altdan ya usden ya da ki uzerinden xet cekile biler line yazmasaq ise bunlarin her birini eyni anda vere bilerik.</i><br/>
  <img src="image\image1\css40.png"  alt="sekil silinib" title="Css codu"/><br/>
 <p><i><b>text-decoration-line: underline;</b>Butun sozlerin altindan xett cekir.</i><br/>
 <img src="image\image1\css39.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
@@ -368,8 +368,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css47.png" alt="sekil silinib" title="Netice"/></p>
 <p><i><b> text-indent: 40px;.</b>Metine abzas verir.</i><br/>
 <img src="image\image1\css46.png" alt="sekil silinib" title="Css codu"/>
-<img src="image\image1\netice25.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p>
-
+<img src="image\image1\netice25.png" width="250" height="200" alt="sekil silinib" title="Netice"/></p><br/>
+<p><i><b> ::first-letter.</b>Isdediyimiz metnin ilk herifine bir nece ozellik vere bilerik.Ve bu butun teglere aid deyil.</i><br/>
+<img src="image\image1\css49.png" alt="sekil silinib" title="Chatgbt"/><br/>
+<img src="image\image1\css50.png" alt="sekil silinib" title="Chatgbt"/><br/>
+<img src="image\image1\css51.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice26.png"  alt="sekil silinib" title="Netice"/></p><br/>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
