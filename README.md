@@ -384,6 +384,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p><i><b> word-spacing:</b>Sözlər arasinda boşluğu bildirir.</i><br/>
 <img src="image\image1\css55.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice28.png"  alt="sekil silinib" title="Netice"/></p>
+<p><i><b> line-height:</b>Sətirlər arasinda boşluğu bildirir.</i><br/>
+<img src="image\image1\css56.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice29.png"  alt="sekil silinib" title="Netice"/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
