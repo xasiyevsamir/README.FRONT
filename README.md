@@ -378,7 +378,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <a href="https://www.w3schools.com/cssref/css3_pr_text-shadow.php">1.text-shadow etrafli oxu.</a>
 <img src="image\image1\css52.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\css53.png"  alt="sekil silinib" title="Netice"/></p>
-
+<p><i><b> letter-spacing:</b>Həriflər arasinda boşluğu bildirir.</i><br/>
+<img src="image\image1\css54.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice27.png"  alt="sekil silinib" title="Netice"/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
