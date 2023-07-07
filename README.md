@@ -4,7 +4,7 @@
 <details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
 
-1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> teqleri ile baslayir ve bitir.Umumi baxanda html ozu teqlerden ibaretdir. Html ozude 2 teqlerden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde teqlerden isdifade olunur ve teqlere de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
+1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> tag-lari ile baslayir ve bitir.Umumi baxanda html ozu tag-larden ibaretdir. Html ozude 2 tag-larden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde tag-larden isdifade olunur ve tag-lare de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
 
 ---
 
@@ -19,7 +19,7 @@
 
 2. <b>meta</b> >>>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
 
-3. <b>link rel="icon" href=""</b> >>>>bu teqde head icerisinde yazilir lakin bu acilan anda baglanan teqlerdendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar <b>Relative (Menasi-qohum, yaxinliq)</b> ve ya <b>Absolute (Menasi ise tamamile)</b>. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+3. <b>link rel="icon" href=""</b> >>>>bu tag-de head icerisinde yazilir lakin bu acilan anda baglanan tag-lardendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar <b>Relative (Menasi-qohum, yaxinliq)</b> ve ya <b>Absolute (Menasi ise tamamile)</b>. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
 
 4. <b>script</b> >>>> JavaScript kodunun head tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
 
@@ -31,33 +31,33 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 <b>(body)</b>
 
-0. <b>body</b> --> body teqi ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body teqinde yazilir. Mes: burada bis salam sozunu yazdiq.body teqininde icersinde de bir cox teqler var meselen bunlar asagidakilardir.
+0. <b>body</b> --> body tag-i ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body tag-inde yazilir. Mes: burada bis salam sozunu yazdiq.body tag-ininde icersinde de bir cox tag-lar var meselen bunlar asagidakilardir.
 
-1. <b>P</b> --> Paraqraf teqidir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
+1. <b>P</b> --> Paraqraf tag-idir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
 2. <b>span</b> --> span ise butov bir setri tutmur ve yanasi gelir.
-3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu teqlerle ise basliqlari vere bilerik burada en boyuk teq h1 ve en kiciyi ise h6 dir.
+3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu tag-larle ise basliqlari vere bilerik burada en boyuk tag- h1 ve en kiciyi ise h6 dir.
 4. <b>(div)</b>-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
 5. <b>img src="" alt="sekilin adi fln" width=(seklin eni demekdir)"50% ve ya 50px" height=(seklin hundurluyu demekdir) title="(Kontak-Home)</b> -->bu img ile sekil yukleye bilerik burada <b>src</b> sekilin saxlandigi yer <b>alt</b> ise sekil haqqinda nese yaza bilerik. <b>img</b> olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (<b>width="")</b> ifadeden isdifade edilir. Dediyimiz kimi iki cur olcu vere bilerik. Faizle verdikde <b>(width="50%")</b> bele, pikselle verdikde ise <b>(width="50px")</b> kimi ifade edilir.Biz burada seklin hundurluyunu de artira bilerik lakin seklin effektliyi ite biler. Qeyd: Eger biz seklin eni ve hundurluyunu artirib azaldanda % ve px yazmasaq defult olaraq px(piksel qebul edir).
-   Buradda <b>(title="Kontak-Home)</b> bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. <b>(title)</b> atributu qulobaldir ve butun teqlerde isdifade ede bilerik.
-6. <b>u</b> bu teq daxil etdiyimiz sozun altindan xet cekir.
-7. <b>i)</b> bu teq ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
-8. <b>em)</b> bu teqde i teqi ile eynidir lakin i teqine nisbeten daha moderindir.Yeni burazerde daha yaxsi basa dusur i teqine nisbeten.
-9. <b>s)</b> bu teq ise sozun uzerinden xett cekir.
-10. <b>del)</b> bu teqde s teqi ile eynidir.
-11. <b>b)</b> bu teq sozu daha qalin yazdirir.
-12. <b>strong)</b> bu teqde b teqi ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b teqine nisbeten.
-13. <b>details</b> -bu teq ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> teqi ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.
-14. <b>address</b> - bu teq ilede biz adresimizi yaza bilerik ve footer teqinin icinde address ve onun icindede a teqini yaza bilerik.
+   Buradda <b>(title="Kontak-Home)</b> bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. <b>(title)</b> atributu qulobaldir ve butun tag-larde isdifade ede bilerik.
+6. <b>u</b> bu tag- daxil etdiyimiz sozun altindan xet cekir.
+7. <b>i)</b> bu tag- ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
+8. <b>em)</b> bu tag-de i tag-i ile eynidir lakin i tag-ine nisbeten daha moderindir.Yeni burazerde daha yaxsi basa dusur i tag-ine nisbeten.
+9. <b>s)</b> bu tag- ise sozun uzerinden xett cekir.
+10. <b>del)</b> bu tag-de s tag-i ile eynidir.
+11. <b>b)</b> bu tag- sozu daha qalin yazdirir.
+12. <b>strong)</b> bu tag-de b tag-i ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b tag-ine nisbeten.
+13. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.
+14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.
 
 ---
 
 # </b>(KECIDLER)</b>
 
 <b>Qeyd:)</b> Kecidler iki cur olur seyfe daxili ve seyfe xarici . Seyfe daxili kecidler hal-hazirda oldugun seyfenin her hansi bir noqtesine gedise deyilir Mes: 100 setrlik melumatin 20 setrine gedis. Seyfe daxili kecidler ise basqa seyfelere yonlendirmekdi meselen kilik etdikde isdagrama ,watsaba, ve eyni seyfenin daxilinde basqa bir seyfeye kecid adlanir.
-<b>(Qeyd:)</b> Kecit etmek ucun <b>(a teqinden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))</b> .Ve Acilib baglanan teqdir.
+<b>(Qeyd:)</b> Kecit etmek ucun <b>(a tag-inden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))</b> .Ve Acilib baglanan tag-dir.
 
-1. <b>a href="#">Kecid et<a vv>)</b> burada a teqini yazmisiq yeni xarici kecid <b>href)</b> bos olduqda reslef edir yeni seyfeni yeniliyir #
-   yazdiqda seyfe daxilinda dayanir ve her hanfdssi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada <b>target)</b> atributu var ki biz a teqine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq \_self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. <b> a)</b> teqi ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.
+1. <b>a href="#">Kecid et<a vv>)</b> burada a tag-ini yazmisiq yeni xarici kecid <b>href)</b> bos olduqda reslef edir yeni seyfeni yeniliyir #
+   yazdiqda seyfe daxilinda dayanir ve her hanfdssi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada <b>target)</b> atributu var ki biz a tag-ine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq \_self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. <b> a)</b> tag-i ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.
 2. <b>a href="tel:+994516687023">Zeng eta)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>tel:)</b> acar sozdur.
 3. <b>a href="mailto:samirakh@code.edu.az">gmail ile elaqe saxla a)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>mailto:)</b> acar sozdur.
 4. <b>a href="../Sekil/download.png" download> neyise yuklemek ucun dowload </a>)</b> bu kodla ise nelerise yukluye bilerik.
@@ -100,7 +100,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 5. <b>select)</b> secimleri saxlamaq ucundur her bir secim option-da saxlanilir.Yeni selectlerin icinde option yazilir option icinde ise optgroup yazilir.
 6. <b>option)</b> 1 secim saxlamaq ucundur.
 7. <b>optgroup lable=seher qrupu ve ya axsam qrupu)</b> opsinlarin icerisinde ferqlendirmek ucundur.
-8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis teqinin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada teqlerin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
+8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
 
 ---
 
@@ -134,7 +134,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 <b>audio ve video</b>
 
-1. <b>audio (controls, autoplay, loop, muted,) >source src=""> audio></b>- bu teq ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde <b>source</b> teqi olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.<b>controls</b> bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. <b>autoplay</b> ise vebe daxil olan kimi musiqi seslenir.<b>loop</b> ise sonsuz seslenmesi ucundur .<b>muted</b> bu atribut ise defolt olaraq ses olmasini bildirir.
+1. <b>audio (controls, autoplay, loop, muted,) >source src=""> audio></b>- bu tag- ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde <b>source</b> tag-i olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.<b>controls</b> bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. <b>autoplay</b> ise vebe daxil olan kimi musiqi seslenir.<b>loop</b> ise sonsuz seslenmesi ucundur .<b>muted</b> bu atribut ise defolt olaraq ses olmasini bildirir.
 2. <b>video (controls autoplay, loop, muted, poster)="", >source src="" > video</b> --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi <b>poster</b> atributudur.<b>poster</b> atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.
 
 ---
@@ -143,12 +143,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 
 <b>QEYD:</b> Sehve 3 yere bolunur <b>header</b>, <b>aside</b>, <b>main</b>, <b>footer</b>.
 
-1. <b>header</b> -teqinin icersinde <b>nav</b> teqleri ve kecid ucun <b>a</b> teqlerinden isdifade olunur.
-2. <b>aside</b> -teqinin icersinde iframe yazila biler cunki <b>main</b> sehvesinden elave bir yer tutur ve buna misal olaraq oxu.az sayitindaki narin reklamini misal gosdere bilerik.
-3. <b>main</b> -teqinin icersinde <b>article</b>, <b>figure</b>, <b>p</b> ve <b>section</b> teqleri isdifade olunur burada section teqi evvelki div-i evez edir.
-4. <b>section</b> -teqinin icerisindede cox vax bu <b>article</b> teqi yazilir.
-5. <b>article</b> -teqinin icerisinde ise <b>figure</b>, <b>p</b> teqi ve s.yazilir.
-6. <b>figure</b> -teqinin icerisinde <b>img</b> teqi ve sekil haqqinda melumat ucun <b>figcaption</b>teqi yazilir.
+1. <b>header</b> -tag-inin icersinde <b>nav</b> tag-lari ve kecid ucun <b>a</b> tag-larinden isdifade olunur.
+2. <b>aside</b> -tag-inin icersinde iframe yazila biler cunki <b>main</b> sehvesinden elave bir yer tutur ve buna misal olaraq oxu.az sayitindaki narin reklamini misal gosdere bilerik.
+3. <b>main</b> -tag-inin icersinde <b>article</b>, <b>figure</b>, <b>p</b> ve <b>section</b> tag-lari isdifade olunur burada section tag-i evvelki div-i evez edir.
+4. <b>section</b> -tag-inin icerisindede cox vax bu <b>article</b> tag-i yazilir.
+5. <b>article</b> -tag-inin icerisinde ise <b>figure</b>, <b>p</b> tag-i ve s.yazilir.
+6. <b>figure</b> -tag-inin icerisinde <b>img</b> tag-i ve sekil haqqinda melumat ucun <b>figcaption</b>tag-i yazilir.
 7. <b>footer</b> - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.
 
 <b>(Bezi acar simvollar)</b>
@@ -166,11 +166,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <details><summary><b>CSS bezi Qaydalar</b></summary>
 <b>CSS-fayili .css kimi yaradilir.</b> - html-in rengini, yerinin deyisdirilmesi, olcusu, animasiyalari, ve s. duzeltmek ucundur.<b>CSS</b> 3 Cur html ile elaqendirmek olar.<b>1.inline>2.internal>3.external</b>
 
-1.  <b>inline</b> --bu bir basa teqe css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir teqe 3 cur css versek teqin icersinde yazilan inline css tesir edecek.Bu yol teqe <b>style="backgroud:red"</b> bu cur vermekle olur.
-2.  <b>internal</b> --bu yol ise <b>head</b> icerisinde <b>style</b> teqi acaraq ve onun icerisinde teqe css verilir ve quvvetliyine gore 2ci yeri tutur.
-3.  <b>external</b> --bu yol ise <b>css</b> fayi yaradaraq html fayilindan basqa css fayilinda teqlere css vermekle bas verir ve quvvetliyine gore en zeyifidir. Bu fayili <b>link rel="" herf=""</b> codu ile qosulur. 4.<b>!important</b> -- bu acar sozu biz hansi atributun qarsisina atsaq hemin atribut deyismiyecek mes: <b>color !important</b> yeni bu o demekdir biz hemin teqe basqa yerde colorunu deyissek deyismiyecek bir sozle import olunan coloru oldugu kimi saxliyacaq esas bu reng olsun kimi.
-4.  <b>class</b> --teqleri ayirmaq ucun onlara <b>class</b> verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele <b>div class="div-class teqclass"</b> yazmaq olar .Burda bizim 2 classimiz var 1ci class <b>div-class</b> 2ci class ise <b>teqclass</b> -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar <b>.</b> ile cagrilir.Bir class adini diger teqe vere bilerik burdaki div teqindeki div-clasi p teqine vere bilerik.
-5.  <b>id</b> --teqleri ayirmagin diger yolu ise id-dir. <b>div id="div-id"</b> burada teqlerin yalniz 1 aydisi olur ve diger teqlere eyni ile bu id verile bilmez her teqe 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id <b>#</b> isaresi ile cagrilir.
+1.  <b>inline</b> --bu bir basa tag-e css vermekle bas verir ve quvvetliyine gore en boyuyudur,yeni bir tag-e 3 cur css versek tag-in icersinde yazilan inline css tesir edecek.Bu yol tag-e <b>style="backgroud:red"</b> bu cur vermekle olur.
+2.  <b>internal</b> --bu yol ise <b>head</b> icerisinde <b>style</b> tag-i acaraq ve onun icerisinde tag-e css verilir ve quvvetliyine gore 2ci yeri tutur.
+3.  <b>external</b> --bu yol ise <b>css</b> fayi yaradaraq html fayilindan basqa css fayilinda tag-lare css vermekle bas verir ve quvvetliyine gore en zeyifidir. Bu fayili <b>link rel="" herf=""</b> codu ile qosulur. 4.<b>!important</b> -- bu acar sozu biz hansi atributun qarsisina atsaq hemin atribut deyismiyecek mes: <b>color !important</b> yeni bu o demekdir biz hemin tag-e basqa yerde colorunu deyissek deyismiyecek bir sozle import olunan coloru oldugu kimi saxliyacaq esas bu reng olsun kimi.
+4.  <b>class</b> --tag-lari ayirmaq ucun onlara <b>class</b> verilir. Class adlari arali ola bilmez arali oldugu halda 1 yox 2 class oldugunu basa dusur ,class-larin adini bele <b>div class="div-class tag-class"</b> yazmaq olar .Burda bizim 2 classimiz var 1ci class <b>div-class</b> 2ci class ise <b>tag-class</b> -dir. Ara qoymaqla bir nece class yarada bilerik.Classlar <b>.</b> ile cagrilir.Bir class adini diger tag-e vere bilerik burdaki div tag-indeki div-clasi p tag-ine vere bilerik.
+5.  <b>id</b> --tag-lari ayirmagin diger yolu ise id-dir. <b>div id="div-id"</b> burada tag-larin yalniz 1 aydisi olur ve diger tag-lare eyni ile bu id verile bilmez her tag-e 1 id yazila biler classdaki kimi 2 class eyni anda verildiyi kimi 2 id verile bilmez.Id <b>#</b> isaresi ile cagrilir.
 6.  <b>ul li css reng vermek izahi 1.</b>- burada bir nece yol var ve bu yollara asagidaki sekillerle ile izah verek. Bu sekillerde gorunduyu kimi biz <b>first-child</b> yazdiqda ilk birincini rengini deyisir.
 <p>
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
@@ -183,7 +183,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css1.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice1.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>3-cu yolu:</b> Bu yolda ise isdediyimiz qeder <b>li</b> teqine reng vere bilerik .Ancaq bu <b>nth-child(sira daxil edin)</b> kodu yazmaliyiq ve <b>sira daxil edin</b> yerine reqem yaziriq. Mes: Sekilde biz <b>3-cu ve 5ci</b> li-ye reng vermek isdemisik.Asagidaki sekilden baxa bilerik.
+<b>3-cu yolu:</b> Bu yolda ise isdediyimiz qeder <b>li</b> tag-ine reng vere bilerik .Ancaq bu <b>nth-child(sira daxil edin)</b> kodu yazmaliyiq ve <b>sira daxil edin</b> yerine reqem yaziriq. Mes: Sekilde biz <b>3-cu ve 5ci</b> li-ye reng vermek isdemisik.Asagidaki sekilden baxa bilerik.
 <p>
  <img src="image\image1\ul li izah.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\cssnth.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -204,20 +204,20 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 </details>
 <b>________________________________________________________________________________________________________________________</b>
 
-<details><summary><b>Bezi teqlere muraciyet.</b></summary>
- Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p teqinin classi <b>item</b>-dirsa ora tesir et demisik.
+<details><summary><b>Bezi tag-lare muraciyet.</b></summary>
+ Asagidaki sekilde ki kimi <b>p.item</b> dedikde biz hardaki p tag-inin classi <b>item</b>-dirsa ora tesir et demisik.
 <p>
  <img src="image\image1\sehve1.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css5.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice6.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>p .item</b>--Burada <bosluq>bosluq</bosluq> onem dasiyir. Bosluq qoyduqda o demek olur ki p teqinin icerisinde <b>class="item"</b> beraber olan teqe tesir et.
+<b>p .item</b>--Burada <bosluq>bosluq</bosluq> onem dasiyir. Bosluq qoyduqda o demek olur ki p tag-inin icerisinde <b>class="item"</b> beraber olan tag-e tesir et.
 <p>
  <img src="image\image1\sehve2.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css6.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice7.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>Atributlarla teqe tesir.</b> Sekildeki teqin target atributundan isdifade ederek teqe tesir etdik.
+<b>Atributlarla tag-e tesir.</b> Sekildeki tag-in target atributundan isdifade ederek tag-e tesir etdik.
 <p>
  <img src="image\image1\sehve3.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css7.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -235,25 +235,25 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css9.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice10.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>(herf) atributunun icersinde her hasisa herif olarsa</b>. Bu o demekdirki isdenilen herife gore teqe tesir ede bilerik.Asagidaki sekilde l herifine gore tesir etmisik ve oda linkede var.
+<b>(herf) atributunun icersinde her hasisa herif olarsa</b>. Bu o demekdirki isdenilen herife gore tag-e tesir ede bilerik.Asagidaki sekilde l herifine gore tesir etmisik ve oda linkede var.
 <p>
  <img src="image\image1\sehve4.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css10.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice11.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b> isenilen teqden sonra ilk gelen teqe tesir.</b> Burada <b>+</b> isaresi ile biz divden sonra ilk gelen p teqe tesir etmisik sekilde baxa bilersiz.
+<b> isenilen tag-den sonra ilk gelen tag-e tesir.</b> Burada <b>+</b> isaresi ile biz divden sonra ilk gelen p tag-e tesir etmisik sekilde baxa bilersiz.
 <p>
  <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css11.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice12.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b> isenilen teqden sonra gelen isdenilen teqe tesir.</b> Burada <b>~</b> isaresi ile biz divden sonra gelen butun p teqe tesir etmisik sekilde baxa bilersiz.
+<b> isenilen tag-den sonra gelen isdenilen tag-e tesir.</b> Burada <b>~</b> isaresi ile biz divden sonra gelen butun p tag-e tesir etmisik sekilde baxa bilersiz.
 <p>
  <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css12.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice13.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b> * yazdiqda ise butun teqlere ayid olur</b> .Asagidaki sekildeki kimi.
+<b> * yazdiqda ise butun tag-lare ayid olur</b> .Asagidaki sekildeki kimi.
 <p>
  <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -271,7 +271,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css15.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan teqin komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
+<b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 <p>
  <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
@@ -304,11 +304,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css22.png" width="250" height="200" alt="sekil silinib" title="css codu"/>
  <img src="image\image1\css24.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<i><b>rem ile</b></i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun teqlerin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
+<i><b>rem ile</b></i>.Rem ile olcu verdikde 1 rem 16 piksel demekdir yeni html 16 piksel olur defolt olaraq.Yalniz html-den olcu gotrur.Yeni html olcusunu azaltdiqda butun tag-larin font-size tesir edecek ve buda responsivlikde bize cox komek edecek.
 <p>
  <img src="image\image1\css25.png"  alt="sekil silinib" title="Css codu"/>
 </p>
-<i><b>em ile</b></i>.em ile olcu verdikde em oz parenti varsa yeni ozunden bir ust teq varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
+<i><b>em ile</b></i>.em ile olcu verdikde em oz parenti varsa yeni ozunden bir ust tag- varsa onun olcusunden gotrur yoxdusa ise onda html -dan gotrur rem ise yalniz html-den gotrur.<br/>
 <p>
  <img src="image\image1\css26.png"  alt="sekil silinib" title="Css codu"/>
 </p><br/>
@@ -317,7 +317,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p>
  <img src="image\image1\css27.png"  alt="sekil silinib" title="Css codu"/>
 </p>
-<i><b>font-style</b></i>.Font-family dedikde texti i teqi kimi eyri kimi gosderir.<br/>
+<i><b>font-style</b></i>.Font-family dedikde texti i tag-i kimi eyri kimi gosderir.<br/>
 <p>
  <img src="image\image1\css28.png" width="250" height="200" alt="sekil silinib" title="Css codu"/>
  <img src="image\image1\netice17.png" width="350" height="200" alt="sekil silinib" title="Netice"/><br/>
@@ -388,12 +388,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <details><summary><b>JS-i html-e qosmaq.</b></summary>
 <a herf="https://javascript.info/">Ja</a>
 <b>Js de 3 cur yazilis var</b>.Bu yazilislardan yalniz 2si cox isdifade edilir. <b>internal ve external</b>.Bu yazilisdarda eyni ile css kimi yazilir. Qeyd: JS de codu html codundan sonra ve evel yazila biler amma asagidaki sertlere uygun olaraq.<br/>
-<b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> teqi yazmaqla bas verir.
+<b>1.internal yazilis</b>: Burada body icerisinde <b>script</b> tag-i yazmaqla bas verir.
 <p>
  <img src="image\image2,js\js1.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
  <img src="image\image2,js\Netice.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>2.external yazilis</b>: Burada body icerisinde <b>script</b> teqine src yazmaqla bas verir.
+<b>2.external yazilis</b>: Burada body icerisinde <b>script</b> tag-ine src yazmaqla bas verir.
 <p>
  <img src="image\image2,js\js2.png" width="250" height="200" alt="sekil silinib" title="JS codu"/>
 </p><br/>
@@ -647,7 +647,7 @@ Arreylerin bir nece yazilisi var bunlari asagidaki sekilde gsdermisem.
 <p>
  <img src="image\image2,js\js60.png"  alt="sekil silinib" title="Anonim fuctions."/>
  </p>
-  <i><b>Callback fuctions.</b>Callback function-lar eslinde bir methodun icerisine diger method gondermekdir ve gonderdiyimiz mothodu oz isdeyimize gore isledirik.</i>
+  <em><b>Callback fuctions.</b>Callback function-lar eslinde bir methodun icerisine diger method gondermekdir ve gonderdiyimiz mothodu oz isdeyimize gore isledirik.</em>
 <p>
  <img src="image\image2,js\js61.png"  alt="sekil silinib" title="Callback fuctions."/>
  <img src="image\image2,js\netice29.png"  alt="sekil silinib" title="Netice."/>
