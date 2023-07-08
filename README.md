@@ -389,7 +389,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\netice29.png"  alt="sekil silinib" title="Netice"/></p>
 <p><i><b> min-width: 150px; max-width: 350px;</b>Təglərin max ve minumumu.Görunduyu kimi divin max 350px min ise 150px dir.Lakin daxilindeki text divi ezib kecirş</i><br/>
 <img src="image\image1\css57.png" alt="sekil silinib" width="250" height="200" title="Css codu"/>
-<img src="image\image1\netice30.png" width="300" height="200" alt="sekil silinib" title="Netice"/></p>
+<img src="image\image1\netice30.png" width="400" height="200" alt="sekil silinib" title="Netice"/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
