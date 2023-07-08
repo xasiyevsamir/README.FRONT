@@ -387,6 +387,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p><i><b> line-height:</b>Sətirlər arasinda boşluğu bildirir.</i><br/>
 <img src="image\image1\css56.png" alt="sekil silinib" title="Css codu"/>
 <img src="image\image1\netice29.png"  alt="sekil silinib" title="Netice"/></p>
+<p><i><b> min-width: 150px; max-width: 350px;</b>Təglərin max ve minumumu.Görunduyu kimi divin max 350px min ise 150px dir.Lakin daxilindeki text divi ezib kecirş</i><br/>
+<img src="image\image1\css57.png" alt="sekil silinib" title="Css codu"/>
+<img src="image\image1\netice30.png"  alt="sekil silinib" title="Netice"/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
