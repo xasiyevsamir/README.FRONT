@@ -398,6 +398,8 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\netice32.png"alt="sekil silinib" title="Netice"/></p>
 <i><b>overflow:scroll;</b>. Dedikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise scrol yaradir.Bu atributda scroll dedikde auto dan ferqli olaraq asma oldu olmadi scroll-u hemise yaradir.</i><br/>
 <img src="image\image1\netice33.png"alt="sekil silinib" title="Netice"/></p>
+<i><b>overflow-x:scroll, overflow-y:hidden </b>. Dedikde x oxu uzre scroll ve y oxu uzre scroll nece olmagini teyin ede bilerik .</i><br/>
+<img src="image\image1\css59.png"alt="sekil silinib" title="CSS code"/></p>
 
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
