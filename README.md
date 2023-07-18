@@ -392,11 +392,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\netice30.png" width="400" height="200" alt="sekil silinib" title="Netice"/></p>
 <p><i><b>overflow:;.</b>Bu atribut ile textleri div ve diger teqleri asarsa o zaman scrol yaratmaq ve asmanin qarsisini almaq ucundur.</i><br/>
 <img src="image\image1\css58.png" alt="sekil silinib" width="450" height="300" title="Css codu"/><br/>
-<i><b>overflow:hidden;</b>. Ddikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise qirir.</i><br/>
+<i><b>overflow:hidden;</b>. Dedikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise qirir.</i><br/>
 <img src="image\image1\netice31.png"alt="sekil silinib" title="Netice"/></p>
-<i><b>overflow:auto;</b>. Ddikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise scrol yaradir.Eger asma olmazsa scroll yaratmir asma olarsa ise avtomatic scroll yaranir.</i><br/>
+<i><b>overflow:auto;</b>. Dedikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise scrol yaradir.Eger asma olmazsa scroll yaratmir asma olarsa ise avtomatic scroll yaranir.</i><br/>
 <img src="image\image1\netice32.png"alt="sekil silinib" title="Netice"/></p>
-<i><b>overflow:scroll;</b>. Ddikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise scrol yaradir.Bu atributda scroll dedikde auto dan ferqli olaraq asma oldu olmadi scroll-u hemise yaradir.</i><br/>
+<i><b>overflow:scroll;</b>. Dedikde divin icerisindeki textin asmasinin qarsisini alir yeni div oz olcusu qeder text qebul edir yerde qalanini ise scrol yaradir.Bu atributda scroll dedikde auto dan ferqli olaraq asma oldu olmadi scroll-u hemise yaradir.</i><br/>
 <img src="image\image1\netice33.png"alt="sekil silinib" title="Netice"/></p>
 
 </details>
