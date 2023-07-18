@@ -1,5 +1,5 @@
 <p align="center">
-<b >(Html)</b>
+<b >(Html5)</b>
 </p>
 <details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
