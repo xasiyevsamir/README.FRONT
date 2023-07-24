@@ -1,5 +1,5 @@
 <p align="center">
-<video src="(Slowed-Reverb)%20-%20%C5%9Eiire%20Gazele%20-%20Ahmet%20Kaya%20(1080P).mp4" controls title="Title"></video>
+"G:\Diskim\Musiqiler\VidyoMahnilar\(Slowed-Reverb) - Şiire Gazele - Ahmet Kaya (1080P).mp4"
 <b >(Html5)</b>
 </p>
 <details><summary><b>Html melumat</b></summary>
