@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zKR0-jKx_F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video controls autoplay loop muted src="H:\Diskim\Motivasiya\VID_20230724_220221.mp4"></video>
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
