@@ -405,13 +405,16 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p><img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
 <i><b> word-break:break-all; word-break:keep-all; </b>.</i><br/>
-<><img src="image\image1\css62.png"alt="sekil silinib" title="CSS code"/>
-<p><img src="image\image1\css63.png"alt="sekil silinib" title="HTML code"/>
+<p><img src="image\image1\css62.png"alt="sekil silinib" title="CSS code"/>
+<img src="image\image1\css63.png"alt="sekil silinib" title="HTML code"/>
 <img src="image\image1\netice34.png"alt="sekil silinib" title="Netice"/></p>
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>İkonlar uzerinde emeliyyat.</b></summary>
-
+<a href="https://fontawesome.com/search?o=r&m=free">Ikon goturmek.</a><br/>
+<p><img src="image\image1\css65.png"alt="sekil silinib" title="JS code"/>
+<img src="image\image1\css64.png"alt="sekil silinib" title="Sayitdaki link goturmeliyik ve head teqinin arasina daxil etmeliyik ki ikonumuz islesin."/>
+<img src="image\image1\css66.png"alt="sekil silinib" title="HTML code .Sonra ise iconun teq formasinda yazilisini html sehvemize daxil edirik."/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
