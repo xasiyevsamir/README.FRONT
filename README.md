@@ -1,5 +1,4 @@
 <p align="center">
-"G:\Diskim\Musiqiler\VidyoMahnilar\(Slowed-Reverb) - Şiire Gazele - Ahmet Kaya (1080P).mp4"
 <b >(Html5)</b>
 </p>
 <details><summary><b>Html melumat</b></summary>
