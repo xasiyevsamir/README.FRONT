@@ -404,7 +404,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <i><b>white-space:nowrap; </b>. Dedikde biz butun texti bir setirde yaza bilerik.</i><br/>
 <p><img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
+<i><b> word-break:break-all; word-break:keep-all; </b>.</i><br/>
+<p><img src="image\image1\css62.png"alt="sekil silinib" title="CSS code"/>
+<img src="image\image1\netice34.png"alt="sekil silinib" title="Netice"/></p>
+</p>
 </details>
+
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
 <p align="center">
