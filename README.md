@@ -271,7 +271,15 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css15.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
+<b>(transition: ;) --Bu kod ile biz rengin arxa fon renginin ve ya boyumenin hansi zaman araliginda bas vermesini teyin ede bilerik.</b>.Asagidaki coda uygun olaraq.
+<p>
+ <img src="image\image1\css68.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
+ <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+</p><br/>
+
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
+
 <p>
  <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css16.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
