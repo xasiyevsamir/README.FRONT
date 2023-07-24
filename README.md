@@ -1,10 +1,10 @@
 <p align="center">
 <b >(Html5)</b>
 </p>
+<p>
+<video src="https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4efe2830-4885-44d4-87d0-cb164b64b2a1"></video>
 
-
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4efe2830-4885-44d4-87d0-cb164b64b2a1
-
+</p>
 
 <details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
