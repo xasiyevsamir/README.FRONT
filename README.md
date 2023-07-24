@@ -400,7 +400,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\netice33.png"alt="sekil silinib" title="Netice"/></p>
 <i><b>overflow-x:scroll, overflow-y:hidden </b>. Dedikde x oxu uzre scroll ve y oxu uzre scroll nece olmagini teyin ede bilerik.</i><br/>
 <p><img src="image\image1\css59.png"alt="sekil silinib" title="CSS code"/>
-<img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
+<img src="image\image1\css60.png"alt="sekil silinib"  width="250" height="200" title="Netice"/></p>
 <i><b>white-space:nowrap; </b>. Dedikde biz butun texti bir setirde yaza bilerik.</i><br/>
 <p><img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
