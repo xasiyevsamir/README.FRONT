@@ -1,4 +1,5 @@
-<p align="center">
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5f3ece4c-dab6-4d33-97cb-199aa6d37436
+<p align="center">   
 <b >(Html5)</b>
 </p>
 <details><summary><b>Html melumat</b></summary>
