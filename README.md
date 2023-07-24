@@ -1,4 +1,9 @@
-<p align="center">   
+
+<p a
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7
+
+lign="center">   
 <b >(Html5)</b>
 </p>
 <details><summary><b>Html melumat</b></summary>
