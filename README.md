@@ -402,7 +402,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css59.png"alt="sekil silinib" title="CSS code"/></p>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
 <i><b>white-space:nowrap; </b>. Dedikde biz butun texti bir setirde yaza bilerik.</i><br/>
-<img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/></p>
+<p><img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
