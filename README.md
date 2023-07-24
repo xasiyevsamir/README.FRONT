@@ -1,4 +1,4 @@
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5f3ece4c-dab6-4d33-97cb-199aa6d37436
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
@@ -426,7 +426,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <img src="image\image1\css66.png"alt="sekil silinib" title="HTML code .Sonra ise iconun teq formasinda yazilisini html sehvemize daxil edirik."/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
-
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5f3ece4c-dab6-4d33-97cb-199aa6d37436
 <p align="center">
 <b >(JS)</b>
 </p>
