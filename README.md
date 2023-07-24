@@ -1,4 +1,4 @@
-<video controls autoplay loop muted src="H:\Diskim\Motivasiya\VID_20230724_220221.mp4"></video>
+[![Watch the video](https://www.youtube.com/watch?v=zKR0-jKx_F8&t=21s)](https://www.youtube.com/watch?v=zKR0-jKx_F8&t=21s)
 
 <p align="center">   
 <b >(Html5)</b>
