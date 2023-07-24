@@ -271,7 +271,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css15.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-<b>(transition: ;) --Bu kod ile biz rengin arxa fon renginin ve ya boyumenin hansi zaman araliginda bas vermesini teyin ede bilerik.</b>.Asagidaki coda uygun olaraq.Burada gorunduyu kimi demisik ki 2 saniyeye rengi deyissin 3 saniyeye ise arxa fon rengi.
+<b>(transition: ;) --Bu kod ile biz rengin arxa fon renginin ve ya boyumenin hansi zaman araliginda bas vermesini teyin ede bilerik.</b>.Asagidaki coda uygun olaraq.Burada gorunduyu kimi demisik ki 2 saniyeye rengi deyissin 3 saniyeye ise arxa fon rengi.Bu codlar yalniz hover ve active etdikde bas verir.
 <p>
  <img src="image\image1\css68.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
