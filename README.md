@@ -1,4 +1,5 @@
-<iframe src="H:\Diskim\Motivasiya\VID_20230724_220221.mp4" frameborder="0"></iframe>
+<video controls autoplay loop muted source src="https://www.youtube.com/watch?v=zKR0-jKx_F8&t=21s"></video>
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
