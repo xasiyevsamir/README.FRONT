@@ -278,7 +278,11 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-[transition-timing-function.zip](https://github.com/xasiyevsamir/README.FRONT/files/12152297/transition-timing-function.zip)
+
+
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/feeeee44-c92c-418a-a58e-afc767b32488
+
 
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
