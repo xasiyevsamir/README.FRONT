@@ -2,7 +2,7 @@
 <b >(Html5)</b>
 </p>
 
-<video source controls muted src="G:\Diskim\Musiqiler\VidyoMahnilar\(Slowed-Reverb) - Şiire Gazele - Ahmet Kaya (1080P).mp4"></video>
+<p><video source controls muted src="G:\Diskim\Musiqiler\VidyoMahnilar\(Slowed-Reverb) - Şiire Gazele - Ahmet Kaya (1080P).mp4"></video></p>
 
 <details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
