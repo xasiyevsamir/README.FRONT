@@ -405,13 +405,12 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 <p><img src="image\image1\css61.png"alt="sekil silinib" title="CSS code"/>
 <img src="image\image1\css60.png"alt="sekil silinib" title="Netice"/></p>
 <i><b> word-break:break-all; word-break:keep-all; </b>.</i><br/>
-<p><img src="image\image1\css62.png"alt="sekil silinib" title="CSS code"/>
+<><img src="image\image1\css62.png"alt="sekil silinib" title="CSS code"/>
 <p><img src="image\image1\css63.png"alt="sekil silinib" title="HTML code"/>
 <img src="image\image1\netice34.png"alt="sekil silinib" title="Netice"/></p>
-</p><b>________________________________________________________________________________________________________________________</b>
-<details><summary><b>İkonlar uzerinde emeliyyat.</b></summary>
 </details>
-
+<p><b>________________________________________________________________________________________________________________________</b>
+<details><summary><b>İkonlar uzerinde emeliyyat.</b></summary>
 <b>------------------------------------------------------------------------------------------------------------------------------</b>
 
 <p align="center">
