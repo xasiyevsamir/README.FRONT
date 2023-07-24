@@ -2,7 +2,7 @@
 <b >(Html5)</b>
 </p>
 
-<video src="https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4efe2830-4885-44d4-87d0-cb164b64b2a1"></video>
+<video source controls muted src="https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4efe2830-4885-44d4-87d0-cb164b64b2a1"></video>
 
 <details><summary><b>Html melumat</b></summary>
 <b>(FRONT-GIRIS)</b>
