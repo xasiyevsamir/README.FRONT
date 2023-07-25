@@ -8,9 +8,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> tag-lari ile baslayir ve bitir.Umumi baxanda html ozu tag-larden ibaretdir. Html ozude 2 tag-larden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde tag-larden isdifade olunur ve tag-lare de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
 [![Follow Mohamed El-Qassas GitHub]("H:\Diskim\Motivasiya\VID_20230725_182108.mp4")](https://github.com/melqassas/)
 ---
-
 # <b>(head)</b>
-
+</video>
 <b>(head)</b> Əsas HTML sənətinin head tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
 <head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
@@ -280,10 +279,12 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>(transition: ;) --Bu kod ile biz rengin arxa fon renginin ve ya boyumenin hansi zaman araliginda bas vermesini teyin ede bilerik.</b>.Asagidaki coda uygun olaraq.Burada gorunduyu kimi demisik ki 2 saniyeye rengi deyissin 3 saniyeye ise arxa fon rengi.Bu codlar yalniz hover ve active etdikde bas verir.
+
 <p>
  <img src="image\image1\css68.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
- <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
+   
 </p><br/>
 <i><b>transition-timing-function: ;--</b></i>
 
