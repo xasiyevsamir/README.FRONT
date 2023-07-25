@@ -108,7 +108,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
    <b>_________________________________________________________________________________________</b><br/>
  https:githubcomxasiyevsamirREADMEFRONTassets1251926880ab76d7f-67a7-47bd-940d-f39b878b8
-<b>(Atributlar)</b>
+#<b>(Atributlar)</b>
 9. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
 10. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.
 11. <b>disabled</b> --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir.
