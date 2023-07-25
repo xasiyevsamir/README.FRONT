@@ -161,6 +161,10 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 </details>
 <b>-------------------------------------------------------------------------------------------------------------------------</b>
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc-92f8-16b65a9250d7
+
+
 <p align="center">
 <b >(CSS)</b
 </p>
