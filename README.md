@@ -66,6 +66,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9
 
 ---
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82-a876-e9c0d0bb5a66
+
+
 # <b>(Listler)</b>
 
 1. Listler iki cur olur. Sirali ve sirasiz.Sirasiz listler ucun ferq etmir birinci ile axrincinin yerini deyissek.Lakin sirali lislerde ise tam eksidir onlarda birinci gelen birinci axrinci gelen ise axrinci olmalidir ve sirali reqemler a-z ve ya A-Z siralanir ve rum reqemleri ilede siralana biler.
@@ -105,7 +109,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9
 8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
 
 ---
-
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/0ab76d7f-67a7-47bd-940d-f39b878be028
 <b>(Atributlar)</b>
 
 1. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
