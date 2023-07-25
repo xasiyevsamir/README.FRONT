@@ -107,8 +107,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 6. <b>option)</b> 1 secim saxlamaq ucundur.
 7. <b>optgroup lable=seher qrupu ve ya axsam qrupu)</b> opsinlarin icerisinde ferqlendirmek ucundur.
 8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
-
----
+<b>-------------------------------------------------------------------------------------------------------------------------</b>
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/0ab76d7f-67a7-47bd-940d-f39b878be028
 <b>(Atributlar)</b>
 
