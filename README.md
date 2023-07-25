@@ -127,6 +127,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 
 ---
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5428dca2-3417-4c1b-b818-c03bc8c7a736
+
+
 <b>iframe</b>
 
 1. <b>iframe src="" frameborder="0" iframe</b> -- iframe dedikde her hansi bir sehveni oz sehvemizde acmaq ucun isdifade edilir.Burada <b>src</b> -e yerlesdirmek isdediyimiz sehvenin <b>url</b> -i yazmaliyiq.
