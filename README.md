@@ -51,6 +51,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.
 
 ---
+
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9-9cef-a6f03336bd28
 
 # </b>(KECIDLER)</b>
@@ -66,9 +67,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9
 
 ---
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82-a876-e9c0d0bb5a66
-
 
 # <b>(Listler)</b>
 
@@ -107,26 +106,25 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 6. <b>option)</b> 1 secim saxlamaq ucundur.
 7. <b>optgroup lable=seher qrupu ve ya axsam qrupu)</b> opsinlarin icerisinde ferqlendirmek ucundur.
 8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
-<b>-------------------------------------------------------------------------------------------------------------------------</b>
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/0ab76d7f-67a7-47bd-940d-f39b878be028
+   <b>_________________________________________________________________________________________</b><br/>
+ https:githubcomxasiyevsamirREADMEFRONTassets1251926880ab76d7f-67a7-47bd-940d-f39b878b8
 <b>(Atributlar)</b>
-
-1. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
-2. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.
-3. <b>disabled</b> --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir.
-4. <b>readonly</b> --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz.
-5. <b>selected</b> --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir.
-6. <b>maxlength</b> --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
-7. <b>minlength</b> --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
-8. <b>required</b> --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir.
-9. <b>autofocus</b> --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.
-10. <b>input type=number</b> olduqda onum <b>max</b> ve <b>min</b> <b>step=10</b> qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.
-11. <b>input type=date</b> olduqda <b>max=23-05-26 min=2023-6-01</b> burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin.
-12. <b>input type=checkbox</b> olduqda <b>checked</b> atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder.
-13. <b>input type=file</b> olduqda 1 fail secmek ucundur ama <b>multiple</b> atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve <b>accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"</b> yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa <b>input type=file multiple accept="image/png,image/jpeg"</b> sece bilerik.Qeyd: Eger biz <b>video</b> yuklesek onda <b>image</b> yerine <b>video</b> yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur.
-14. <b>input type=range</b> de min ve max var.
-15. <b>form autocomplete="on ve ya off"</b> bu atribu ise <b>on</b> olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq <b>on</b>-dur,ekis halda ise off etmek lazimdir.
-16. <b>form action="link ve yaxud id"</b>-- bu atribut ise forma gonder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
+9. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.
+10. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.
+11. <b>disabled</b> --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir.
+12. <b>readonly</b> --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz.
+13. <b>selected</b> --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir.
+14. <b>maxlength</b> --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
+15. <b>minlength</b> --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.
+16. <b>required</b> --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir.
+17. <b>autofocus</b> --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.
+18. <b>input type=number</b> olduqda onum <b>max</b> ve <b>min</b> <b>step=10</b> qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.
+19. <b>input type=date</b> olduqda <b>max=23-05-26 min=2023-6-01</b> burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin.
+20. <b>input type=checkbox</b> olduqda <b>checked</b> atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder.
+21. <b>input type=file</b> olduqda 1 fail secmek ucundur ama <b>multiple</b> atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve <b>accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"</b> yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa <b>input type=file multiple accept="image/png,image/jpeg"</b> sece bilerik.Qeyd: Eger biz <b>video</b> yuklesek onda <b>image</b> yerine <b>video</b> yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur.
+22. <b>input type=range</b> de min ve max var.
+23. <b>form autocomplete="on ve ya off"</b> bu atribu ise <b>on</b> olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq <b>on</b>-dur,ekis halda ise off etmek lazimdir.
+24. <b>form action="link ve yaxud id"</b>-- bu atribut ise forma gonder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
 
 ---
 
@@ -165,9 +163,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/0ab76d7f-67a7-47bd
 </details>
 <b>-------------------------------------------------------------------------------------------------------------------------</b>
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc-92f8-16b65a9250d7
-
 
 <p align="center">
 <b >(CSS)</b
@@ -286,7 +282,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
-
 
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
@@ -435,7 +430,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 <img src="image\image1\css66.png"alt="sekil silinib" title="HTML code .Sonra ise iconun teq formasinda yazilisini html sehvemize daxil edirik."/></p>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
- 
+
 
 <p align="center">
   
