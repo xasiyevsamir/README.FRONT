@@ -280,10 +280,12 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\netice15.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/>
 <b>(transition: ;) --Bu kod ile biz rengin arxa fon renginin ve ya boyumenin hansi zaman araliginda bas vermesini teyin ede bilerik.</b>.Asagidaki coda uygun olaraq.Burada gorunduyu kimi demisik ki 2 saniyeye rengi deyissin 3 saniyeye ise arxa fon rengi.Bu codlar yalniz hover ve active etdikde bas verir.
+
 <p>
  <img src="image\image1\css68.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
- <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
+ <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
+   
 </p><br/>
 
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
