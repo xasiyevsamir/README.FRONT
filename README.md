@@ -8,13 +8,12 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 1.<b>(index.html)</b> Bu <b>(html)</b> fayilidir .Html ne ucundur sualina cavab olaraq yaradilan sehvenin nece gorunmesini ve basliqi nece olmasini ve s. html ile hell olunur.Html fayili yaradarken isdifade olunur burada <b>(Index)</b> fayilin adidir ve <b>(html)</b> ise fayilin tipini gosderir. Biz Html fayili yaradarken muxdelif adlar vere bilerik mes: <b>(MAIN.html ve ya samir.html)</b> .Lakin html fayili yaratmaq ucun <b>(.html yazmaliyiq.Her bir html)</b> fayili html --> tag-lari ile baslayir ve bitir.Umumi baxanda html ozu tag-larden ibaretdir. Html ozude 2 tag-larden ibaretdir. bunlar asagidakilardir.HTML-de 4 etab var. Bunlar head ve body hissesidir ve head, body hisselerde tag-larden isdifade olunur ve tag-lare de atributlar vere bilerik.Atribut dedikde eni uzunlugu rengi ve s. nezerde tutulur.
 
 ---
+# <b>(head)</b>
 <video controls>
   <source src="videos/real-estate.mp4" type="video/mp4">
   <source src="videos/real-estate.ogv" type="video/ogg">
   Your browser does not support HTML5 video.  <a href="https://browsehappy.com/" target="_blank">Please upgrade your browser</a>
 </video>
-# <b>(head)</b>
-
 <b>(head)</b> Əsas HTML sənətinin head tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
 <head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
