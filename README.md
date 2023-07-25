@@ -51,6 +51,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.
 
 ---
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9-9cef-a6f03336bd28
 
 # </b>(KECIDLER)</b>
 
@@ -284,10 +285,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 </p><br/>
 
 
-
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/feeeee44-c92c-418a-a58e-afc767b32488
-
-
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
@@ -436,9 +433,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/feeeee44-c92c-418a
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
  
-
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9-9cef-a6f03336bd28
-
 
 <p align="center">
   
