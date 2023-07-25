@@ -9,10 +9,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 ---
 # <b>(head)</b>
-<video controls>
-  <source src="videos/real-estate.mp4" type="video/mp4">
-  <source src="videos/real-estate.ogv" type="video/ogg">
-  Your browser does not support HTML5 video.  <a href="https://browsehappy.com/" target="_blank">Please upgrade your browser</a>
 </video>
 <b>(head)</b> Əsas HTML sənətinin head tagi veb səhifənin başlıq bölməsini təmsil edir. <head> tagi, veb səhifədəki metatələr, stilsətirlər, skriptlər və digər məlumatların yerləşdiyi yerdir. İstifadəçinin veb səhifəyə baxarkən görə bilmədiyi, lakin brauzer tərəfindən istifadə edilən məlumatlar burada saxlanılır.
 
