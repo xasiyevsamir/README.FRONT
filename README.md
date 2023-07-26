@@ -285,7 +285,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a-9846-4f98f26cdb93
 
-
+<i><b>(transition-timing-function: ;)--</b>ease, ease-in, ease-out,ease-in-out, linear, step-start,step-end,step(2,start)<i><br/>
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
