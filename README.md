@@ -267,7 +267,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
 </p><br/>
 <i><b>(transition-timing-function: ;)--</b>ease, ease-in, ease-out,ease-in-out, linear, step-start,step-end,step(2,start)<i><br/>
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5da51943-634e-4359-80b1-fff398d08ea3
 <a href="https://www.w3schools.com/cssref/tryit.php?filename=trycss3_transition-timing-function2">1.transition-timing-function:-numunelerine bax..</a><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function">2.transition-timing-function:-numunelerine bax.</a><br/>
 <p>
