@@ -248,6 +248,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice114.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/></details>
+<b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>:hover ve :active transition.</b></summary>
 <b>(:hover) edende uzerine geldikde rengi deyisib olur qirmizi</b>.Asagidaki coda uygun olaraq.
 <p>
@@ -271,7 +272,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 <a href="https://www.w3schools.com/cssref/tryit.php?filename=trycss3_transition-timing-function2">1.transition-timing-function:-numunelerine bax..</a><br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function">2.transition-timing-function:-numunelerine bax.</a><br/>
 <p>
- <img src="image\image1\css69.png"  alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css69.png"  alt="sekil silinib" title="Surete gore qrafik."/>
 </p>
 <strong>--linear </strong> <i>Dedikde beraber suretli hereket bas verir.</i><br/>
 <strong>--ease-in </strong> <i>Evvelce yavas daha sonra ise suretlenir.</i><br/>
@@ -285,7 +286,11 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a-9846-4f98f26cdb93
 
-<i><b>(transition-delay: 2s color;)--</b>Burada ise biz colorun renginin deyismesini ise 2 saniye sonra baslamagini teleb etmisik. <i><br/>
+<i><b>(transition-delay: 2s color;)--</b>Burada ise biz colorun renginin deyismesini ise 2 saniye sonra baslamagini teleb etmisik. <i>
+
+<p>
+ <img src="image\image1\css70.png"  alt="sekil silinib" title="css code"/>
+</p>
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
