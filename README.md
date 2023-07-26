@@ -1,4 +1,5 @@
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
@@ -246,7 +247,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\sehve5.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
  <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice114.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
-</p><br/>
+</p><br/></details>
+<details><summary><b>:hover ve :active transition.</b></summary>
 <b>(:hover) edende uzerine geldikde rengi deyisib olur qirmizi</b>.Asagidaki coda uygun olaraq.
 <p>
  <img src="image\image1\sehve6.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
@@ -281,11 +283,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 <strong>--steps(3,end) </strong> <i>Bu ise 3 defeye bas verecekdir. Ve qeyd olunan zaman bitdikden sonra bas verecekdir</i><br/>
 <strong>--steps-(3,start) </strong> <i>Bu ise start olunan zaman baslayir islemeye.Ve 3 defeye bas verir.</i>
 
-
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a-9846-4f98f26cdb93
 
-<i><b>(transition-timing-function: ;)--</b>ease, ease-in, ease-out,ease-in-out, linear, step-start,step-end,step(2,start)<i><br/>
+<i><b>(transition-delay: 2s color;)--</b>Burada ise biz colorun renginin deyismesini ise 2 saniye sonra baslamagini teleb etmisik. <i><br/>
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
