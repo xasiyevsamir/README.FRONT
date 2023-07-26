@@ -446,6 +446,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
 <p><img src="image\image1\css73.png"alt="sekil silinib" title="CSS code"/></p>
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/43839af9-5019-45d9-86c2-c011c53d759f
+
+
 </details>
 </details>
 
