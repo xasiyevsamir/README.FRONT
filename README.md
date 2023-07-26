@@ -1,5 +1,9 @@
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1518e96a-bd7e-40cd-845a-38e1aa80b188
+
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
@@ -281,6 +285,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 <strong>--step-start </strong> <i>Bu ise start olunan zaman baslayir islemeye.</i><br/>
 <strong>--steps(3,end) </strong> <i>Bu ise 3 defeye bas verecekdir. Ve qeyd olunan zaman bitdikden sonra bas verecekdir</i><br/>
 <strong>--steps-(3,start) </strong> <i>Bu ise start olunan zaman baslayir islemeye.Ve 3 defeye bas verir.</i>
+
+
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a-9846-4f98f26cdb93
 
 
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
