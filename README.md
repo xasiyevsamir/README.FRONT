@@ -282,6 +282,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
 <strong>--steps(3,end) </strong> <i>Bu ise 3 defeye bas verecekdir. Ve qeyd olunan zaman bitdikden sonra bas verecekdir</i><br/>
 <strong>--steps-(3,start) </strong> <i>Bu ise start olunan zaman baslayir islemeye.Ve 3 defeye bas verir.</i><br/>
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5da51943-634e-4359-80b1-fff398d08ea3
+   <br/>
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
