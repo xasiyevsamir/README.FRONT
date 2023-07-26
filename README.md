@@ -284,6 +284,11 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5da51943-634e-4359
 <strong>--steps-(3,start) </strong> <i>Bu ise start olunan zaman baslayir islemeye.Ve 3 defeye bas verir.</i>
 
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/96cbc374-7b44-434f-9562-d9a5d52c27f3
+"H:\Diskim\Motivasiya\Helena Paparizou - My Number One (TariKara Remix) (240P).mp4"
+
+
 <b>(Css-de data saxlamaq ucun qutunun yaradilmasi)</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
 <p>
