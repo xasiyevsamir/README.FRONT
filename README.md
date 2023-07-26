@@ -445,10 +445,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
 <p><img src="image\image1\css73.png"alt="sekil silinib" title="CSS code"/></p>
 
-<b>margin video.</b><br/>
+<b>margin video.</b>
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/43839af9-5019-45d9-86c2-c011c53d759f
 
-<b>padding video.</b><br/>
+<b>padding video.</b>
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/60083c23-51c0-49a8-87a9-01b5e577e7f5
 
 </details>
