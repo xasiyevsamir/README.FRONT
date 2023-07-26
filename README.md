@@ -1,9 +1,4 @@
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7
-
-
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1518e96a-bd7e-40cd-845a-38e1aa80b188
-
-
 <p align="center">   
 <b >(Html5)</b>
 </p>
