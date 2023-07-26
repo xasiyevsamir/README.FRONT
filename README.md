@@ -440,7 +440,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <p><b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>Bosluqlar margin ve padding.</b></summary>
 <i><b>margin ve padding</b>. Margin xaricden bosluq paddiq ise daxilden bosluq demekdir.Margin ve Padding vermeyin bir nece yollari vardir ve asagidaki sekillerde onlar izah edilib.</i><br/>
-<p><img src="image\image1\css72.png"alt="sekil silinib" title="CSS code"/>
+<p><img src="image\image1\css72.jpeg"alt="sekil silinib" title="CSS code"/>
 <p><img src="image\image1\css71.png"alt="sekil silinib" title="CSS code"/></p>
 
 </details>
