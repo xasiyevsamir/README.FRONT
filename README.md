@@ -266,9 +266,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
 </p><br/>
-<i><b>transition-timing-function: ;--</b><strong>linear,ease, ease-in,ease-in-out, ease-out, steps-end, </strong><i><br/>
+<i><b>(transition-timing-function: ;)--</b><strong>linear,ease, ease-in,ease-in-out, ease-out, steps-end, </strong><i><br/>
 <p>
- <img src="image\image1\css69.png" width="250" height="200" alt="sekil silinib" title="html codu"/>
+ <img src="image\image1\css69.png"  alt="sekil silinib" title="html codu"/>
 </p>
 <strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
 <strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
