@@ -266,16 +266,21 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\css67.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice35.png" width="250" height="200" alt="sekil silinib" title="Netice"/><br/>
 </p><br/>
-<i><b>(transition-timing-function: ;)--</b><strong>linear,ease, ease-in,ease-in-out, ease-out, steps-end, </strong><i><br/>
+<i><b>(transition-timing-function: ;)--</b>ease, ease-in, ease-out,ease-in-out, linear, step-start,step-end,step(2,start)<i><br/>
+<a href="https://www.w3schools.com/cssref/tryit.php?filename=trycss3_transition-timing-function2">1.transition-timing-function:-numunelerine bax..</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function">2.transition-timing-function:-numunelerine bax.</a><br/>
 <p>
  <img src="image\image1\css69.png"  alt="sekil silinib" title="html codu"/>
 </p>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
-<strong>--linear </strong> <i>dedikde beraber suretli hereket bas verir.</i><br/>
+<strong>--linear </strong> <i>Dedikde beraber suretli hereket bas verir.</i><br/>
+<strong>--ease-in </strong> <i>Evvelce yavas daha sonra ise suretlenir.</i><br/>
+<strong>--ease-out </strong> <i>Evvelce surretli daha sonra yavasiyir.</i><br/>
+<strong>--ease-in-out </strong> <i>Evvelce az suretli daha sora suretli ve sonda yavasiyir.</i><br/>
+<strong>--ease </strong> <i>Bu ease-in-out ile eynidir lakin suret baximindan ferqleri vardir.</i><br/>
+<strong>--step-end </strong> <i>Bu ise verilen zamanin sonunda baslayir islemeye.</i><br/>
+<strong>--step-start </strong> <i>Bu ise start olunan zaman baslayir islemeye.</i><br/>
+<strong>--steps(3,end) </strong> <i>Bu ise 3 defeye bas verecekdir. Ve qeyd olunan zaman bitdikden sonra bas verecekdir</i><br/>
+<strong>--steps-(3,start) </strong> <i>Bu ise start olunan zaman baslayir islemeye.Ve 3 defeye bas verir.</i><br/>
 
 <b> Css-de data saxlamaq ucun qutunun yaradilmasi</b>.Bu :root adlanan tag-in komeyi ile yaradilir sonra ise lazim oldugu anda ondan isdifade ede bilmek olur.
 
