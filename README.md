@@ -464,6 +464,12 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352
 <p><img src="image\image1\css74.png"alt="sekil silinib" title="CSS code"/></p>
 
 </P>
+
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/79682ca1-5081-403c-8d71-f6d74921b02a
+
+
+
 </details>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
