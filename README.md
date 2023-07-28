@@ -470,10 +470,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/79682ca1-5081-403c
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/54d2382c-c434-4aa4-8548-79ef37d6a1be
 
 
-
-https://github.com/xasiyevsamir/README.FRONT/assets/125192688/e998e23e-043e-44cf-b2b4-dc3a3b2de0a7
-
-
 </details>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
