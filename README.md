@@ -461,6 +461,12 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352
 <i><b>--background-position;</b>--Arxa fona sekilini nece yerlesdirmek oldugunu teyin ede bilerik.</i><br/>
 <a href="https://www.w3schools.com/cssref/tryit.php?filename=trycss_background-position">1.background-position(yoxla)</a>
 </P>
+
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/79682ca1-5081-403c-8d71-f6d74921b02a
+
+
+
 </details>
 </details>
 
