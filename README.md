@@ -459,7 +459,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352
 <i><b>--background-repeat: repeat-y;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
 <i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini ne y oxu nede x oxu uzre tekirarlamaga icaze vermir.</i><br/>
 <i><b>--background-position;</b>--Arxa fona sekilini nece yerlesdirmek oldugunu teyin ede bilerik.</i><br/>
-<a herf="https://www.w3schools.com/cssref/tryit.php?filename=trycss_background-position">1.background-position(yoxla)</a><br>
+<a herf="https://www.w3schools.com/cssref/tryit.php?filename=trycss_background-position">1.background-position(yoxla)</a><br/>
 
 </details>
 </details>
