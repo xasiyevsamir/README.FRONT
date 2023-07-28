@@ -445,17 +445,17 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
 <p><img src="image\image1\css73.png"alt="sekil silinib" title="CSS code"/></p>
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
-     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/43839af9-5019-45d9-86c2-c011c53d759f
-     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/60083c23-51c0-49a8-87a9-01b5e577e7f5
-     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4205293c-e731-4573-b1bf-66d6e248cb97
- 
+     
 <i><b>--background-color:red---</b>Arxa fona reng vermek ucundur.</i><br/>
 <i><b>--background:red,background-image: url()---</b>Arxa fona reng,sekil ve s. vermek ucundur.</i><br/>
 <i><b>--background-image: url()</b>--Arxa fona sekil vermek ucundur.</i><br/>
 <i><b>--background-repeat: repeat-x;</b>--Arxa fona sekilini x oxu uzre tekirarla .</i><br/>
 <i><b>--background-repeat: repeat-y;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
 <i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
-
+     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/43839af9-5019-45d9-86c2-c011c53d759f
+     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/60083c23-51c0-49a8-87a9-01b5e577e7f5
+     https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4205293c-e731-4573-b1bf-66d6e248cb97
+ 
 </details>
 </details>
 
