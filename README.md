@@ -441,7 +441,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <i><b>margin ve padding</b>. Margin xaricden bosluq paddiq ise daxilden bosluq demekdir.Margin ve Padding vermeyin bir nece yollari vardir ve asagidaki sekillerde onlar izah edilib.</i><br/>
 <p><img src="image\image1\css72.jpeg"alt="sekil silinib" title="CSS code"/>
 <p><img src="image\image1\css71.png"alt="sekil silinib" title="CSS code"/></p>
-<i><b>Bloq element</b>.---bütöv sətri tutan elementlər bloq elementlər adlanirş.</i>
+<i><b>Bloq element</b>.---bütöv sətri tutan elementlər bloq elementlər adlanir.</i>
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
 <p><img src="image\image1\css73.png"alt="sekil silinib" title="CSS code"/></p>
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
@@ -465,7 +465,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352
 <i><b>--background-image: url()</b>--Arxa fona sekil vermek ucundur.</i><br/>
 <i><b>--background-repeat: repeat-x;</b>--Arxa fona sekilini x oxu uzre tekirarla .</i><br/>
 <i><b>--background-repeat: repeat-y;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
-<i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
+<i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini ne y oxu nede x  oxu uzre tekirarlamaga icaze vermir.</i><br/>
     
 </details>
 </details>
