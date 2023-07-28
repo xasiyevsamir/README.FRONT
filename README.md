@@ -446,27 +446,21 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/04a6e77f-9d59-4b8a
 <p><img src="image\image1\css73.png"alt="sekil silinib" title="CSS code"/></p>
 <i><b>Qeyd</b>:Border ve padding elementin olcusunu hemise deyisir.</i><br/>
 
-
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/4f3f34f7-15ef-4119-98bb-d48bacb5e15d
-
-
 
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/2a723dec-d1ef-49d5-b2ad-0f403f2faff9
 
-
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352-afeb-0a8927df4e4f
 
-
-     
 <i><b>--background-color:red---</b>Arxa fona reng vermek ucundur.</i><br/>
 <i><b>--background:red,background-image: url()---</b>Arxa fona reng,sekil ve s. vermek ucundur.</i><br/>
 <i><b>--background-image: url()</b>--Arxa fona sekil vermek ucundur.</i><br/>
 <i><b>--background-repeat: repeat-x;</b>--Arxa fona sekilini x oxu uzre tekirarla .</i><br/>
 <i><b>--background-repeat: repeat-y;</b>--Arxa fona sekilini y oxu uzre tekirarla .</i><br/>
-<i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini ne y oxu nede x  oxu uzre tekirarlamaga icaze vermir.</i><br/>
-    
+<i><b>--background-repeat: no-repeat;</b>--Arxa fona sekilini ne y oxu nede x oxu uzre tekirarlamaga icaze vermir.</i><br/>
+<i><b>--background-position;</b>--Arxa fona sekilini nece yerlesdirmek oldugunu teyin ede bilerik.</i><br/>
+<a herf="https://www.w3schools.com/cssref/tryit.php?filename=trycss_background-position">1.background-position(yoxla)</a><br>
+
 </details>
 </details>
 
