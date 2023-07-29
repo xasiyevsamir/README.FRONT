@@ -464,9 +464,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/1104548f-0d06-4352
 <p><img src="image\image1\css74.png"alt="sekil silinib" title="CSS code"/></p><br/>
 <i><b>--background-attachment: fixed;</b>--Asagidaki videodaki kimi effekt yaradir.</i><br/>
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/54d2382c-c434-4aa4-8548-79ef37d6a1be
 
+<a href="https://youtu.be/-Xl5O2LVSVw">1.background--Mutleq izle vidyolarin en effektivi.</a><br/>
 
 </details>
 </details>
