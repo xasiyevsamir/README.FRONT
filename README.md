@@ -468,6 +468,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/54d2382c-c434-4aa4
 
 <a href="https://youtu.be/-Xl5O2LVSVw">1.background--Mutleq izle vidyolarin en effektivi.</a><br/>
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99-a6a5-d8d2543374aa
+
+
 </details>
 </details>
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
