@@ -481,6 +481,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde-bdb4-7e6bde29e1f5
 
 
+
 <a herf="https://youtu.be/f_nlKrFl1eY">Float video izle.</a>
 </details>
 </details>
