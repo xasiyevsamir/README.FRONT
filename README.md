@@ -474,7 +474,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99
 <p><b>________________________________________________________________________________________________________________________</b>
 
 <details><summary><b>Elementin yan yana getirilmesi--Float:left,right.</b></summary>
-<i><b>Float:left,right.;</b>--Float left sol float right saga demekdir.Yeni iki elementin isqametini teyin ede bilerik.Bu esasen texlerde isdifade edilir asagidaki sekildeki kimi.Setri tutmaq qabiliyyeti itir ve teg uze cixir kimi davranir.</i><br/>
+<i><b>Float:left,right.;</b>--Float left sol float right saga demekdir.Yeni iki elementin isqametini teyin ede bilerik.Bu esasen texlerde isdifade edilir asagidaki sekildeki kimi.Setri tutmaq qabiliyyeti itir ve teg uze cixir kimi davranir.Burada clear:both ise bir elemente float verdikde diger element onu altina kecmesin diye verilir.</i><br/>
 <p><img src="image\image1\css75.png"alt="sekil silinib" title="CSS code"/></p><br/>
 
 </details>
