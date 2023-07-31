@@ -471,7 +471,11 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/54d2382c-c434-4aa4
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99-a6a5-d8d2543374aa
 
 </details>
+<details><summary><b>Elementin yan yana getirilmesi--Float:left,right.</b></summary>
+
 </details>
+</details>
+
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
 
 <p align="center">
