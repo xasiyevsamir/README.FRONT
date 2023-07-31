@@ -477,12 +477,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99
 <i><b>Float:left,right.;</b>--Float left sol float right saga demekdir.Yeni iki elementin isqametini teyin ede bilerik.Bu esasen texlerde isdifade edilir asagidaki sekildeki kimi.Setri tutmaq qabiliyyeti itir ve teg uze cixir kimi davranir.Burada clear:both ise bir elemente float verdikde diger element onu altina kecmesin diye verilir.</i><br/>
 <p><img src="image\image1\css75.png"alt="sekil silinib" title="CSS code"/></p><br/>
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde-bdb4-7e6bde29e1f5
 
+<a herf="https://www.youtube.com/watch?v=f_nlKrFl1eY">Float video izle.</a>
 
-
-<a herf="https://youtu.be/f_nlKrFl1eY">Float video izle.</a>
 </details>
 </details>
 
