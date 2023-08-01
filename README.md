@@ -488,6 +488,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde
 <p><img src="image\image1\css76.png"alt="sekil silinib" title="Display anlayis"/></p><br/>
 <b>Asagidaki video-dan display ozelliyine baxa bilersiz.</b>
 
+
+https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b-a784-b9968ce89acb
+
+
 </details>
 
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
