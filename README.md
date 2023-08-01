@@ -478,10 +478,16 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/99034018-ec31-4c99
 <p><img src="image\image1\css75.png"alt="sekil silinib" title="CSS code"/></p><br/>
 <a href="https://www.youtube.com/watch?v=f_nlKrFl1eY">1.Float video izle.</a><br/>
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde-bdb4-7e6bde29e1f5
 
 </details>
+<p><b>________________________________________________________________________________________________________________________</b>
+
+<details><summary><b>display:;---Anlayisi.</b></summary>
+<b><i>Display setri tutan yeni(blok-elementler) ve setri tutmuyan yeni (inline) ve setri tutmuyan amma width,margin,padding ve saire xususuyyetleri ozunde birlesdiren yeni (inline-blok) elementlerin bir birine cevrilmesidir.</i></b>
+<p><img src="image\image1\css76.png"alt="sekil silinib" title="Display anlayis"/></p><br/>
+<b>Asagidaki video-dan display ozelliyine baxa bilersiz.</b>
+
 </details>
 
 <b>------------------------------------------------------------------------------------------------------------------------------</b><br/>
