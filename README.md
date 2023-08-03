@@ -14,39 +14,39 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 <head> tagi aşağıdakı tipik elementlərdən ibarət ola bilər:
 
 1. <b>(title>Kontakhome title>)</b> burada biz sehvenin baslifini Kontakt-home qoyduq.Umumi yazilis  
-   <b>(head>title>Kontakhome title> head>)</b> beledir.
+   <b>(head>title>Kontakhome title> head>)</b> beledir.<br/>
 
-2. <b>meta</b> >>>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.
+2. <b>meta</b> >>>>> Veb səhifənin metatələrini təyin edir. Sorc axdaris yazila biler yeni acar sozler, səhifənin açıqlaması, autoru(muellif), dilə dair məlumatlar və brauzer tərəfindən oxunan digər məlumatlar kimi səhifə ilə bağlı təkmilləşdirici məlumatlar olacaq.<br/>
 
-3. <b>link rel="icon" href=""</b> >>>>bu tag-de head icerisinde yazilir lakin bu acilan anda baglanan tag-lardendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar <b>Relative (Menasi-qohum, yaxinliq)</b> ve ya <b>Absolute (Menasi ise tamamile)</b>. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.
+3. <b>link rel="icon" href=""</b> >>>>bu tag-de head icerisinde yazilir lakin bu acilan anda baglanan tag-lardendir.Burad rel="icon"--relin icon oldugunu ve href="" -ise iconun adresini bildirir.Sekillerin ve ya iconlarin adresini iki yolla yerlesdirmek olar <b>Relative (Menasi-qohum, yaxinliq)</b> ve ya <b>Absolute (Menasi ise tamamile)</b>. Relative yolu hal hazirda oldugun fayildaki sekli ve ya iconu yerlesdirmek ,Absalute ise seklin adresini tamami ile oldugu kimi yazmaliyiq.<br/>
 
-4. <b>script</b> >>>> JavaScript kodunun head tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.
+4. <b>script</b> >>>> JavaScript kodunun head tagına daxil edilməsinə kömək edir. Bu tag vasitəsilə brauzer tərəfindən işlənən skript kodları əlavə edilir.<br/>
 
-5. <b><style</b> >>>> İnternal CSS stilsətirlərinin head tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.
+5. <b><style</b> >>>> İnternal CSS stilsətirlərinin head tagına daxil edilməsinə imkan verir. Bu tag vasitəsilə veb səhifəsinə xüsusi stilsətirlər əlavə edilir.<br/>
 
-Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.
+Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin arxa planında işləyən məlumatları təmsil edərək səhifənin görünümünü və davranışını tənzimləyir.<br/>
 
 ---
 
 <b>(body)</b>
 
-0. <b>body</b> --> body tag-i ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body tag-inde yazilir. Mes: burada bis salam sozunu yazdiq.body tag-ininde icersinde de bir cox tag-lar var meselen bunlar asagidakilardir.
+0. <b>body</b> --> body tag-i ise sehveni govdesidir yeni sehvenin basliqlarindan basqa diger bir cox seyler body tag-inde yazilir. Mes: burada bis salam sozunu yazdiq.body tag-ininde icersinde de bir cox tag-lar var meselen bunlar asagidakilardir.<br/>
 
-1. <b>P</b> --> Paraqraf tag-idir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.
-2. <b>span</b> --> span ise butov bir setri tutmur ve yanasi gelir.
-3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu tag-larle ise basliqlari vere bilerik burada en boyuk tag- h1 ve en kiciyi ise h6 dir.
-4. <b>(div)</b>-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.
+1. <b>P</b> --> Paraqraf tag-idir.Bir paraqraf butov bir setri tutur ve buna gorede yanasi gelmirler.<br/>
+2. <b>span</b> --> span ise butov bir setri tutmur ve yanasi gelir.<br/>
+3. h1>/h1>, h2>/h2>, h3>/h3>, h4>/h4>, h5>/h5>, h6>h6> --> bu tag-larle ise basliqlari vere bilerik burada en boyuk tag- h1 ve en kiciyi ise h6 dir.<br/>
+4. <b>(div)</b>-->bir nece qrupun birlesmesi--> divde bir nece qrupun birlesmesini bir div kimi gosdere bilerik.<br/>
 5. <b>img src="" alt="sekilin adi fln" width=(seklin eni demekdir)"50% ve ya 50px" height=(seklin hundurluyu demekdir) title="(Kontak-Home)</b> -->bu img ile sekil yukleye bilerik burada <b>src</b> sekilin saxlandigi yer <b>alt</b> ise sekil haqqinda nese yaza bilerik. <b>img</b> olcusunu iki yolla vere bilerik birincisi tutdugu yerin 50% kimi ikinci ise pikseller ile.Olcunu vermek ucun bu (<b>width="")</b> ifadeden isdifade edilir. Dediyimiz kimi iki cur olcu vere bilerik. Faizle verdikde <b>(width="50%")</b> bele, pikselle verdikde ise <b>(width="50px")</b> kimi ifade edilir.Biz burada seklin hundurluyunu de artira bilerik lakin seklin effektliyi ite biler. Qeyd: Eger biz seklin eni ve hundurluyunu artirib azaldanda % ve px yazmasaq defult olaraq px(piksel qebul edir).
-   Buradda <b>(title="Kontak-Home)</b> bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. <b>(title)</b> atributu qulobaldir ve butun tag-larde isdifade ede bilerik.
-6. <b>u</b> bu tag- daxil etdiyimiz sozun altindan xet cekir.
-7. <b>i)</b> bu tag- ise yazdigimiz sozu italiq formada yeni eyri formada yazir.
-8. <b>em)</b> bu tag-de i tag-i ile eynidir lakin i tag-ine nisbeten daha moderindir.Yeni burazerde daha yaxsi basa dusur i tag-ine nisbeten.
-9. <b>s)</b> bu tag- ise sozun uzerinden xett cekir.
-10. <b>del)</b> bu tag-de s tag-i ile eynidir.
-11. <b>b)</b> bu tag- sozu daha qalin yazdirir.
-12. <b>strong)</b> bu tag-de b tag-i ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b tag-ine nisbeten.
-13. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.
-14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.
+   Buradda <b>(title="Kontak-Home)</b> bu atribut ise seklin uzerine getdikde kontak-home sozunu cixardir. <b>(title)</b> atributu qulobaldir ve butun tag-larde isdifade ede bilerik.<br/>
+6. <b>u</b> bu tag- daxil etdiyimiz sozun altindan xet cekir.<br/>
+7. <b>i)</b> bu tag- ise yazdigimiz sozu italiq formada yeni eyri formada yazir.<br/>
+8. <b>em)</b> bu tag-de i tag-i ile eynidir lakin i tag-ine nisbeten daha moderindir.Yeni burazerde daha yaxsi basa dusur i tag-ine nisbeten.<br/>
+9. <b>s)</b> bu tag- ise sozun uzerinden xett cekir.<br/>
+10. <b>del)</b> bu tag-de s tag-i ile eynidir.<br/>
+11. <b>b)</b> bu tag- sozu daha qalin yazdirir.<br/>
+12. <b>strong)</b> bu tag-de b tag-i ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b tag-ine nisbeten.<br/>
+13. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.<br/>
+14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.<br/>
 
 ---
 
@@ -54,14 +54,14 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9
 
 # </b>(KECIDLER)</b>
 
-<b>Qeyd:)</b> Kecidler iki cur olur seyfe daxili ve seyfe xarici . Seyfe daxili kecidler hal-hazirda oldugun seyfenin her hansi bir noqtesine gedise deyilir Mes: 100 setrlik melumatin 20 setrine gedis. Seyfe daxili kecidler ise basqa seyfelere yonlendirmekdi meselen kilik etdikde isdagrama ,watsaba, ve eyni seyfenin daxilinde basqa bir seyfeye kecid adlanir.
-<b>(Qeyd:)</b> Kecit etmek ucun <b>(a tag-inden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))</b> .Ve Acilib baglanan tag-dir.
+<b>Qeyd:)</b> Kecidler iki cur olur seyfe daxili ve seyfe xarici . Seyfe daxili kecidler hal-hazirda oldugun seyfenin her hansi bir noqtesine gedise deyilir Mes: 100 setrlik melumatin 20 setrine gedis. Seyfe daxili kecidler ise basqa seyfelere yonlendirmekdi meselen kilik etdikde isdagrama ,watsaba, ve eyni seyfenin daxilinde basqa bir seyfeye kecid adlanir.<br/>
+<b>(Qeyd:)</b> Kecit etmek ucun <b>(a tag-inden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))</b> .Ve Acilib baglanan tag-dir.<br/>
 
 1. <b>a href="#">Kecid et<a vv>)</b> burada a tag-ini yazmisiq yeni xarici kecid <b>href)</b> bos olduqda reslef edir yeni seyfeni yeniliyir #
-   yazdiqda seyfe daxilinda dayanir ve her hanfdssi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada <b>target)</b> atributu var ki biz a tag-ine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq \_self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. <b> a)</b> tag-i ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.
-2. <b>a href="tel:+994516687023">Zeng eta)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>tel:)</b> acar sozdur.
-3. <b>a href="mailto:samirakh@code.edu.az">gmail ile elaqe saxla a)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>mailto:)</b> acar sozdur.
-4. <b>a href="../Sekil/download.png" download> neyise yuklemek ucun dowload </a>)</b> bu kodla ise nelerise yukluye bilerik.
+   yazdiqda seyfe daxilinda dayanir ve her hanfdssi sayitin linkini yazdiqda ise klik ederken hemin sehveye kecid edir.Burada <b>target)</b> atributu var ki biz a tag-ine klik etdikde ozunde ve ya yeni sehvede acir target defult olaraq \_self-dir yeni target="\_self" bele yazdiqda yeni sehveni ozunde acir. target ozunun acar sozleri var meselen target="\_blank" etsek yeni sehvede acacaq . # varsa bu seyfe daxili kecitdir. <b> a)</b> tag-i ile telefon ve ya mail de yonlendirmek olar bu zaman ise asagidakilari yazmaq lazimdir.<br/>
+2. <b>a href="tel:+994516687023">Zeng eta)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>tel:)</b> acar sozdur.<br/>
+3. <b>a href="mailto:samirakh@code.edu.az">gmail ile elaqe saxla a)</b> bu cur yazilisdan isdifade etmek olar. Burada <b>mailto:)</b> acar sozdur.<br/>
+4. <b>a href="../Sekil/download.png" download> neyise yuklemek ucun dowload </a>)</b> bu kodla ise nelerise yukluye bilerik.<br/>
 
 ---
 
@@ -69,43 +69,43 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 
 # <b>(Listler)</b>
 
-1. Listler iki cur olur. Sirali ve sirasiz.Sirasiz listler ucun ferq etmir birinci ile axrincinin yerini deyissek.Lakin sirali lislerde ise tam eksidir onlarda birinci gelen birinci axrinci gelen ise axrinci olmalidir ve sirali reqemler a-z ve ya A-Z siralanir ve rum reqemleri ilede siralana biler.
-2. <b>ul> ul>)</b> bu sirasiz listleri yazmaq ucundur ve icersinde li-lerden isdifade edilir ve eger li-lerinde ul-lari olarsa li-lerin icersinde yazilir. <b>ul type="disc", type="cricle", type="Square" ,type="none")</b> tayplarri var ve burada (disc ici dilu dayre) , (cricle ise ici bos cevredir) , (Square ise ici dolu kvadiratdir), (none ise hec bir cevre ve ya kvadirat gorunmesin.)
+1. Listler iki cur olur. Sirali ve sirasiz.Sirasiz listler ucun ferq etmir birinci ile axrincinin yerini deyissek.Lakin sirali lislerde ise tam eksidir onlarda birinci gelen birinci axrinci gelen ise axrinci olmalidir ve sirali reqemler a-z ve ya A-Z siralanir ve rum reqemleri ilede siralana biler.<br/>
+2. <b>ul> ul>)</b> bu sirasiz listleri yazmaq ucundur ve icersinde li-lerden isdifade edilir ve eger li-lerinde ul-lari olarsa li-lerin icersinde yazilir. <b>ul type="disc", type="cricle", type="Square" ,type="none")</b> tayplarri var ve burada (disc ici dilu dayre) , (cricle ise ici bos cevredir) , (Square ise ici dolu kvadiratdir), (none ise hec bir cevre ve ya kvadirat gorunmesin.)<br/>
 
-3. <b>ol type="1" start="12"> ol>)</b> bu ise sirali listler ucundur ve bunlarinda terkibinde li-ler olmalidir ve eger li-lerinde ol-lari olarsa li-lerin icersinde yazilir. <b>ol)</b> listininde taypi var A-Z,a-z,reqem kimi ve rum reqemi kimi.Burada start neceden baslasin demekdir.
-4. <b>li> li>)</b> bu ise hem sirali hemde sirasiz lislerin yazilmasinda esas amillerden biridir yeni lisleri temin edr .
+3. <b>ol type="1" start="12"> ol>)</b> bu ise sirali listler ucundur ve bunlarinda terkibinde li-ler olmalidir ve eger li-lerinde ol-lari olarsa li-lerin icersinde yazilir. <b>ol)</b> listininde taypi var A-Z,a-z,reqem kimi ve rum reqemi kimi.Burada start neceden baslasin demekdir.<br/>
+4. <b>li> li>)</b> bu ise hem sirali hemde sirasiz lislerin yazilmasinda esas amillerden biridir yeni lisleri temin edr .<br/>
 
 ---
 
 # <b>Tables-cedveller)</b>
 
-1. <b>caption)</b> cedvelin basligini yazmaq ucundur.
-2. <b>table border="1")</b> tebillar setrlerden ibaret olur setrlerde sutunlardan ibaret olur. Burada border kanarliq demekdir ve 1 daxil etdikde 1 px cercive duzeldir.
-3. <b>tr)</b> bu setrler ucundu .
-4. <b>td)</b> bu ise sutunlar ucundur .Bu zaman demek olarki (table-nin icersinde tr ve tr-nin icinde td-ler yerlesir). Setirlerin icinde sutunlar yerlesir.
-   <b>Qeyd:)</b> Biz cedveller yaradanda esas 3 emeliyyati apaririq bunlar asagidakilardir.
-5. <b>thead)</b> bu code ile biz cedvelimizde ad soyad v s. ne olacaqsa onlari qeyd edirik .Bunun icerisindede tr yeni setrler ve sutunlar td ile deyil th ile qeyd edilir.
-6. <b>tbody)</b> bu ise cedvelin govde hissesini yaziriq.
+1. <b>caption)</b> cedvelin basligini yazmaq ucundur.<br/>
+2. <b>table border="1")</b> tebillar setrlerden ibaret olur setrlerde sutunlardan ibaret olur. Burada border kanarliq demekdir ve 1 daxil etdikde 1 px cercive duzeldir.<br/>
+3. <b>tr)</b> bu setrler ucundu .<br/>
+4. <b>td)</b> bu ise sutunlar ucundur .Bu zaman demek olarki (table-nin icersinde tr ve tr-nin icinde td-ler yerlesir). Setirlerin icinde sutunlar yerlesir.<br/>
+   <b>Qeyd:)</b> Biz cedveller yaradanda esas 3 emeliyyati apaririq bunlar asagidakilardir.<br/>
+5. <b>thead)</b> bu code ile biz cedvelimizde ad soyad v s. ne olacaqsa onlari qeyd edirik .Bunun icerisindede tr yeni setrler ve sutunlar td ile deyil th ile qeyd edilir.<br/>
+6. <b>tbody)</b> bu ise cedvelin govde hissesini yaziriq.<br/>
 7. <b>tfoot)</b> bu ise cedvelin yekunda bir qiymeti olarsa onu qeyd edirik,yeni toplami ve ya ortalamasi ve s.
-8. <b>colspan)</b> bu kodla biz isdenilen sutunlari birlesdire bilerik.
+8. <b>colspan)</b> bu kodla biz isdenilen sutunlari birlesdire bilerik.<br/>
 9. <b>align="center")</b> bu kod ile ise biz isdenilen cedveldeki sozu sentire getre bilerik.
-10. <b>rowspan)</b> bu kod ise setrleri birlesdirmek ucundur.
-11. b>bgcolor)</b> cedvelin arxa fonunu deyismek ucun isdifade edilir.
+10. <b>rowspan)</b> bu kod ise setrleri birlesdirmek ucundur.<br/>
+11. b>bgcolor)</b> cedvelin arxa fonunu deyismek ucun isdifade edilir.<br/>
 
 ---
 
 <b>(Formlar)</b>
 
-1. <b>form)</b> bu forum her hansi bir datani icine yazmagimizi teskil edir.
-2. <b>input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"), button)</b> form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (<b>submit</b>-- hazir olan melumati gondermek ucun olan bir duymedir.), (<b>password</b>--ise password daxil etmek ucundur.), (<b>number</b>- ise yalniz reqem tipli datalar yazmaq ucundur.), (<b>color</b>- ise reng secimini etmek olar.) , (<b>date</b>-tarixi secmek ucun isdifade edilir), (<b>time</b>-saati secmek ucun isdifade edilir), (<b>datetime</b>-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(<b>week</b>-yalniz hefdeni secmek ucundur), (<b>month</b>- yalniz aylari secmek ucundur.), (<b>checkbox</b>--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada <b>radio</b> ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (<b>file</b> --ise sekil elave etmek ucundur.) (<b>search</b>--axdaris ucun isdifade edilir.) (<b>range</b>- bu ise azalib artma oxudur.), (<b>image</b> --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (<b>reset</b>--doldurulan formu sifirlamaq ucundur.) (<b>hidden</b>-- isdifadecin id gizletmek ucundur), (<b>button</b> da submit ile eynidir yeni her hansi duymedir ve bunlar forumda bas veren hadiseleri bazaya ve ya basqa yere gondermek ucundur.) .Adi butondan ferqlidirler adi button forumun daxilinde deyil basqa kenar hisselerede olur. <b>button>Gonder/button></b> kimi yazilir.
-3. <b>label)</b> inputun basligini yazmaq ucundur mes:Ad, Soyad.
-4. <b>textarea)</b> boyuk metin yazmaq ucundur.
-5. <b>select)</b> secimleri saxlamaq ucundur her bir secim option-da saxlanilir.Yeni selectlerin icinde option yazilir option icinde ise optgroup yazilir.
-6. <b>option)</b> 1 secim saxlamaq ucundur.
-7. <b>optgroup lable=seher qrupu ve ya axsam qrupu)</b> opsinlarin icerisinde ferqlendirmek ucundur.
-8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.
+1. <b>form)</b> bu forum her hansi bir datani icine yazmagimizi teskil edir.<br/>
+2. <b>input type="text,email, tel,submit,password,number, color,date,time,datetime-local,week,month,checkbox", file, search, range, image,reset,hidden,(type="radio" name="s"), button)</b> form-un icerisinde inputlar olur.input-un tayiplari vardir ve isdifade etmek ucun qarsisinda yazdigimiz kimi yazmaliyiq. Burada (<b>submit</b>-- hazir olan melumati gondermek ucun olan bir duymedir.), (<b>password</b>--ise password daxil etmek ucundur.), (<b>number</b>- ise yalniz reqem tipli datalar yazmaq ucundur.), (<b>color</b>- ise reng secimini etmek olar.) , (<b>date</b>-tarixi secmek ucun isdifade edilir), (<b>time</b>-saati secmek ucun isdifade edilir), (<b>datetime</b>-local- bu ise hem tarixi hemde vaxi eyni anda secmeye imkan verir.) ,(<b>week</b>-yalniz hefdeni secmek ucundur), (<b>month</b>- yalniz aylari secmek ucundur.), (<b>checkbox</b>--secim etmek ucun isarele ve ya isareleme duymesi cixardir ekrana.) Burada <b>radio</b> ve name o zaman yazilirki iki secim olsun ve onlardan yalniz birini secmek imkanimiz olsun.O zaman iki secimede name verilir yalniz eyni name verilir. (<b>file</b> --ise sekil elave etmek ucundur.) (<b>search</b>--axdaris ucun isdifade edilir.) (<b>range</b>- bu ise azalib artma oxudur.), (<b>image</b> --bu ise submit ile eynidir yalniz tek ferqi gonder yerine sekil iconu qoya bilerik.) (<b>reset</b>--doldurulan formu sifirlamaq ucundur.) (<b>hidden</b>-- isdifadecin id gizletmek ucundur), (<b>button</b> da submit ile eynidir yeni her hansi duymedir ve bunlar forumda bas veren hadiseleri bazaya ve ya basqa yere gondermek ucundur.) .Adi butondan ferqlidirler adi button forumun daxilinde deyil basqa kenar hisselerede olur. <b>button>Gonder/button></b> kimi yazilir.<br/>
+3. <b>label)</b> inputun basligini yazmaq ucundur mes:Ad, Soyad.<br/>
+4. <b>textarea)</b> boyuk metin yazmaq ucundur.<br/>
+5. <b>select)</b> secimleri saxlamaq ucundur her bir secim option-da saxlanilir.Yeni selectlerin icinde option yazilir option icinde ise optgroup yazilir.<br/>
+6. <b>option)</b> 1 secim saxlamaq ucundur.<br/>
+7. <b>optgroup lable=seher qrupu ve ya axsam qrupu)</b> opsinlarin icerisinde ferqlendirmek ucundur.<br/>
+8. <b>input type="text" list=nese , (datalist id=nese))</b> ve burda datalis tag-inin icersinde <b>option)</b> olmalidir. Qeyd: burada inputun list ile datalistin id eyni olmalidir yeni ikisindede nese sozu olmalidir. Burada tag-larin birlikde yazilisi digerlerinden olan ferq hem secim ede hemde secimde olmuyan bir seyi yazib gondere bilerik.<br/>
 
-<b>(Atributlar)</b> 9. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri. 10. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur. 11. <b>disabled</b> --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir. 12. <b>readonly</b> --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz. 13. <b>selected</b> --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir. 14. <b>maxlength</b> --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik. 15. <b>minlength</b> --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik. 16. <b>required</b> --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir. 17. <b>autofocus</b> --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek. 18. <b>input type=number</b> olduqda onum <b>max</b> ve <b>min</b> <b>step=10</b> qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq. 19. <b>input type=date</b> olduqda <b>max=23-05-26 min=2023-6-01</b> burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin. 20. <b>input type=checkbox</b> olduqda <b>checked</b> atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder. 21. <b>input type=file</b> olduqda 1 fail secmek ucundur ama <b>multiple</b> atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve <b>accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"</b> yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa <b>input type=file multiple accept="image/png,image/jpeg"</b> sece bilerik.Qeyd: Eger biz <b>video</b> yuklesek onda <b>image</b> yerine <b>video</b> yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur. 22. <b>input type=range</b> de min ve max var. 23. <b>form autocomplete="on ve ya off"</b> bu atribu ise <b>on</b> olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq <b>on</b>-dur,ekis halda ise off etmek lazimdir. 24. <b>form action="link ve yaxud id"</b>-- bu atribut ise forma gonder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
+<b>(Atributlar)</b> 9. <b>value</b> -Daxil etdiyimiz her bir data value adlanir isder forumlar olsun isdersede digerleri.<br/> 10. <b>placeholder</b>--(Menasi-yer tutucu).Bu atribut ise arxa fonda emailinizi ve s. daxil edin kimi yazini cixartmaq ucundur.<br/> 11. <b>disabled</b> --(Menasi - yazmaq deaktiv edilib).Bu ise her hansi datani yazmaga icaze vermemek ucun isdifade edilir.<br/> 12. <b>readonly</b> --(Menasi - yalniz oxumaq ucun).Bu atributun disabled ile ferqi odurki disabled hec bir ise yaramir demekdir readonly ise yalniz oxuya bilersiz.<br/> 13. <b>selected</b> --(Menasi -Secilmis demekdir).Bu atribut defolt olaraq yeni ilk olaraq bu secilmis olsun demekdir.<br/> 14. <b>maxlength</b> --(Menasi -maxsium nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik.<br/> 15. <b>minlength</b> --(Menasi -minumum nece herif ve ya reqem). bu atribut ile oz isdeyimize uygun uzunluq qoya bilerik. <br/>16. <b>required</b> --(Menasi-- mutleq teleb olunur).Bu atribut ozaman yazilirki isdifadeci hemin datani mutleq gondermelidir. <br/>17. <b>autofocus</b> --(Menasi --diqqet celb eden).Bu Atribut sehveye refres verende hara autofoks yazmisiqsa ora diqqet yoneldecek.<br/> 18. <b>input type=number</b> olduqda onum <b>max</b> ve <b>min</b> <b>step=10</b> qiymetleri olur yeni yasa gore yazsaq max=150, min=1 kimi yaza bilerik, burda step ise min qiymetden 10 -10 artiracaq yada azaldacaq.<br/> 19. <b>input type=date</b> olduqda <b>max=23-05-26 min=2023-6-01</b> burada biz tarixe limit qoya bilerik yeni burda 2023 ilin 5ci ayin 26-dan 6ci ay 1e kimi gosderilsin.<br/> 20. <b>input type=checkbox</b> olduqda <b>checked</b> atributunu yazdiqda secimlerden hansina yazmisiqsa o daimi olaraq secili gosderecek biz deyisene qeder.<br/> 21. <b>input type=file</b> olduqda 1 fail secmek ucundur ama <b>multiple</b> atributunu yazdiqda ise necedene olsa o qederini sece bilerik ve <b>accept="(image/_,(video/_)),(image/png),(image/jpeg),(image/gif),"</b> yazdiqda ise sirf sekilleri secmek ucundur.Burdada sekillerin novlerini sece bilerik bu yolla .Bize hem png ve jpeg lazim olsa <b>input type=file multiple accept="image/png,image/jpeg"</b> sece bilerik.Qeyd: Eger biz <b>video</b> yuklesek onda <b>image</b> yerine <b>video</b> yazmaliyiq.Burada /\* seklin sadalanan fayil tipini ve videonun bir nece fayil tipi varsa onu sece bilmek ucundur. <br/>22. <b>input type=range</b> de min ve max var.<br/> 23. <b>form autocomplete="on ve ya off"</b> bu atribu ise <b>on</b> olduqda indiye qeder daxil etdiyimiz melumatlar bize gosderilir burazer defolt olaraq <b>on</b>-dur,ekis halda ise off etmek lazimdir.<br/> 24. <b>form action="link ve yaxud id"</b>-- bu atribut ise forma gonder etdikde gonderme ugurlu olarasa basqa sehve ve ya nese acilsin link kimi bir seydir.
 
 ---
 
@@ -113,36 +113,36 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/5428dca2-3417-4c1b
 
 <b>iframe</b>
 
-1. <b>iframe src="" frameborder="0" iframe</b> -- iframe dedikde her hansi bir sehveni oz sehvemizde acmaq ucun isdifade edilir.Burada <b>src</b> -e yerlesdirmek isdediyimiz sehvenin <b>url</b> -i yazmaliyiq.
-2. <b>frameborder="1"</b> --bu ise kenarliq teyin etmek ucundur.
+1. <b>iframe src="" frameborder="0" iframe</b> -- iframe dedikde her hansi bir sehveni oz sehvemizde acmaq ucun isdifade edilir.Burada <b>src</b> -e yerlesdirmek isdediyimiz sehvenin <b>url</b> -i yazmaliyiq.<br/>
+2. <b>frameborder="1"</b> --bu ise kenarliq teyin etmek ucundur.<br/>
 
 ---
 
 <b>audio ve video</b>
 
-1. <b>audio (controls, autoplay, loop, muted,) >source src=""> audio></b>- bu tag- ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde <b>source</b> tag-i olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.<b>controls</b> bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir. <b>autoplay</b> ise vebe daxil olan kimi musiqi seslenir.<b>loop</b> ise sonsuz seslenmesi ucundur .<b>muted</b> bu atribut ise defolt olaraq ses olmasini bildirir.
-2. <b>video (controls autoplay, loop, muted, poster)="", >source src="" > video</b> --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi <b>poster</b> atributudur.<b>poster</b> atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.
+1. <b>audio (controls, autoplay, loop, muted,) >source src=""> audio></b>- bu tag- ile biz oz computerimizdeki mahnini yerlesdire bilerik.Her audio icersinde <b>source</b> tag-i olur ve audio-nun yolunu gosderir. source ozu 1 mahni yolu demekdir .Bir audio icersinde bir nece source ola biler amma onlardan yalniz ilk olan oxunacaqdir.<br/><b>controls</b> bu atribut olmasa audio elave edilir lakin vebde gorunmur ona gorede controls yazmaq mutleqdir.<br/> <b>autoplay</b> ise vebe daxil olan kimi musiqi seslenir.<b>loop</b> ise sonsuz seslenmesi ucundur .<b>muted</b> bu atribut ise defolt olaraq ses olmasini bildirir.<br/>
+2. <b>video (controls autoplay, loop, muted, poster)="", >source src="" > video</b> --Video elave etmek ucunde eyni ile mahni elave etmek kimidir amma bir ferqi <b>poster</b> atributudur.<b>poster</b> atributu video-nun uzerine her hansi bir sekli qoymaq ucundur.<br/>
 
 ---
 
-<b>Sehivenin bolunusu</b>
+<b>Sehivenin bolunusu</b><br/>
 
-<b>QEYD:</b> Sehve 3 yere bolunur <b>header</b>, <b>aside</b>, <b>main</b>, <b>footer</b>.
+<b>QEYD:</b> Sehve 3 yere bolunur <b>header</b>, <b>aside</b>, <b>main</b>, <b>footer</b>.<br/>
 
-1. <b>header</b> -tag-inin icersinde <b>nav</b> tag-lari ve kecid ucun <b>a</b> tag-larinden isdifade olunur.
-2. <b>aside</b> -tag-inin icersinde iframe yazila biler cunki <b>main</b> sehvesinden elave bir yer tutur ve buna misal olaraq oxu.az sayitindaki narin reklamini misal gosdere bilerik.
-3. <b>main</b> -tag-inin icersinde <b>article</b>, <b>figure</b>, <b>p</b> ve <b>section</b> tag-lari isdifade olunur burada section tag-i evvelki div-i evez edir.
-4. <b>section</b> -tag-inin icerisindede cox vax bu <b>article</b> tag-i yazilir.
-5. <b>article</b> -tag-inin icerisinde ise <b>figure</b>, <b>p</b> tag-i ve s.yazilir.
-6. <b>figure</b> -tag-inin icerisinde <b>img</b> tag-i ve sekil haqqinda melumat ucun <b>figcaption</b>tag-i yazilir.
-7. <b>footer</b> - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.
+1. <b>header</b> -tag-inin icersinde <b>nav</b> tag-lari ve kecid ucun <b>a</b> tag-larinden isdifade olunur.<br/>
+2. <b>aside</b> -tag-inin icersinde iframe yazila biler cunki <b>main</b> sehvesinden elave bir yer tutur ve buna misal olaraq oxu.az sayitindaki narin reklamini misal gosdere bilerik.<br/>
+3. <b>main</b> -tag-inin icersinde <b>article</b>, <b>figure</b>, <b>p</b> ve <b>section</b> tag-lari isdifade olunur burada section tag-i evvelki div-i evez edir.<br/>
+4. <b>section</b> -tag-inin icerisindede cox vax bu <b>article</b> tag-i yazilir.<br/>
+5. <b>article</b> -tag-inin icerisinde ise <b>figure</b>, <b>p</b> tag-i ve s.yazilir.<br/>
+6. <b>figure</b> -tag-inin icerisinde <b>img</b> tag-i ve sekil haqqinda melumat ucun <b>figcaption</b>tag-i yazilir.<br/>
+7. <b>footer</b> - ise sehven en asagi hissesidir yeni orda elave melumatlar ve muellif huquqlari qorunur fln yazilir.<br/>
 
-<b>(Bezi acar simvollar)</b>
+<b>(Bezi acar simvollar)</b><br/>
 
-1. ./ --> Hal-hazirda oldugumuz qovlugu bildirir.
-2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.
-3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.
-4. Prettier Code--codu formata salir.Yuklemek ucundur.
+1. ./ --> Hal-hazirda oldugumuz qovlugu bildirir.<br/>
+2. ../ --> Bir qovluq cole cixmaq ucun isdifade edilir.<br/>
+3. br-- break sozunun qisalisidi qirmaq yeni metni ,text qirir.<br/>
+4. Prettier Code--codu formata salir.Yuklemek ucundur.<br/>
 </details>
 <b>-------------------------------------------------------------------------------------------------------------------------</b>
 
@@ -488,9 +488,11 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde
 <p><img src="image\image1\css76.png"alt="sekil silinib" title="Display anlayis"/></p><br/>
 <b>Asagidaki video-dan display ozelliyine baxa bilersiz.</b>
 
-
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b-a784-b9968ce89acb
 
+</details>
+<p><b>________________________________________________________________________________________________________________________</b>
+<details><summary><b>salam.</b></summary>
 
 </details>
 
