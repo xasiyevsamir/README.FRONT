@@ -48,7 +48,7 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 13. <b>hr)</b> bu teq ise text cekmek ucundur .Yeni butov setri tutur ve xet cekir.<br/>
 14. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.<br/>
 15. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.<br/>
-16. <b> <marquee behavior="scroll" scrollamount="10" direction="left">Reklaminiz <marquee></b> .Bu teq asagidaki sekilde izah edilib.<br/>
+16. <b>marquee</b> .Bu teq asagidaki sekilde izah edilib.<br/>
 14. <img src="image\image1\css77.png" alt="silinib" ><br/>
 
 ---
