@@ -45,8 +45,9 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 10. <b>del)</b> bu tag-de s tag-i ile eynidir.<br/>
 11. <b>b)</b> bu tag- sozu daha qalin yazdirir.<br/>
 12. <b>strong)</b> bu tag-de b tag-i ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b tag-ine nisbeten.<br/>
-13. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.<br/>
-14. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.<br/>
+13. <b>hr)</b> bu teq ise text cekmek ucundur .Yeni butov setri tutur ve xet cekir.
+14. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.<br/>
+15. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.<br/>
 
 ---
 
@@ -247,7 +248,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ec4dbc42-2b12-4fdc
  <img src="image\image1\css13.png" width="250" height="200" alt="sekil silinib" title="CSS codu"/>
  <img src="image\image1\netice114.png" width="250" height="200" alt="sekil silinib" title="Netice"/>
 </p><br/></details>
-<b>________________________________________________________________________________________________________________________</b>
+<b>________________________________________________________________________________________________________________________</b> 
 <details><summary><b>:hover ve :active transition.</b></summary>
 <b>(:hover) edende uzerine geldikde rengi deyisib olur qirmizi</b>.Asagidaki coda uygun olaraq.
 <p>
