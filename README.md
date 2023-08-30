@@ -45,15 +45,17 @@ Bu elementlər head tagında bir arada istifadə edilə bilər və səhifənin a
 10. <b>del)</b> bu tag-de s tag-i ile eynidir.<br/>
 11. <b>b)</b> bu tag- sozu daha qalin yazdirir.<br/>
 12. <b>strong)</b> bu tag-de b tag-i ile eynidir.Daha bir usdunluyu bu soz daha quvvetli acar soz kimi basa dusur.Yeni burazerde daha yaxsi basa dusur b tag-ine nisbeten.<br/>
-13. <b>hr)</b> bu teq ise text cekmek ucundur .Yeni butov setri tutur ve xet cekir.
+13. <b>hr)</b> bu teq ise text cekmek ucundur .Yeni butov setri tutur ve xet cekir.<br/>
 14. <b>details</b> -bu tag- ile biz en cox verilen suallara cavab bolmesini yaza bilerik ve <b>summary</b> tag-i ile isleyir yeni 1ci sual yazmaq isdesek <b>summary sual1 summary</b> yazmaliyiq.<br/>
 15. <b>address</b> - bu tag- ilede biz adresimizi yaza bilerik ve footer tag-inin icinde address ve onun icindede a tag-ini yaza bilerik.<br/>
+16. <b> <marquee behavior="scroll" scrollamount="10" direction="left">Reklaminiz <marquee></b> .Bu teq asagidaki sekilde izah edilib.<br/>
+14. <img src="image\image1\css77.png" alt="silinib" ><br/>
 
 ---
 
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/16b46b38-c84e-49c9-9cef-a6f03336bd28
 
-# </b>(KECIDLER)</b>
+# </br>(KECIDLER)</b>
 
 <b>Qeyd:)</b> Kecidler iki cur olur seyfe daxili ve seyfe xarici . Seyfe daxili kecidler hal-hazirda oldugun seyfenin her hansi bir noqtesine gedise deyilir Mes: 100 setrlik melumatin 20 setrine gedis. Seyfe daxili kecidler ise basqa seyfelere yonlendirmekdi meselen kilik etdikde isdagrama ,watsaba, ve eyni seyfenin daxilinde basqa bir seyfeye kecid adlanir.<br/>
 <b>(Qeyd:)</b> Kecit etmek ucun <b>(a tag-inden isdifade olunur ve (anchor lovber sozunden gotrulmusdur))</b> .Ve Acilib baglanan tag-dir.<br/>
