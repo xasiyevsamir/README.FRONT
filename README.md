@@ -504,6 +504,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css81.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css82.png"alt="sekil silinib" title="Display anlayis"/>
 </p><br/>
+<i><b>Display:flex kodlarina asagidaki linkden baxa bilersiz.</b></i><br/>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" >Linke kecid edin!</a>
 
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
