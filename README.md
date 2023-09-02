@@ -512,6 +512,16 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css84.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <i>Asagidaki sekile baxsaq gorerik ki elementler artib ancaq novbeti setire dusmeyib.</i>
 <img src="image\image1\css85.png"alt="sekil silinib" title="Display anlayis"/>
+<i><b>flex-wrap:wrap;</b>--yazdiqda ise asagidaki kimi elementler yene oz olcusunu tutur ve novbeti setire kecid edir.</i>
+<img src="image\image1\css86.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css87.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<i>Bir usdeki sekilde gorunduyu kimi <b>flex-wrap:</b>--keyleri vardi.</i><br/>
+ <b>1.nowrap</b>--<i>olduqda defolt olur yeni teq cox olsada yeni setre dusmur</i><br/>
+<img src="image\image1\css85.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>2.wrap</b>--<i>ise element oz olcusunu tutur ve lazim olduqda novbeti setre dusur.</i><br/>
+<img src="image\image1\css86.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>3.wrap-reverse</b>--<i>olduqda ise axrinci setr en usde qalxir.</i><br/>
+<img src="image\image1\css88.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p><br/>
 
 </details>
