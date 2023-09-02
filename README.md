@@ -498,6 +498,13 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde
 
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b-a784-b9968ce89acb
 
+<p>
+<b>outline: 1px solid red; outline-offset: 20px;</b>.<i>Bu kod ile biz her hansi bir elemente kenardan border vere bilerik,lakin duzgun deyil cunki sonra elementin width ve height  duzgun hesabliya bilmiyeceyik .</i>
+<img src="image\image1\css80.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css81.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css82.png"alt="sekil silinib" title="Display anlayis"/>
+</p><br/>
+
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
 <details><summary><b>salam.</b></summary>
