@@ -77,7 +77,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/ed8af3b5-5b29-4e82
 
 3. <b>ol type="1" start="12"> reversed ol>)</b> bu ise sirali listler ucundur ve bunlarinda terkibinde li-ler olmalidir ve eger li-lerinde ol-lari olarsa li-lerin icersinde yazilir. <b>ol)</b> listininde taypi var A-Z,a-z,reqem kimi ve rum reqemi kimi.Burada start neceden baslasin demekdir.<br/>
 4. <b>li> li>)</b> bu ise hem sirali hemde sirasiz lislerin yazilmasinda esas amillerden biridir yeni lisleri temin edr .<br/>
-<b>reversed</b>--yazdiqda ise geriye saymaga baslayir yeni 3,2,1.
+   <b>reversed</b>--yazdiqda ise geriye saymaga baslayir yeni 3,2,1.
+
 ---
 
 # <b>Tables-cedveller)</b>
@@ -522,6 +523,17 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css86.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <b>3.wrap-reverse</b>--<i>olduqda ise axrinci setr en usde qalxir.</i><br/>
 <img src="image\image1\css88.png"alt="sekil silinib" title="Display anlayis"/><br/>
+</p><br/>
+<i><b>flex-direction:</b>.Bu kod sütun üzre ve setr uzre düz və tərs düzlüşü vardir.--aşağıdakı keyleri vardi.</i><br/>
+<img src="image\image1\css89.png"alt="sekil silinib" title="Display anlayis"/><br/>
+ <b>1.column</b>--<i>olduqda sutun uzre duzur ardicil olaraq.</i><br/>
+<img src="image\image1\css90.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>2.column-reverse</b>--<i>ise sutunu tersine yeni sonuncudan basliyaraq duzur.</i><br/>
+<img src="image\image1\css91.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>3.row</b>--<i>defolt olaraq setr uzre duzur ve novbeti setre kecmir eger flex-wrap:wrap yazmasaq.</i><br/>
+<img src="image\image1\css92.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>3.row-reverse</b>--<i>setri sonuncu elementden baslayir duzmeye.</i><br/>
+<img src="image\image1\css93.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p><br/>
 
 </details>
