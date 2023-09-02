@@ -505,7 +505,14 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css82.png"alt="sekil silinib" title="Display anlayis"/>
 </p><br/>
 <i><b>Display:flex kodlarina asagidaki linkden baxa bilersiz.</b></i><br/>
-<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Linke kecid edin!</a>
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Linke kecid edin!</a><br/>
+<b>Display:flex</b>---<i>dedikde setri tutan ve setri tutmayan təqlər sətri tutma xüsusiyyətini itrir və iline-blok elementə cevrilir ve bir birinin ardinca duzulur lakin novbeti setre kecmir ve width-i butun teqler arasinda bolur teqlerin width-i kicilir lakin novbeti setre kecmir.Novbeti setre kecmesi ucun <b>flex-wrap:wrap;</b> kodunundan isdifade edilir.</i><br/>
+<p>
+<img src="image\image1\css83.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css84.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<i>Asagidaki sekile baxsaq gorerik ki elementler artib ancaq novbeti setire dusmeyib.</i>
+<img src="image\image1\css85.png"alt="sekil silinib" title="Display anlayis"/>
+</p><br/>
 
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
