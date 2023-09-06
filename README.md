@@ -538,10 +538,15 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <p>
 <i><b>justify-content:</b>.Bu kod elementin harda yerlesmesini bildirir ve asagidaki value-leri vardir.</i><br/>
 <img src="image\image1\css94.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>  justify-content:flex-start;</b>--defolt olaraq bu koddur yeni soldan baslatmaq elementi.
+<img src="image\image1\css97.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css98.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <b>justify-content:center</b>--bu kod ile biz elementi merkeze getire bilerik.
 <img src="image\image1\css95.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css96.png"alt="sekil silinib" title="Display anlayis"/><br/>
-
+<b>justify-content:flex-end;</b>--bu kod ile ise biz elementi sagdan baslada bilerik.
+<img src="image\image1\css99.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css100.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
 
 </details>
