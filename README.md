@@ -535,6 +535,14 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <b>3.row-reverse</b>--<i>setri sonuncu elementden baslayir duzmeye.</i><br/>
 <img src="image\image1\css93.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p><br/>
+<p>
+<i><b>justify-content:</b>.Bu kod elementin harda yerlesmesini bildirir ve asagidaki value-leri vardir.</i><br/>
+<img src="image\image1\css94.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>justify-content:center</b>--bu kod ile biz elementi merkeze getire bilerik.
+<img src="image\image1\css95.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css96.png"alt="sekil silinib" title="Display anlayis"/><br/>
+
+</p>
 
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
