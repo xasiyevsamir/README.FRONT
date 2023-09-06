@@ -556,6 +556,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <b>justify-content:space-evenly;</b>--bu kod ile biz elementler arasinda eyni px bosluqlar vere bilerik.Burada call(100%/3-30px) o demekdir her elementin width den 30px cix ve onu posluq kimi ver. sekilde tam olaraq izah edilib.
 <img src="image\image1\css105.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css106.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>column-gap: 20px;</b>--bu kod ile biz elemente isdediyimiz olcude mesafe vere bilerik .Burada call(100%/3-40px\3) o demekdir ki 40px/3 e ne qeder qalirsa width den o qederini cix.Sekilden gorunduyu kimi 2 bosluq var hereside 20px ve umumilikde biz bu 40px/3 width den cixmaliyiq ki tam setre sigsin element.3 e ona gore boluruk ki 3 elementimiz var ve her element 40px/3 neticesini oz width den cixmalidir. sekilde tam olaraq izah edilib.
+<img src="image\image1\css107.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css108.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
 
 </details>
