@@ -550,7 +550,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <b>justify-content: space-between;</b>--bu kod ile biz elementler arasinda bosluqlar vere bilerik.Burada call(100%/3-10px) o demekdir ki  her elementin width den 10 px cix ve o pikselleri bosluq ucun isdifade et.
 <img src="image\image1\css101.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css102.png"alt="sekil silinib" title="Display anlayis"/><br/>
-
+<b>justify-content:space-around;</b>--bu kod ile biz elementler arasinda bosluqlar vere bilerik.Burada call(100%/3-30px) o demekdir her elementin width den 30px cix buradada 3 element vardir. sekilde tam olaraq izah edilib.
+<img src="image\image1\css103.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css104.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
 
 </details>
