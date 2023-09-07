@@ -565,8 +565,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css111.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css112.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <b>align-items:center;</b>--bu kod ile biz elementleri ortaya getire bilerik.
-<img src="image\image1\css110.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css117.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css110.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <b>align-items:flex-end;</b>--bu kod ile biz elementleri asagidan baslada bilerik.
 <img src="image\image1\css113.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css114.png"alt="sekil silinib" title="Display anlayis"/><br/>
