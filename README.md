@@ -559,7 +559,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <b>column-gap: 20px;</b>--bu kod ile biz elemente isdediyimiz olcude mesafe vere bilerik .Burada call(100%/3-40px\3) o demekdir ki 40px/3 e ne qeder qalirsa width den o qederini cix.Sekilden gorunduyu kimi 2 bosluq var hereside 20px ve umumilikde biz bu 40px/3 width den cixmaliyiq ki tam setre sigsin element.3 e ona gore boluruk ki 3 elementimiz var ve her element 40px/3 neticesini oz width den cixmalidir. sekilde tam olaraq izah edilib.
 <img src="image\image1\css107.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css108.png"alt="sekil silinib" title="Display anlayis"/><br/>
-<b>align-items:;</b>--bu kod ile biz y oxu uzre bosluq vere bilerik yeni yuxaridan asagiya dogru ve ya asagidan yuxariya dogru.
+<b>align-items:;</b>--bu kod ile biz y oxu uzre bosluq vere bilerik yeni yuxaridan asagiya dogru ve ya asagidan yuxariya dogru.Yalniz bir setr olarsa isdifade etmek olar.
 <img src="image\image1\css109.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <b>align-items:flex-start;</b>--defolt olaraq bu koddur yeni yuxaridan baslayir.
 <img src="image\image1\css111.png"alt="sekil silinib" title="Display anlayis"/><br/>
@@ -574,9 +574,16 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <img src="image\image1\css115.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css116.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
+<b>align-content:center;</b>--bu kod ile biz y oxu uzre bosluq vere bilerik yeni yuxaridan asagiya dogru ve ya asagidan yuxariya dogru.Bir nece setr olduqda isdifade etmek olar neyinki bir setr olanda.
+<p>
+<img src="image\image1\css118.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css119.png"alt="sekil silinib" title="Display anlayis"/><br/>
+</p>
+
 
 </details>
-<p><b>________________________________________________________________________________________________________________________</b>
+<p>
+<b>_____________________________________________________________________________________________________________</b>
 <details><summary><b>salam.</b></summary>
 
 </details>
