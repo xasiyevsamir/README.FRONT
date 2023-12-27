@@ -492,7 +492,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b53715d6-8e53-4dde
 </details>
 <p><b>________________________________________________________________________________________________________________________</b>
 
-<details><summary><b>display:;---Anlayisi.</b></summary>
+<details><summary><b>display:flex;---Anlayisi.</b></summary>
 <b><i>Display setri tutan yeni(blok-elementler) ve setri tutmuyan yeni (inline) ve setri tutmuyan amma width,margin,padding ve saire xususuyyetleri ozunde birlesdiren yeni (inline-blok) elementlerin bir birine cevrilmesidir.</i></b>
 <p><img src="image\image1\css76.png"alt="sekil silinib" title="Display anlayis"/></p><br/>
 <b>Asagidaki video-dan display ozelliyine baxa bilersiz.</b>
@@ -578,6 +578,24 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <p>
 <img src="image\image1\css118.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css119.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>align-content:flex-start;</b>--defoult qiymeti budur yeni en basdan baslasin.
+<img src="image\image1\css120.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css121.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>align-content:flex-end;</b>--sondan  baslasin.
+<img src="image\image1\css122.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css123.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>align-content:space-between;</b>--1ci setri yuxari ikinci setri ise asagi ortanida bos saxlamaq ucundur.
+<img src="image\image1\css122.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css123.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>align-content:space-around;</b>--yuxari ve asagi x qeder ortaya ise 2x qeder bosluq verir. 
+<img src="image\image1\css126.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css127.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>align-content:space-evenly;</b>--her terefine x qeder mesafe verir.
+<img src="image\image1\css128.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css129.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>row-gap: 50px;</b>--column-gap oldugu kimi row-gap da var ve sutunlar arasi mesafeni vermek ucundur.
+<img src="image\image1\css130.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<img src="image\image1\css131.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
 
 
