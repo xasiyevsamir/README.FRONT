@@ -3,9 +3,9 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 <br/><br/>
 
-[![Audio](https://img.icons8.com/color/96/speaker.png)](https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7)
+https://drive.google.com/file/d/1JynglcdgIo2xcviMUIkPGOZFNniAHCsx/view?usp=drive_link
 
-
+https://drive.google.com/file/d/1JynglcdgIo2xcviMUIkPGOZFNniAHCsx/view?usp=sharing
 
 <p align="center">   
 <b >(Html5)</b>
