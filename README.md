@@ -5,7 +5,6 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 <audio controls>
   <source src="./audio/download.wav" type="audio/mpeg">
-  Sənin browserin audio oxuya bilmir.
 </audio>
 
 
