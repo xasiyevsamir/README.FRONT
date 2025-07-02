@@ -1,5 +1,12 @@
 https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7
 
+
+<audio controls>
+  <source src="./audio/download.wav" type="audio/mpeg">
+  Sənin browserin audio oxuya bilmir.
+</audio>
+
+
 <p align="center">   
 <b >(Html5)</b>
 </p>
@@ -596,6 +603,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/b6758617-faa5-4f4b
 <b>row-gap: 50px;</b>--column-gap oldugu kimi row-gap da var ve sutunlar arasi mesafeni vermek ucundur.
 <img src="image\image1\css130.png"alt="sekil silinib" title="Display anlayis"/><br/>
 <img src="image\image1\css131.png"alt="sekil silinib" title="Display anlayis"/><br/>
+<b>flex-basis: 300px;</b>--flex-basis dedikde width -i ve ya height ezir yeni flex-direction: row; olduqda flex-basis width-i ezir flex-direction: column; olduqda ise height-i ezir ve flex-basis e ne verilibse o olur..
+<img src="image\image1\css132.png"alt="sekil silinib" title="Display anlayis"/><br/>
 </p>
 
 
