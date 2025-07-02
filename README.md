@@ -2,10 +2,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 
 <br/><br/>
-
-https://drive.google.com/file/d/1JynglcdgIo2xcviMUIkPGOZFNniAHCsx/view?usp=drive_link
-
-https://drive.google.com/file/d/1JynglcdgIo2xcviMUIkPGOZFNniAHCsx/view?usp=sharing
+[Audio Faylını Dinlə](https://drive.google.com/file/d/1JynglcdgIo2xcviMUIkPGOZFNniAHCsx/view?usp=drive_link)
 
 <p align="center">   
 <b >(Html5)</b>
