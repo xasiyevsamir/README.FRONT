@@ -3,9 +3,8 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 <br/><br/>
 
-<audio controls >
-  <source src="./audio/download.wav" type="audio/mpeg">
-</audio>
+[![Audio](https://img.icons8.com/color/96/speaker.png)](https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22-8996-2f0f8b291ea7)
+
 
 
 <p align="center">   
