@@ -6,6 +6,10 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 
 
+https://github.com/user-attachments/assets/a2284f85-c34b-4e3b-8aad-e9b29786cca4
+
+
+
 
 <p align="center">   
 <b >(Html5)</b>
