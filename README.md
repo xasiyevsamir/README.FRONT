@@ -3,6 +3,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 
 <br/><br/>
 
+<div>
 
 <audio controls>
   <source src="./audio/download.wav" type="audio/wav">
@@ -10,7 +11,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 </audio>
 
 
-
+</div>
 
 <p align="center">   
 <b >(Html5)</b>
