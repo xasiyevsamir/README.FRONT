@@ -4,14 +4,7 @@ https://github.com/xasiyevsamir/README.FRONT/assets/125192688/a1943d37-6dc6-4f22
 <br/><br/>
 
 
-<audio controls>
-  <source src="./audio/download.mp4">
-</audio>
 
-
-
-
-🔗 [Audio Faylını Dinlə](./audio/download.mp4)
 
 
 <p align="center">   
